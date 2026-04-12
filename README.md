@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C145%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C147%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C142%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .fan one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,145 rows · **Live catalog:** 9,142 domains
+**Public extract:** 9,147 rows · **Live catalog:** 9,142 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/fan`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FAN one-word domain c
 
 ### Files
 
-- `fan.csv` — public CSV extract (9,145 rows)
-- `fan.json` — public JSON extract (9,145 rows)
+- `fan.csv` — public CSV extract (9,147 rows)
+- `fan.json` — public JSON extract (9,147 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -76,13 +76,13 @@ print(df.head())
 | content.fan   | available | $11.99    | $71.99        | 138            | 39     | 7      | name.com                                     |
 | book.fan      | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC                             |
 | business.fan  | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                    |
-| conscious.fan | available | $11.99    | $71.99        | 89             | 38     | 9      | name.com                                     |
+| forward.fan   | available | $11.99    | $71.99        | 68             | 39     | 7      | name.com                                     |
 | jesus.fan     | resell    | —         | —             | 126            | 52     | 5      | 101domain GRS Limited                        |
 | athletics.fan | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                    |
-| unify.fan     | available | $11.99    | $71.99        | 72             | 38     | 5      | name.com                                     |
+| conscious.fan | available | $11.99    | $71.99        | 89             | 38     | 9      | name.com                                     |
 | love.fan      | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC                             |
 | design.fan    | premium   | $250      | $250          | 108            | 50     | 6      | name.com                                     |
-| forward.fan   | available | $11.99    | $71.99        | 68             | 38     | 7      | name.com                                     |
+| unify.fan     | available | $11.99    | $71.99        | 72             | 38     | 5      | name.com                                     |
 | soul.fan      | resell    | —         | —             | 104            | 47     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,145-row public sample | 9,142 live domains                               |
+| 9,147-row public sample | 9,142 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
