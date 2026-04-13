@@ -71,7 +71,7 @@ print(df.head())
 | pay.fan       | resell    | —         | —             | 84             | 60     | 3      | Sav.com, LLC                                 |
 | sex.fan       | premium   | $1,000    | —             | 80             | 59     | 3      | name.com                                     |
 | unity.fan     | available | $11.99    | $71.99        | 70             | 40     | 5      | name.com                                     |
-| free.fan      | resell    | —         | —             | 88             | 59     | 4      | Porkbun LLC                                  |
+| free.fan      | resell    | —         | —             | 88             | 57     | 4      | Porkbun LLC                                  |
 | good.fan      | premium   | $123.75   | $123.75       | 82             | 55     | 4      | name.com                                     |
 | content.fan   | available | $11.99    | $71.99        | 138            | 39     | 7      | name.com                                     |
 | book.fan      | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC                             |
@@ -81,7 +81,7 @@ print(df.head())
 | athletics.fan | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                    |
 | conscious.fan | available | $11.99    | $71.99        | 89             | 38     | 9      | name.com                                     |
 | love.fan      | resell    | —         | —             | 86             | 51     | 4      | GoDaddy.com, LLC                             |
-| design.fan    | premium   | $250      | $250          | 108            | 50     | 6      | name.com                                     |
+| simple.fan    | premium   | $250      | $250          | 128            | 49     | 6      | name.com                                     |
 | unify.fan     | available | $11.99    | $71.99        | 72             | 38     | 5      | name.com                                     |
 | soul.fan      | resell    | —         | —             | 104            | 47     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
