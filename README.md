@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .fan one-word domains from Unique 
 
 **Public extract:** 9,147 rows · **Live catalog:** 9,147 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/fan`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | jesus.fan     | resell    | —         | —             | 126            | 52     | 5      | 101domain GRS Limited                        |
 | athletics.fan | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                    |
 | conscious.fan | available | $11.99    | $71.99        | 89             | 38     | 9      | name.com                                     |
-| love.fan      | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC                             |
+| love.fan      | resell    | —         | —             | 86             | 51     | 4      | GoDaddy.com, LLC                             |
 | design.fan    | premium   | $250      | $250          | 108            | 50     | 6      | name.com                                     |
 | unify.fan     | available | $11.99    | $71.99        | 72             | 38     | 5      | name.com                                     |
 | soul.fan      | resell    | —         | —             | 104            | 47     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
