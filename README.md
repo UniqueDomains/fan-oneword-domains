@@ -1,22 +1,22 @@
-# Available .FAN One-Word Domains (9,147)
+# Available .FAN One-Word Domains (11,491)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C147%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C147%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C491%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .fan one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .fan one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,491 domains** on the canonical page below.
 
-**Public extract:** 9,147 rows · **Live catalog:** 9,147 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,491 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/fan`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FAN one-word domain c
 
 ### Files
 
-- `fan.csv` — public CSV extract (9,147 rows)
-- `fan.json` — public JSON extract (9,147 rows)
+- `fan.csv` — public CSV extract (1,000 rows)
+- `fan.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| strategy.fan  | available | $68.98    | —             | 74             | 43     | 8      | namecheap                                    |
-| prompt.fan    | resell    | $5,748.85 | $71.99        | 114            | 68     | 6      | Sav.com, LLC - 23                            |
-| property.fan  | premium   | $128.70   | $128.70       | 90             | 99     | 8      | namecheap                                    |
-| quick.fan     | available | $11.99    | $71.99        | 72             | 41     | 5      | name.com                                     |
-| pay.fan       | resell    | —         | —             | 84             | 60     | 3      | Sav.com, LLC                                 |
-| sex.fan       | premium   | $1,000    | —             | 80             | 59     | 3      | name.com                                     |
-| unity.fan     | available | $11.99    | $71.99        | 70             | 40     | 5      | name.com                                     |
-| free.fan      | resell    | —         | —             | 88             | 57     | 4      | Porkbun LLC                                  |
-| good.fan      | premium   | $123.75   | $123.75       | 82             | 55     | 4      | name.com                                     |
-| content.fan   | available | $11.99    | $71.99        | 138            | 39     | 7      | name.com                                     |
-| book.fan      | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC                             |
-| business.fan  | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                    |
-| forward.fan   | available | $11.99    | $71.99        | 68             | 39     | 7      | name.com                                     |
-| jesus.fan     | resell    | —         | —             | 126            | 52     | 5      | 101domain GRS Limited                        |
-| athletics.fan | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                    |
-| conscious.fan | available | $11.99    | $71.99        | 89             | 38     | 9      | name.com                                     |
-| love.fan      | resell    | —         | —             | 86             | 51     | 4      | GoDaddy.com, LLC                             |
-| simple.fan    | premium   | $250      | $250          | 128            | 49     | 6      | name.com                                     |
-| unify.fan     | available | $11.99    | $71.99        | 72             | 38     | 5      | name.com                                     |
-| soul.fan      | resell    | —         | —             | 104            | 47     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| shortcuts.fan | available | $11.99    | —             | 48             | 41     | 10     | name.com            |
+| aliens.fan    | resell    | —         | —             | 56             | 35     | 6      | DNSPod, Inc.        |
+| virtual.fan   | premium   | $250      | —             | 80             | 42     | 7      | name.com            |
+| lets.fan      | available | $11.99    | —             | 77             | 39     | 4      | name.com            |
+| Tools.fan     | premium   | $280      | $280          | 56             | 40     | 5      | namecheap           |
+| stories.fan   | available | $11.99    | —             | 58             | 36     | 7      | name.com            |
+| events.fan    | premium   | $123.75   | —             | 68             | 37     | 6      | name.com            |
+| spectra.fan   | available | $11.99    | —             | 62             | 34     | 7      | name.com            |
+| etc.fan       | premium   | $1,000    | —             | 58             | 34     | 3      | name.com            |
+| heroes.fan    | available | $11.99    | —             | 68             | 29     | 6      | name.com            |
+| Cats.fan      | premium   | $280      | $280          | 59             | 33     | 4      | namecheap           |
+| backyard.fan  | available | $11.99    | —             | 80             | 27     | 9      | name.com            |
+| partners.fan  | premium   | $123.75   | —             | 61             | 32     | 8      | name.com            |
+| bees.fan      | available | $11.99    | —             | 54             | 27     | 4      | name.com            |
+| SanDiego.fan  | premium   | $250      | —             | 74             | 29     | 9      | name.com            |
+| trades.fan    | available | $11.99    | —             | 71             | 26     | 6      | name.com            |
+| dogs.fan      | premium   | $123.75   | —             | 76             | 28     | 4      | name.com            |
+| chem.fan      | available | $11.99    | —             | 74             | 24     | 4      | name.com            |
+| brands.fan    | premium   | $3,552.32 | —             | 62             | 28     | 6      | united-domains GmbH |
+| echoes.fan    | available | $11.99    | —             | 56             | 24     | 6      | name.com            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,147-row public sample | 9,147 live domains                               |
+| 1,000-row public sample | 11,491 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
