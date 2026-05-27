@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fan one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,073 domains · **Median ask:** $34.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/fan`  
 **Best for:** founders, investors, studios
 
@@ -67,11 +67,11 @@ print(df.head())
 | shortcuts.fan   | available | $11.99    | —             | 48             | 41     | 10     | name.com  |
 | events.fan      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
 | lets.fan        | available | $11.99    | —             | 77             | 39     | 4      | name.com  |
-| etc.fan         | premium   | $1,000    | —             | 58             | 34     | 3      | name.com  |
-| stories.fan     | available | $11.99    | —             | 58             | 36     | 7      | name.com  |
 | Cats.fan        | premium   | $280      | $280          | 59             | 33     | 4      | namecheap |
+| stories.fan     | available | $11.99    | —             | 58             | 36     | 7      | name.com  |
+| etc.fan         | premium   | $1,000    | —             | 58             | 32     | 3      | name.com  |
 | spectra.fan     | available | $11.99    | —             | 62             | 34     | 7      | name.com  |
-| partners.fan    | premium   | $123.75   | —             | 61             | 32     | 8      | name.com  |
+| partners.fan    | premium   | $123.75   | —             | 61             | 31     | 8      | name.com  |
 | heroes.fan      | available | $11.99    | —             | 68             | 29     | 6      | name.com  |
 | dogs.fan        | premium   | $123.75   | —             | 76             | 28     | 4      | name.com  |
 | bees.fan        | available | $11.99    | —             | 54             | 27     | 4      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
