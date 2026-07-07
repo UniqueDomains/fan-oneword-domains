@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .fan one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,073 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,073 domains · **Median ask:** $34.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,073 domains · **Median ask:** $29.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/fan`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/fan`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FAN one-word domain c
 
 ### Files
 
-- `fan.csv` — public CSV extract (1,000 rows)
-- `fan.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `fan.csv`, public CSV extract (1,000 rows)
+- `fan.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| shortcuts.fan   | available | $11.99    | —             | 48             | 41     | 10     | name.com  |
-| events.fan      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
-| lets.fan        | available | $11.99    | —             | 77             | 39     | 4      | name.com  |
-| Cats.fan        | premium   | $280      | $280          | 59             | 33     | 4      | namecheap |
-| stories.fan     | available | $11.99    | —             | 58             | 36     | 7      | name.com  |
-| etc.fan         | premium   | $1,000    | —             | 58             | 32     | 3      | name.com  |
-| spectra.fan     | available | $11.99    | —             | 62             | 34     | 7      | name.com  |
-| partners.fan    | premium   | $123.75   | —             | 61             | 31     | 8      | name.com  |
-| heroes.fan      | available | $11.99    | —             | 68             | 29     | 6      | name.com  |
-| dogs.fan        | premium   | $123.75   | —             | 76             | 28     | 4      | name.com  |
-| bees.fan        | available | $11.99    | —             | 54             | 27     | 4      | name.com  |
-| photos.fan      | premium   | $123.75   | —             | 54             | 28     | 6      | name.com  |
-| trades.fan      | available | $11.99    | —             | 71             | 26     | 6      | name.com  |
-| loans.fan       | premium   | $82.50    | —             | 58             | 24     | 5      | name.com  |
-| chem.fan        | available | $11.99    | —             | 74             | 24     | 4      | name.com  |
-| girls.fan       | premium   | $123.75   | —             | 83             | 23     | 5      | name.com  |
-| echoes.fan      | available | $11.99    | —             | 56             | 24     | 6      | name.com  |
-| VHS.fan         | premium   | $138.60   | $138.60       | 71             | 20     | 3      | namecheap |
-| rekt.fan        | available | $11.99    | —             | 40             | 24     | 4      | name.com  |
-| landscaping.fan | premium   | $123.75   | —             | 80             | 16     | 11     | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| ane.fan     | available | $11.99    | $71.99        | low            | low    | 3      | name.com                                            |
+| cell.fan    | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| aaa.fan     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                           |
+| BJP.fan     | available | $11.99    | —             | medium         | low    | 3      | name.com                                            |
+| have.fan    | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| atp.fan     | premium   | $82.50    | —             | medium         | low    | 3      | name.com                                            |
+| but.fan     | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
+| icon.fan    | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                          |
+| bar.fan     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                            |
+| cot.fan     | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
+| like.fan    | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| bid.fan     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                            |
+| Eid.fan     | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
+| concert.fan | resell    | —         | —             | high           | low    | 7      | Porkbun LLC                                         |
+| bro.fan     | premium   | $123.75   | —             | medium         | low    | 3      | name.com                                            |
+| feb.fan     | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
+| journey.fan | resell    | —         | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| eve.fan     | premium   | $123.75   | —             | high           | medium | 3      | name.com                                            |
+| hic.fan     | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
+| machine.fan | resell    | —         | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely .fan domains, a niche extension that signals fandom, audience identity, and community focus immediately. The set is broad, with examples like nationalanthem.fan, fascinate.fan, choose.fan, video.fan, poll.fan, and green.fan. For founders, the main question is whether the keyword feels natural with .fan and stays easy to remember. For investors, the key is whether the term has clear end-user relevance in sports, entertainment, creators, media, or communities. With a median ask of 34.25, many of these domains sit in a low entry range, but extension fit matters more here than raw keyword quality alone.
+This set gathers one-word .fan domain names built from common vocabulary — holidays, foods, hobbies, and everyday phrases — rather than invented or trademark-heavy terms. With over 12,000 options and a median asking price near $29, the selection leans toward accessible, low-cost names rather than premium or scarce inventory. For anyone comparing fan-oriented naming options, the value here sits in word clarity and topical fit rather than rarity or resale history.
 
-- All names in this selection use the .fan extension
-- Median ask is 34.25 across 12,069 domains
-- Best fit is fan, creator, media, or community use
-- Check whether the keyword feels natural with .fan
+- Median asking price near $29 across this .fan selection
+- 12,000+ one-word .fan domains covering everyday vocabulary
+- Short, generic words suited to fan communities and hobby brands
+- Low-cost entry point for testing brandable .fan names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
