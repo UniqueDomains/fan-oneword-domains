@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fan one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,017 domains · **Median ask:** $38.26 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/fan`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| own.fan       | available | —         | —             | high           | low    | 3      | —                                                   |
 | ane.fan       | available | $11.99    | $71.99        | low            | low    | 3      | name.com                                            |
 | cell.fan      | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | aaa.fan       | premium   | $128.70   | $128.70       | medium         | medium | 3      | namecheap                                           |
 | aug.fan       | available | $11.99    | $71.99        | low            | low    | 3      | name.com                                            |
-| have.fan      | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| icon.fan      | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                          |
 | atp.fan       | premium   | $82.50    | —             | medium         | low    | 3      | name.com                                            |
 | bjp.fan       | available | $11.99    | —             | medium         | low    | 3      | name.com                                            |
-| icon.fan      | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                          |
+| like.fan      | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                        |
 | bar.fan       | premium   | $123.75   | —             | high           | low    | 3      | name.com                                            |
 | but.fan       | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
-| like.fan      | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                        |
+| journey.fan   | resell    | —         | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | bid.fan       | premium   | $123.75   | —             | high           | low    | 3      | name.com                                            |
 | cot.fan       | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
-| journey.fan   | resell    | —         | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| machine.fan   | resell    | —         | —             | medium         | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | bro.fan       | premium   | $123.75   | —             | medium         | low    | 3      | name.com                                            |
 | eid.fan       | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
-| machine.fan   | resell    | —         | —             | medium         | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| developer.fan | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                                         |
 | eve.fan       | premium   | $123.75   | —             | high           | medium | 3      | name.com                                            |
 | feb.fan       | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
-| developer.fan | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
