@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-36004003-0dbf-4098-af78-cdcfff6d4124,antepenult.fan,available,11.99,71.99,low,low,10,name.com,,,
-8be6e4e9-9802-40d5-a825-65c2ab8529f1,compound.fan,available,57.98,68.98,medium,low,8,namecheap,,,23/09/2026 17:56
-6e8a1e4e-62b6-4363-8b78-a985c4cf8d31,intrepid.fan,available,57.98,68.98,medium,low,8,namecheap,,,22/09/2026 12:24
-a7c9a729-45da-42ef-b380-4a165cfb6641,notions.fan,available,11.99,,low,low,7,name.com,,,
-2c901b5c-7d5c-4c98-af06-8932edbf1de3,thinktoomuch.fan,available,11.99,,low,low,14,name.com,,,
-1bfdee23-396a-499f-926c-a4ad07509c78,steel.fan,available,11.99,,medium,low,5,name.com,,,
-d0988ee0-7f19-4135-b763-bd2c58a796a1,winback.fan,available,11.99,,medium,low,8,name.com,,,
-c2050df6-7e2b-41be-87ee-984b78914ec3,wheezing.fan,available,11.99,71.99,low,low,8,name.com,,,07/08/2026 09:25
-a0502827-c85c-445d-b627-c935b70f3fc0,fresh.fan,premium,260,260,medium,low,5,namecheap,,,23/09/2026 01:54
+a7c9a729-45da-42ef-b380-4a165cfb6641,notions.fan,available,11.99,,medium,low,7,name.com,,,
+1bfdee23-396a-499f-926c-a4ad07509c78,steel.fan,available,11.99,,high,low,5,name.com,,,
+c2050df6-7e2b-41be-87ee-984b78914ec3,wheezing.fan,available,11.99,71.99,medium,low,8,name.com,,,07/08/2026 09:25
 ffd580fc-bae4-40e0-aebe-bdc85c4ce21f,duracell.fan,available,11.99,,high,low,8,name.com,,,
-aa1d36f7-e774-4ec7-9c54-4ceb47bd2c6e,attractive.fan,available,57.98,68.98,medium,low,10,namecheap,,,22/09/2026 11:44
-9a1822da-d054-43cd-9204-4e626a736d66,material.fan,available,57.98,68.98,medium,low,8,namecheap,,,23/09/2026 23:27
-47746a4e-fefc-485f-9ef5-54170cee5e99,azotemic.fan,available,57.98,68.98,low,low,8,namecheap,,,08/09/2026 15:21
-6d7c1141-d2a0-44f1-ace3-8c63536191ff,letterofintent.fan,available,11.99,,high,low,16,name.com,,,
-35e67bf0-18ca-4592-8214-affa964f2a96,beechen.fan,available,11.99,71.99,low,low,7,name.com,,,09/08/2026 07:39
-b57a023f-1df5-4da7-b757-397e8bc5def0,suit.fan,available,11.99,,high,low,4,name.com,,,
-9999ec5a-5b49-4d1d-ba28-ac9aff925725,spacious.fan,available,11.99,,medium,low,8,name.com,,,
+9999ec5a-5b49-4d1d-ba28-ac9aff925725,spacious.fan,available,11.99,,high,low,8,name.com,,,
 1aaa0615-e611-47ea-9048-7401041af327,kicking.fan,available,11.99,,high,low,7,name.com,,,
 024d3b02-fb7d-4e32-94b4-ea5f287b195f,journey.fan,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",25/01/2025 15:15,25/01/2027 15:15,
 22ff95df-5651-430f-af96-b0840d009860,redo.fan,available,11.99,,high,low,4,name.com,,,
-90b41e7a-309a-40f0-b42f-5313b0bead5b,playonwords.fan,available,11.99,,low,low,13,name.com,,,
-a33a4133-6a42-4a8a-8059-6d9e09b86967,avuncular.fan,available,11.99,71.99,low,low,9,name.com,,,07/08/2026 23:51
-152de2c8-a474-4016-a78a-c1e5c5d51466,middleeastern.fan,available,11.99,,medium,low,14,name.com,,,
-94157312-fbdb-48d9-83a6-658d4533122a,whereabouts.fan,available,11.99,,low,low,11,name.com,,,
-460abaa1-7932-40f9-bc10-8813bb9ac51e,athousand.fan,available,11.99,,medium,low,10,name.com,,,
-32e867bd-b07f-4260-a970-13cb9490a517,kooky.fan,available,11.99,71.99,low,low,5,name.com,,,06/08/2026 21:04
-2ef6cb05-d57a-439c-821b-d12244ab4c32,effort.fan,available,57.98,68.98,medium,low,6,namecheap,,,23/09/2026 07:47
-bab8cc25-8445-4ae4-b28b-4d26d9c88a16,sportsday.fan,available,11.99,,high,low,10,name.com,,,
-a0f19b09-14fa-4e7f-ab76-f10c0bb1790e,gee.fan,premium,123.75,,medium,low,3,name.com,,,
-c90c68b7-99b1-4bb4-9f4a-c9efcf46ff43,grandprix.fan,available,,,high,low,10,,,,
-66f5db14-55e2-4a1a-87fd-93a7700a3e6c,angered.fan,available,11.99,71.99,low,low,7,name.com,,,
-0d89e6f1-601d-4edd-8df0-cb2bbf93ef81,sesameoil.fan,available,11.99,,medium,low,10,name.com,,,
+a33a4133-6a42-4a8a-8059-6d9e09b86967,avuncular.fan,available,11.99,71.99,medium,low,9,name.com,,,07/08/2026 23:51
+94157312-fbdb-48d9-83a6-658d4533122a,whereabouts.fan,available,11.99,,high,low,11,name.com,,,
+32e867bd-b07f-4260-a970-13cb9490a517,kooky.fan,available,11.99,71.99,high,low,5,name.com,,,06/08/2026 21:04
+a0f19b09-14fa-4e7f-ab76-f10c0bb1790e,gee.fan,premium,123.75,,high,low,3,name.com,,,
+66f5db14-55e2-4a1a-87fd-93a7700a3e6c,angered.fan,available,11.99,71.99,medium,low,7,name.com,,,
 4471f00c-bf31-4e86-9629-a1cf9be48a6e,excursion.fan,available,11.99,,high,low,9,name.com,,,
-85331ce8-a3c5-40b2-b0f6-7bed2e1e9e97,scratchy.fan,available,11.99,71.99,low,low,8,name.com,,,
-639dbb1d-5190-4736-8c3d-c20c5b142449,healthier.fan,available,11.99,,high,low,9,name.com,,,
+85331ce8-a3c5-40b2-b0f6-7bed2e1e9e97,scratchy.fan,available,11.99,71.99,medium,low,8,name.com,,,
 bb061c03-de84-40fb-b960-fff38605f08e,funds.fan,available,11.99,,high,low,5,name.com,,,
-bf032988-e815-492d-a5ee-7b98441fd6e4,scarlett.fan,available,11.99,,medium,low,8,name.com,,,
-223c8b4e-24ed-4f7d-bdb6-c3668ba293b0,antimonial.fan,available,11.99,71.99,low,low,10,name.com,,,
-932bfe29-e9ff-4e89-a8ab-aa58a86509d2,thrashabout.fan,available,11.99,,low,low,12,name.com,,,
-251f31f0-38ee-4f3f-ac80-7cbd0f1b1450,canal.fan,available,11.99,,medium,low,5,name.com,,,
-dd8aab11-a692-4e83-9f82-6c4218ab63cb,roughshod.fan,available,11.99,71.99,low,low,9,name.com,,,08/08/2026 15:55
+bf032988-e815-492d-a5ee-7b98441fd6e4,scarlett.fan,available,11.99,,high,low,8,name.com,,,
+251f31f0-38ee-4f3f-ac80-7cbd0f1b1450,canal.fan,available,11.99,,high,low,5,name.com,,,
 30535946-c172-492a-8423-a3c33c338362,hangout.fan,available,11.99,,high,low,8,name.com,,,
-ff91b468-36da-4e06-95b1-240e8401982c,hawkeyed.fan,available,11.99,71.99,low,low,9,name.com,,,06/08/2026 18:43
 ee2eb792-6baa-424d-b55b-ee847464b5a5,bravery.fan,available,11.99,,high,low,7,name.com,,,
-8f8f74b4-5f08-4725-a045-7233672abb89,writedown.fan,available,11.99,,medium,low,10,name.com,,,
 b8537f5e-c436-4f79-9c0c-019ec9c9d7fe,afternoon.fan,available,11.99,,high,low,9,name.com,,,
-ee9795bf-01c9-48b9-885b-a64438e5d88a,commonlaw.fan,available,11.99,,medium,low,10,name.com,,,
-1c5df557-7a72-4ea2-beee-5ebfff35584c,firstcousin.fan,available,11.99,,medium,low,12,name.com,,,
-d9e00575-788b-4dc9-b05f-282836c83807,sextet.fan,available,11.99,71.99,low,low,6,name.com,,,
+d9e00575-788b-4dc9-b05f-282836c83807,sextet.fan,available,11.99,71.99,high,low,6,name.com,,,
 9aa0e72b-e31c-4108-a686-f39ea686bbb2,touch.fan,available,11.99,,high,low,5,name.com,,,
-5b2ecd87-9357-4e33-a03f-78bac4481529,beatific.fan,available,11.99,71.99,low,low,8,name.com,,,
-fead72fe-8d2e-4559-ae71-7fa0c795f6b4,performs.fan,available,11.99,,low,low,8,name.com,,,
-8634c792-332e-4053-8366-5ba4aa478d5b,axonal.fan,available,11.99,71.99,low,low,6,name.com,,,08/08/2026 02:01
+5b2ecd87-9357-4e33-a03f-78bac4481529,beatific.fan,available,11.99,71.99,high,low,8,name.com,,,
+fead72fe-8d2e-4559-ae71-7fa0c795f6b4,performs.fan,available,11.99,,medium,low,8,name.com,,,
+8634c792-332e-4053-8366-5ba4aa478d5b,axonal.fan,available,11.99,71.99,medium,low,6,name.com,,,08/08/2026 02:01
 34adb0f1-af41-4f5b-8d91-e68023bcd38c,towards.fan,available,11.99,,high,low,7,name.com,,,
-30350be5-db7c-4e22-a344-998cc833f7e2,faveolate.fan,available,11.99,71.99,low,low,9,name.com,,,
-148cfefd-6355-4e5f-8d9e-a87a8c0f9f9e,basilary.fan,available,11.99,71.99,low,low,8,name.com,,,08/08/2026 22:22
 4732ed69-0e54-4efa-b5eb-a6f7a31a4aa8,momentum.fan,available,,,high,medium,8,,,,
-7c46357c-2908-4993-a42a-b9056f7c634c,shavingoil.fan,available,11.99,,low,low,11,name.com,,,
-92deadbc-e6e9-48c0-aefc-b57c988ef58b,trick.fan,available,57.98,68.98,medium,low,5,namecheap,,,22/09/2026 06:28
-2238f64a-b23d-45bc-970b-ac8eabefeec9,westhaven.fan,available,11.99,,low,low,10,name.com,,,
 e075bf56-4627-454d-a8dc-f9e1c63d4975,citizen.fan,available,11.99,,high,low,7,name.com,,,
-d374c487-1e12-4c78-b8d6-c46ba0c63e77,aphasic.fan,available,11.99,71.99,low,low,7,name.com,,,05/08/2026 23:07
-9071658b-042d-45b5-9845-ebf50849919d,adductive.fan,available,11.99,71.99,low,low,9,name.com,,,
+9071658b-042d-45b5-9845-ebf50849919d,adductive.fan,available,11.99,71.99,medium,low,9,name.com,,,
 60fcf1a6-f0a0-465b-9e91-f159cdbbd905,print.fan,premium,250,,high,medium,5,name.com,,,
-479aea71-f759-4153-98c4-a3f262d1333f,transparency.fan,available,11.99,,medium,low,12,name.com,,,
+479aea71-f759-4153-98c4-a3f262d1333f,transparency.fan,available,11.99,,high,low,12,name.com,,,
 7d0cdb49-1b50-4548-9bf1-bf74796a24fb,bulk.fan,available,11.99,,high,low,4,name.com,,,
-0cb6800c-e40b-4aeb-b16d-9ef5532688e1,dozen.fan,available,57.98,68.98,medium,low,5,namecheap,,,21/09/2026 11:29
-b56ba434-c21e-4e2b-9d9e-2f2ce6c09a4e,outloud.fan,available,57.98,68.98,low,low,8,namecheap,,,13/09/2026 19:13
 da98ef6b-5a1b-4bdc-8593-13c99beac202,saving.fan,available,11.99,,high,low,6,name.com,,,
-beca47db-3788-4bec-acf4-21d5fd577fd3,deepdish.fan,available,11.99,,high,low,9,name.com,,,
 4555757f-2bc8-4cb4-b323-2b36741d8f9d,yall.fan,available,11.99,,medium,low,4,name.com,,,
-dd40fc27-3aa7-421a-92b1-e1d01a0232fb,trine.fan,available,11.99,71.99,low,low,5,name.com,,,
-6bf2868d-ae4c-411e-9ba3-c015ff06fd7d,bjp.fan,available,11.99,,medium,low,3,name.com,,,
+dd40fc27-3aa7-421a-92b1-e1d01a0232fb,trine.fan,available,11.99,71.99,medium,low,5,name.com,,,
+6bf2868d-ae4c-411e-9ba3-c015ff06fd7d,bjp.fan,available,11.99,,high,low,3,name.com,,,
 57679445-c02b-4113-89ba-3792e16e27db,kiev.fan,premium,250,,high,low,4,name.com,,,
-0467dec6-261e-460c-8371-b99fc5da0849,amphoteric.fan,available,11.99,71.99,low,low,10,name.com,,,
-183f15fc-3b2e-4e19-97b8-2db20000f7e9,gourmet.fan,available,11.99,,high,low,7,name.com,,,
-03476ac5-6837-4e9b-8ac5-3e552780174d,deskchair.fan,available,11.99,,high,low,10,name.com,,,
-2619d867-b92f-49bd-9adf-2c7e34e023d3,monstrous.fan,available,11.99,71.99,low,low,9,name.com,,,07/08/2026 14:47
+2619d867-b92f-49bd-9adf-2c7e34e023d3,monstrous.fan,available,11.99,71.99,medium,low,9,name.com,,,07/08/2026 14:47
 98984d81-6c98-4341-b1c0-bbd904a33319,seated.fan,available,11.99,,high,low,6,name.com,,,
-c2c50a20-5a4d-4ea1-a34f-e6055aa9cc11,ihavenomoney.fan,available,11.99,,medium,low,15,name.com,,,
-f75a86fb-4a14-456a-ac30-dd5af6cd167f,wintersun.fan,available,11.99,,medium,low,10,name.com,,,
-2d42c5bc-df08-408a-9c9f-abb46a0a413b,coldrubber.fan,available,11.99,,medium,low,11,name.com,,,
-30dbacfb-9379-437d-b7e1-3e6350619a87,ahead.fan,available,57.98,68.98,medium,low,5,namecheap,,,21/09/2026 23:29
-c63843d0-cd0d-43ee-8c01-2701b602e46f,ticketwindow.fan,available,11.99,,medium,low,13,name.com,,,
-713f6fd5-459c-4fb5-b501-316c0d719684,occurrence.fan,available,11.99,,medium,low,10,name.com,,,
-73705d8d-83d9-4523-a2c6-450063c0bb22,rearend.fan,available,11.99,71.99,low,low,8,name.com,,,09/08/2026 11:23
-c8b054e8-d9ec-4998-8378-dcf21a03f207,rearwards.fan,available,11.99,71.99,low,low,9,name.com,,,08/08/2026 06:56
-ce544f23-75f5-4aab-a800-542078b7bbd6,saddletree.fan,available,11.99,,low,low,11,name.com,,,
+713f6fd5-459c-4fb5-b501-316c0d719684,occurrence.fan,available,11.99,,high,low,10,name.com,,,
 bc780311-ce61-4bf8-b23f-1df14b4caa05,commit.fan,available,11.99,,high,low,6,name.com,,,
-f13763bf-0ad6-46c5-ac04-6d9f7638d8ac,pricetag.fan,available,11.99,,medium,low,9,name.com,,,
-cfefe06f-302e-4ef6-a2b2-db2001e470c3,seals.fan,premium,82.5,,medium,low,5,name.com,,,
-056467cb-1106-4987-88ce-0ceba9a621e9,flooded.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 00:23
-73018c9e-d882-41fd-8bfd-3d562b7d63e3,solarsystem.fan,available,11.99,,medium,low,12,name.com,,,
-8f8bb43a-98c6-4d13-a5d2-e0d2b1b85c73,baggagecarousel.fan,available,11.99,,medium,low,16,name.com,,,
-a3fbcfc5-09e4-45ac-b78a-943a8b09b0ed,wholesale.fan,premium,260,260,medium,low,9,namecheap,,,24/09/2026 02:58
+cfefe06f-302e-4ef6-a2b2-db2001e470c3,seals.fan,premium,82.5,,high,low,5,name.com,,,
+056467cb-1106-4987-88ce-0ceba9a621e9,flooded.fan,available,11.99,71.99,high,low,7,name.com,,,08/08/2026 00:23
 f1d7f094-b31e-4c3e-a6ea-e18f7ba320dd,felt.fan,available,11.99,,high,low,4,name.com,,,
-98c7cbc1-54cb-4f2f-b094-9259423df281,journeyman.fan,available,11.99,,medium,low,10,name.com,,,
-c17ed3dd-e0c3-4962-b5bd-3dbf299f3b8b,registered.fan,available,11.99,,medium,low,10,name.com,,,
-5f7ab018-6403-4ae5-829f-f2536c97298b,usbdrive.fan,available,11.99,,high,low,9,name.com,,,
-46011a7a-9bb9-419f-ace5-9e3ef3c420d2,barytic.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 21:16
-68ed784f-53bb-4494-b9c7-c1dac20da149,plotted.fan,available,57.98,68.98,low,low,7,namecheap,,,21/09/2026 22:10
-849008b7-aba6-42ba-872a-510ab2dbc033,whiskered.fan,available,11.99,71.99,low,low,9,name.com,,,08/08/2026 16:15
-45fb20a5-25d2-4fcf-8802-542dca6174be,adamantine.fan,available,11.99,71.99,low,low,10,name.com,,,
+98c7cbc1-54cb-4f2f-b094-9259423df281,journeyman.fan,available,11.99,,high,low,10,name.com,,,
+c17ed3dd-e0c3-4962-b5bd-3dbf299f3b8b,registered.fan,available,11.99,,high,low,10,name.com,,,
+849008b7-aba6-42ba-872a-510ab2dbc033,whiskered.fan,available,11.99,71.99,medium,low,9,name.com,,,08/08/2026 16:15
+45fb20a5-25d2-4fcf-8802-542dca6174be,adamantine.fan,available,11.99,71.99,medium,low,10,name.com,,,
 973e98ed-930a-4239-9449-1ede63ca3954,orleans.fan,available,11.99,,high,low,7,name.com,,,
-4fbf5f7e-9a9e-4e8c-af9b-96bb126d11f9,research.fan,premium,250,250,medium,low,8,name.com,,,23/09/2026 04:11
-bbd1ace5-9c57-492f-8232-06aecec8444b,thrift.fan,available,11.99,,medium,low,6,name.com,,,
-6254590d-9e21-44d6-904d-334eee85f952,visualise.fan,available,11.99,,high,low,9,name.com,,,
+bbd1ace5-9c57-492f-8232-06aecec8444b,thrift.fan,available,11.99,,high,low,6,name.com,,,
 5ca3ae19-8c3c-42e0-9313-a25ffa96da75,rely.fan,available,11.99,,high,low,4,name.com,,,
 56a3eabd-d22a-48e0-85c7-438282d4508e,exception.fan,available,11.99,,high,low,9,name.com,,,
-6f284106-be60-482b-ba86-ca81094acadf,autarchic.fan,available,11.99,71.99,low,low,9,name.com,,,07/08/2026 18:36
-aaa7c2ac-380b-4830-acd5-2ba2fbb16696,collectivenoun.fan,available,11.99,,high,low,15,name.com,,,
+6f284106-be60-482b-ba86-ca81094acadf,autarchic.fan,available,11.99,71.99,medium,low,9,name.com,,,07/08/2026 18:36
 1c590fd6-1916-4518-8128-0fc8723af823,strong.fan,premium,123.75,,high,low,6,name.com,,,
-827022f0-10b4-420a-8770-26f5345c64a7,atp.fan,premium,82.5,,medium,low,3,name.com,,,
-1387bad4-ba9b-4b6d-9f21-293aad18c472,handin.fan,available,11.99,,medium,low,7,name.com,,,
+827022f0-10b4-420a-8770-26f5345c64a7,atp.fan,premium,82.5,,high,low,3,name.com,,,
 24533679-4e5a-43fb-ab49-6163ce8a24c5,showcase.fan,available,11.99,,high,low,8,name.com,,,
-f051558d-f46d-4a33-a807-2e8b6abd24cf,berserk.fan,available,11.99,71.99,low,low,7,name.com,,,
-d84fe229-e731-4f25-ba01-0735ac97d757,eyesight.fan,available,11.99,,medium,low,9,name.com,,,
+f051558d-f46d-4a33-a807-2e8b6abd24cf,berserk.fan,available,11.99,71.99,medium,low,7,name.com,,,
+d84fe229-e731-4f25-ba01-0735ac97d757,eyesight.fan,available,11.99,,high,low,9,name.com,,,
 e7b0f819-6c61-48ff-a174-f44b6951231a,stuck.fan,available,11.99,,medium,low,5,name.com,,,
-e08df7e8-93f5-4854-8431-dffdc8dbfbd5,actiongame.fan,available,11.99,,high,low,11,name.com,,,
-e11f69b1-18cc-4918-938a-0a2840469a49,rotfl.fan,available,11.99,,low,low,5,name.com,,,
-de1f48bd-0c46-4cc3-8d72-790ecf837e4f,auroral.fan,available,57.98,68.98,low,low,7,namecheap,,,22/09/2026 13:08
+e11f69b1-18cc-4918-938a-0a2840469a49,rotfl.fan,available,11.99,,medium,low,5,name.com,,,
 840dd256-8584-4433-baf2-362960febc3f,wedding.fan,premium,250,,high,low,7,name.com,,,
 223e5d4f-2bae-4eac-9f36-5d1b52a090c3,condo.fan,available,11.99,,high,low,5,name.com,,,
-9077f18d-be67-4913-9cc5-317e560388b5,allotted.fan,available,11.99,71.99,low,low,8,name.com,,,
-e2b35cf7-1166-4018-9266-e762d42426fe,uraemic.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 02:48
-e3e5e2fe-5986-48ad-9122-711b4a9e3dc5,belated.fan,available,11.99,71.99,low,low,7,name.com,,,09/08/2026 12:37
-14bb0dd5-5ad0-402f-8e3b-608269f31023,beardless.fan,available,11.99,71.99,low,low,9,name.com,,,09/08/2026 04:43
-002031f2-dd4c-4c78-986e-0da35e24f499,controversial.fan,available,11.99,,high,low,13,name.com,,,
-e89f65b5-9cde-4bad-b6d5-5341eb4af900,silverish.fan,available,11.99,71.99,low,low,9,name.com,,,06/08/2026 18:01
+9077f18d-be67-4913-9cc5-317e560388b5,allotted.fan,available,11.99,71.99,high,low,8,name.com,,,
+e3e5e2fe-5986-48ad-9122-711b4a9e3dc5,belated.fan,available,11.99,71.99,medium,low,7,name.com,,,09/08/2026 12:37
+14bb0dd5-5ad0-402f-8e3b-608269f31023,beardless.fan,available,11.99,71.99,medium,low,9,name.com,,,09/08/2026 04:43
+002031f2-dd4c-4c78-986e-0da35e24f499,controversial.fan,available,11.99,,medium,low,13,name.com,,,
 7343cd3d-14d7-4739-94c9-859b9c3aca74,diplomacy.fan,available,11.99,,high,low,9,name.com,,,
-72f949c4-13e9-475e-9711-627bcffbb72b,inreturn.fan,available,11.99,,medium,low,9,name.com,,,
 38ca956b-4fef-4400-b54b-370c49017cf6,substantial.fan,available,11.99,,high,low,11,name.com,,,
-c8ae247a-c9e0-4c85-941e-b20f486506f8,utterly.fan,available,11.99,,medium,low,7,name.com,,,
-271ece99-cf9e-424e-a103-90d54ad18aa8,lowbrow.fan,available,11.99,71.99,low,low,7,name.com,,,
-f3e13e55-abbc-4ac4-99b5-b176440dc581,tuesdays.fan,available,11.99,,low,low,8,name.com,,,
-debf2ed8-07f2-4205-bedc-fe0b4b2b0633,southamerica.fan,available,11.99,,low,low,13,name.com,,,
-72d195fa-37a4-4e4c-a7df-772fa6ae7340,addible.fan,available,11.99,71.99,low,low,7,name.com,,,
+c8ae247a-c9e0-4c85-941e-b20f486506f8,utterly.fan,available,11.99,,high,low,7,name.com,,,
+271ece99-cf9e-424e-a103-90d54ad18aa8,lowbrow.fan,available,11.99,71.99,medium,low,7,name.com,,,
+f3e13e55-abbc-4ac4-99b5-b176440dc581,tuesdays.fan,available,11.99,,high,low,8,name.com,,,
+72d195fa-37a4-4e4c-a7df-772fa6ae7340,addible.fan,available,11.99,71.99,medium,low,7,name.com,,,
 c0ed6dc4-bae9-4cfc-a200-34d958216247,pretend.fan,available,11.99,,high,low,7,name.com,,,
-8b787b40-c93f-49b2-b9f1-42cb570d3b65,beside.fan,available,11.99,,medium,low,6,name.com,,,
-eac757cc-9cf2-4e48-8380-d43f26263cd7,balconied.fan,available,11.99,71.99,low,low,9,name.com,,,08/08/2026 09:11
+8b787b40-c93f-49b2-b9f1-42cb570d3b65,beside.fan,available,11.99,,high,low,6,name.com,,,
 f1f383b0-1c6a-4b2c-b470-5f3a0ce9a169,yum.fan,available,,,high,low,3,,,,
-7957657e-64ae-44e3-8be2-1a4d9d7b6030,haveseenthismovie.fan,available,11.99,,medium,low,20,name.com,,,
-01b78420-4ca5-449f-b569-1635d54978a2,pillowcase.fan,available,11.99,,low,low,11,name.com,,,
-09cc2f85-44f2-4e34-85a5-b4db00507f26,study.fan,premium,128.7,128.7,medium,low,5,namecheap,,,20/09/2026 03:18
-6174becc-7e19-4c4e-9b3e-94af9f80a92a,aneyeforaneye.fan,available,11.99,,medium,low,17,name.com,,,
-2ae02203-0364-4bd7-b441-915b4dd5d331,greatgrandson.fan,available,11.99,,high,low,14,name.com,,,
+01b78420-4ca5-449f-b569-1635d54978a2,pillowcase.fan,available,11.99,,high,low,11,name.com,,,
 7fa7cb23-9591-42d4-85e0-2c4dc4d32859,hater.fan,available,11.99,,medium,low,5,name.com,,,
-be062e89-96a5-4963-bd8c-356e52d75e18,sixtyfive.fan,available,11.99,71.99,low,low,10,name.com,,,
-d10fdd30-459e-4bb6-8f22-f9d4c4b378cd,arse.fan,available,11.99,71.99,low,low,4,name.com,,,09/08/2026 10:35
+d10fdd30-459e-4bb6-8f22-f9d4c4b378cd,arse.fan,available,11.99,71.99,medium,low,4,name.com,,,09/08/2026 10:35
 636c0759-5cb7-4733-a9ec-afb1df7d58d2,plastic.fan,premium,250,,high,low,7,name.com,,,
-a2c92e9a-e3e1-4edb-b6d6-b2c181e50628,daggum.fan,available,11.99,,high,low,6,name.com,,,
-283ff994-2246-4d2f-a319-138d56fd9fc4,affecting.fan,available,11.99,71.99,low,low,9,name.com,,,
-d38f6017-6f0b-42c3-8380-cff65b5159e9,altogether.fan,available,11.99,71.99,low,low,10,name.com,,,
+283ff994-2246-4d2f-a319-138d56fd9fc4,affecting.fan,available,11.99,71.99,high,low,9,name.com,,,
+d38f6017-6f0b-42c3-8380-cff65b5159e9,altogether.fan,available,11.99,71.99,high,low,10,name.com,,,
 80a776b8-056b-4ed1-af79-c2171a3ddd8b,modeler.fan,available,11.99,,high,low,7,name.com,,,
 114d60aa-d17f-4ba4-9121-63f54cd8f06f,such.fan,available,11.99,,high,low,4,name.com,,,
-3c9bf21b-e821-42e3-a4f2-5b5c3cbb8489,wholly.fan,available,11.99,71.99,low,low,6,name.com,,,
-66a3757e-5c95-4055-a73d-50ccecab4ca9,amenable.fan,available,57.98,68.98,low,low,8,namecheap,,,22/09/2026 04:02
-909b9334-c68c-4fa6-8004-8780038a0c74,overdue.fan,available,11.99,,medium,low,7,name.com,,,
-64780c82-b2f0-47f6-8892-a1f9ebb21514,cover.fan,available,57.98,68.98,medium,low,5,namecheap,,,22/09/2026 21:52
-b39927da-c413-438d-b028-9564f652da2a,supplies.fan,premium,128.7,128.7,low,low,8,namecheap,,,
-b132cc9e-d2de-41a5-8248-9dccc48de4de,tippingpoint.fan,available,11.99,,high,low,13,name.com,,,
-6579f81c-1ebb-4f98-b21d-ddca78e5d9f3,weird.fan,available,11.99,71.99,medium,low,5,name.com,,,
-09b56790-2b7b-4ace-9cb8-fa0d6dc532dc,worn.fan,available,57.98,68.98,low,low,4,namecheap,,,23/09/2026 12:58
-13d2f15d-8bf2-4730-8c29-3d7ad7bed66e,lightningstrike.fan,available,11.99,,medium,low,16,name.com,,,
-e8f33490-4392-42b8-9957-532f929f78ef,organize.fan,available,57.98,68.98,medium,low,8,namecheap,,,23/09/2026 23:13
-28b7b878-ab25-402f-b991-e8c88c1efadd,goleft.fan,available,11.99,,high,low,7,name.com,,,
+3c9bf21b-e821-42e3-a4f2-5b5c3cbb8489,wholly.fan,available,11.99,71.99,high,low,6,name.com,,,
+909b9334-c68c-4fa6-8004-8780038a0c74,overdue.fan,available,11.99,,high,low,7,name.com,,,
+b39927da-c413-438d-b028-9564f652da2a,supplies.fan,premium,128.7,128.7,medium,low,8,namecheap,,,
 6bedc7a3-9c15-4348-a84b-f158bd44ced7,generators.fan,available,11.99,,medium,low,10,name.com,,,
-e9b62e95-ed1c-4bc6-8c23-59cc6afd35e4,zend.fan,available,11.99,71.99,low,low,4,name.com,,,07/08/2026 23:12
-dcf5068d-c806-4242-b694-2cb985a2d21b,playdate.fan,available,11.99,,medium,low,9,name.com,,,
+e9b62e95-ed1c-4bc6-8c23-59cc6afd35e4,zend.fan,available,11.99,71.99,medium,low,4,name.com,,,07/08/2026 23:12
+dcf5068d-c806-4242-b694-2cb985a2d21b,playdate.fan,available,11.99,,high,low,9,name.com,,,
 135583d0-f07d-4806-b665-cac9fab2e9cc,vein.fan,available,11.99,,high,low,4,name.com,,,
-58cd4a2e-5a61-4cbb-a52c-3f19544b386c,archducal.fan,available,11.99,71.99,low,low,9,name.com,,,06/08/2026 15:27
-905e6544-4d31-4552-91e4-808303774cb1,channukkah.fan,available,11.99,,medium,low,10,name.com,,,
-cb155b73-3e53-403c-a9b2-d55c6091f0f1,abranchial.fan,available,11.99,71.99,low,low,10,name.com,,,
-922d6869-3e28-4d6f-9e4b-5e82b072b144,gummyworm.fan,available,11.99,,high,low,10,name.com,,,
-cdca474f-9671-48b2-a345-9af66c40e9ee,alittle.fan,available,11.99,,medium,low,8,name.com,,,
-ac0e0ff3-5f7e-40f5-8b96-3f9bfb6916f6,studiocity.fan,available,11.99,,low,low,11,name.com,,,
 44562d19-c609-4ee3-b1fe-c3dc7f2a1d31,hanukkah.fan,available,11.99,,high,low,8,name.com,,,
-4004b4cf-4297-4743-9908-f1edc6fa2617,bantoid.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 14:45
-70092ea1-7a77-4ba3-a419-0c49fcaeef94,buggy.fan,available,57.98,68.98,low,low,5,namecheap,,,22/09/2026 08:13
-7c40b356-ce35-453d-921b-822161d34f61,plane.fan,available,11.99,,high,low,5,name.com,,,
 bd8fbb06-f8e2-4882-825f-d495aa9b2491,attend.fan,available,11.99,,high,low,6,name.com,,,
-101cdcaa-55e7-477a-8859-e0a82d82878b,aryan.fan,available,11.99,71.99,medium,high,5,name.com,,,07/08/2026 00:01
-41417be6-8db9-4b73-b7ef-8a07a75a5eed,forty.fan,available,11.99,71.99,low,low,5,name.com,,,
-bf0add85-65cc-499c-8815-136b1479c9db,heck.fan,premium,123.75,,medium,low,4,name.com,,,
-6b4e2f7b-d6cc-4afd-84e0-4cc55c9f2b2f,adipose.fan,available,11.99,71.99,low,low,7,name.com,,,
+101cdcaa-55e7-477a-8859-e0a82d82878b,aryan.fan,available,11.99,71.99,high,high,5,name.com,,,07/08/2026 00:01
+41417be6-8db9-4b73-b7ef-8a07a75a5eed,forty.fan,available,11.99,71.99,high,low,5,name.com,,,
+bf0add85-65cc-499c-8815-136b1479c9db,heck.fan,premium,123.75,,high,low,4,name.com,,,
+6b4e2f7b-d6cc-4afd-84e0-4cc55c9f2b2f,adipose.fan,available,11.99,71.99,high,low,7,name.com,,,
 b99c863c-9912-4068-b99b-e7e2f8c0e658,supper.fan,available,11.99,,high,low,6,name.com,,,
-8b911daf-70ef-460b-b140-67738dca8288,aborticide.fan,available,11.99,71.99,low,low,10,name.com,,,
-b1c3f401-741a-4bf8-8015-99a209807915,greenpepper.fan,available,11.99,,high,low,12,name.com,,,
-2ec6e202-9acb-4392-857d-fcb280c76a4a,sequent.fan,available,11.99,71.99,low,low,7,name.com,,,
+2ec6e202-9acb-4392-857d-fcb280c76a4a,sequent.fan,available,11.99,71.99,high,low,7,name.com,,,
 23ffd00b-7dcc-4c83-88f5-c91c2f99da5a,marked.fan,available,11.99,,high,low,6,name.com,,,
-c4117c8e-aa1c-4b06-9b8b-e73f9b3701e3,contraband.fan,available,57.98,68.98,low,low,10,namecheap,,,22/09/2026 21:25
 bc90d44b-0b2f-486c-bef6-f775f4b07ef3,russia.fan,premium,250,,high,medium,6,name.com,,,
-8776deb5-9b06-4c7b-9198-8fcd1c20b425,uptonow.fan,available,57.98,68.98,low,low,9,namecheap,,,13/09/2026 21:45
-c5a7d64f-f12f-4e60-be18-f7d9ea3ee641,likeatrain.fan,available,11.99,,medium,low,12,name.com,,,
 5b6681ab-f021-4665-9c4d-29c97f35ec9f,classroom.fan,available,11.99,,high,low,9,name.com,,,
-3a94ce94-a9cc-47df-a65c-b332e8dae70c,apophatic.fan,available,11.99,71.99,low,low,9,name.com,,,06/08/2026 02:27
-3f7d5702-cd41-4e74-92bf-ed45502d3f5e,aculeate.fan,available,11.99,71.99,low,low,8,name.com,,,
-a4a1be17-3a37-4f59-8c1c-1c646758ab41,letoneloose.fan,available,11.99,,high,low,13,name.com,,,
-adc22d05-0664-4740-95a0-15cf3fc44fd7,some.fan,available,57.98,68.98,medium,low,4,namecheap,,,19/09/2026 12:35
+3a94ce94-a9cc-47df-a65c-b332e8dae70c,apophatic.fan,available,11.99,71.99,medium,low,9,name.com,,,06/08/2026 02:27
 43d2bc67-f495-47e6-ba14-61702a44ec37,kilometer.fan,available,11.99,,high,low,9,name.com,,,
-025267f7-7818-41fe-bd82-4183e32d8f36,stockupon.fan,available,11.99,,low,low,11,name.com,,,
 6f0de143-28c5-4acd-b06c-33fae9675011,political.fan,available,11.99,,high,low,9,name.com,,,
-82993ca4-ecb5-44f9-a7ba-d7e6bb7af63f,squinty.fan,available,11.99,71.99,low,low,7,name.com,,,07/08/2026 03:20
+82993ca4-ecb5-44f9-a7ba-d7e6bb7af63f,squinty.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 03:20
 01642bbc-1c74-4f3b-9001-7bc5fee383fb,integrated.fan,available,11.99,,high,low,10,name.com,,,
 c5f0f9f1-9724-4a9b-83fb-2e98a93c3ae4,really.fan,available,11.99,,high,low,6,name.com,,,
-500e120a-cdb1-412d-a52c-2c50171722fa,cent.fan,available,57.98,68.98,medium,low,4,namecheap,,,08/09/2026 08:07
+500e120a-cdb1-412d-a52c-2c50171722fa,cent.fan,available,57.98,68.98,high,low,4,namecheap,,,08/09/2026 08:07
 1255b181-dbb4-4514-9297-e6c44b13dd7c,assess.fan,available,11.99,,high,low,6,name.com,,,
-78e61d85-cf8c-4ea2-a080-b57df560c316,rubbingoil.fan,available,11.99,,low,low,11,name.com,,,
-e8611107-7c50-4e85-bfa0-f18fadd4c1e8,forced.fan,available,57.98,68.98,low,low,6,namecheap,,,23/09/2026 21:10
 fab192dd-a896-4076-9db1-bd05afc30c83,santa.fan,available,11.99,,high,low,5,name.com,,,
-293f2da1-00fc-471e-a0aa-24c49f7903f2,cairo.fan,premium,250,,medium,low,5,name.com,,,
+293f2da1-00fc-471e-a0aa-24c49f7903f2,cairo.fan,premium,250,,high,low,5,name.com,,,
 124be19e-8631-4f8a-af1f-8d6c50f275d4,obey.fan,available,11.99,,high,low,4,name.com,,,
 9edb57da-c239-4a75-a5a1-ae247b96d910,metre.fan,available,11.99,,high,low,5,name.com,,,
-f896c792-4c05-4151-ad69-fda3349638ee,commanding.fan,available,57.98,68.98,medium,low,10,namecheap,,,23/09/2026 15:41
-cba8c194-1f93-4140-8b80-3a9320b7b286,mentallyill.fan,available,11.99,,medium,low,12,name.com,,,
-97bae950-81c1-4001-af0c-127e55e22361,bro.fan,premium,123.75,,medium,low,3,name.com,,,
+97bae950-81c1-4001-af0c-127e55e22361,bro.fan,premium,123.75,,high,low,3,name.com,,,
 4833d5c4-eead-4c07-a0f4-60e65feb24e6,whichever.fan,available,11.99,,medium,low,9,name.com,,,
-c04c30f1-0679-4f15-acdb-1375e47cceac,rotten.fan,available,57.98,68.98,low,low,6,namecheap,,,24/09/2026 01:35
 75af4f70-d9d8-4a29-8cda-e2e69c492e4d,confide.fan,available,11.99,,high,low,7,name.com,,,
-8c458233-476c-4963-8726-23efc4296c72,outdoors.fan,available,57.98,68.98,medium,low,8,namecheap,,,21/09/2026 23:54
 439b2f9a-7c89-446d-b91d-fe4c1f14f520,covenant.fan,available,11.99,,high,low,8,name.com,,,
 62f31f0f-b076-4f9b-b1c9-f52829f50aa6,worse.fan,available,11.99,,high,low,5,name.com,,,
 641afe5e-0e51-419b-b7c3-4612e10340c5,volkswagen.fan,available,11.99,,high,low,10,name.com,,,
-98fc42ef-d4dc-4a99-8914-a736211fa772,instantmessage.fan,available,11.99,,high,low,15,name.com,,,
-80171a77-596b-4225-a5f1-7fef6a04dd0d,barred.fan,available,11.99,71.99,low,low,6,name.com,,,08/08/2026 20:37
-3411c9c6-c09f-4f45-b5e8-19d4b66aaff7,lockkey.fan,available,11.99,,high,low,8,name.com,,,
-e767d05e-f360-4062-884b-688de6f8de31,setonfoot.fan,available,11.99,,low,low,11,name.com,,,
+80171a77-596b-4225-a5f1-7fef6a04dd0d,barred.fan,available,11.99,71.99,medium,low,6,name.com,,,08/08/2026 20:37
 ba9451c5-f63f-4978-927e-d8c4483de1c1,scarred.fan,available,11.99,,medium,low,7,name.com,,,
-7ab70de4-64e4-4f46-9c40-86d665d5733a,apivorous.fan,available,11.99,71.99,low,low,9,name.com,,,06/08/2026 00:18
 a603fdef-0880-4d3e-b95b-5ffc9dad0751,piano.fan,premium,123.75,,high,low,5,name.com,,,
-9fc2dc6f-ac41-455c-bd67-bcccc208e09c,powerstrip.fan,available,11.99,,high,low,11,name.com,,,
-dee42879-5c7f-47a1-9334-3fbb4c2c6cc0,aberdonian.fan,available,11.99,71.99,low,low,10,name.com,,,
-01cd6219-9698-4b14-a543-3bfe6925cabe,apteral.fan,available,11.99,71.99,low,low,7,name.com,,,06/08/2026 10:24
-e13c571d-78fb-4dd5-a2df-64fa0389d403,nine.fan,available,57.98,68.98,low,low,4,namecheap,,,21/09/2026 13:23
-3d8caced-769f-40bd-a0f4-289e79ebe407,videochat.fan,available,,,medium,low,10,,,,
+dee42879-5c7f-47a1-9334-3fbb4c2c6cc0,aberdonian.fan,available,11.99,71.99,medium,low,10,name.com,,,
 23ad12d0-4aea-4bcc-a2cd-3a96506f92b2,attitude.fan,available,11.99,,high,low,8,name.com,,,
-dd91443c-6e46-46d1-addc-3fb037668715,endurable.fan,available,11.99,71.99,low,low,9,name.com,,,09/08/2026 04:33
+dd91443c-6e46-46d1-addc-3fb037668715,endurable.fan,available,11.99,71.99,medium,low,9,name.com,,,09/08/2026 04:33
 ba817ef1-f5c8-4644-85bc-39df631bcac4,shove.fan,available,11.99,,high,low,5,name.com,,,
-35ce636d-98d5-4469-ab9b-0f9b62b92473,sandlike.fan,available,11.99,71.99,low,low,8,name.com,,,06/08/2026 17:36
-02f98e9b-61e6-47ac-9a01-203e2ed2e0dc,grayhaired.fan,available,11.99,,medium,low,11,name.com,,,
-31ced67c-c796-4956-b70b-4a41b358954c,fasttravel.fan,available,11.99,,high,low,11,name.com,,,
-6606560d-7a82-406b-ac63-5bc5280b3f69,squint.fan,available,11.99,71.99,low,low,6,name.com,,,07/08/2026 03:15
-bc603488-e88d-4ce4-800b-e8500ff19bab,peppermintoil.fan,available,11.99,,low,low,14,name.com,,,
-f3f9a740-3f5e-4fcc-b9c8-c9e70858bc57,entrenched.fan,available,11.99,,medium,low,10,name.com,,,
-d31c076d-1c40-4370-be84-14d85177dc53,aramaean.fan,available,11.99,71.99,low,low,8,name.com,,,06/08/2026 12:08
+6606560d-7a82-406b-ac63-5bc5280b3f69,squint.fan,available,11.99,71.99,high,low,6,name.com,,,07/08/2026 03:15
 a18d0b78-5d39-4de9-a5f1-530e41fb8cc8,qualitative.fan,available,11.99,,high,low,11,name.com,,,
-605be02c-32ce-4237-b3ff-d9ead51084db,birthcertificate.fan,available,11.99,,medium,low,17,name.com,,,
-6c0838fc-1398-49b8-be60-c34067583219,continuing.fan,available,11.99,71.99,medium,low,10,name.com,,,23/09/2026 22:17
 62ee7c76-557e-452a-8edb-e7bf38bb4a79,affirm.fan,available,,,high,low,6,,,,
 8eac9e26-24a5-4c06-951e-b712c52b2f72,attempt.fan,available,11.99,,high,low,7,name.com,,,
-398dbad8-b674-406b-85cc-c11047d5a55b,undirected.fan,available,11.99,71.99,low,low,10,name.com,,,
 9d1f0f68-e4a3-4e78-8593-028a46f3d533,date.fan,premium,123.75,,high,low,4,name.com,,,
-1a4f7d7a-ab64-4955-ad65-3b46e66786a2,fungicidal.fan,available,11.99,71.99,low,low,10,name.com,,,
-033441d5-d641-4bb8-bd78-db1ad6b799c2,restructuring.fan,available,11.99,,medium,low,13,name.com,,,
-02f623a1-d196-4582-a83e-3dc927a3e8a9,grasping.fan,available,11.99,71.99,low,low,8,name.com,,,07/08/2026 22:04
-7defb7a0-6ed7-491f-8f3c-292edd339a84,politely.fan,available,11.99,,medium,low,8,name.com,,,
+033441d5-d641-4bb8-bd78-db1ad6b799c2,restructuring.fan,available,11.99,,high,low,13,name.com,,,
+02f623a1-d196-4582-a83e-3dc927a3e8a9,grasping.fan,available,11.99,71.99,high,low,8,name.com,,,07/08/2026 22:04
+7defb7a0-6ed7-491f-8f3c-292edd339a84,politely.fan,available,11.99,,high,low,8,name.com,,,
 9feb6604-4a24-47d7-8a74-d3832f3e3f60,slip.fan,available,11.99,,high,low,4,name.com,,,
-753dc902-4e4f-4fbc-8e69-10d1f05b79d0,standon.fan,available,11.99,,low,low,8,name.com,,,
-2209d3e7-95d1-4f5e-b518-60eaed81b293,datefrom.fan,available,11.99,,medium,low,9,name.com,,,
-0471dfc5-53f5-4f2f-b079-037ae938a8b4,letterspatent.fan,available,57.98,68.98,low,low,14,namecheap,,,08/09/2026 04:07
-a664471f-1c79-4f78-b5dd-f6f5b9528731,silver.fan,premium,520,520,medium,low,6,namecheap,,,22/09/2026 07:45
-848d2f00-aacb-4a5f-ab3c-4b9dd2f58a5c,plaguey.fan,available,,,low,low,7,,,,
-7e24627c-32c8-434a-be51-a8f08836b222,charactertrait.fan,available,11.99,,high,low,15,name.com,,,
-3203ab40-8335-4056-bdba-f9d95c574c6d,chickenoregg.fan,available,11.99,,high,low,14,name.com,,,
+753dc902-4e4f-4fbc-8e69-10d1f05b79d0,standon.fan,available,11.99,,medium,low,8,name.com,,,
 d01bf37f-f17f-4d21-82a9-684272e7a81e,description.fan,available,11.99,,high,low,11,name.com,,,
-532ad888-956b-4e55-8eeb-c95f2f7428aa,hotsauce.fan,available,11.99,,high,low,9,name.com,,,
-003b3772-96f5-487a-bb41-5b9c7f5699d1,adjustable.fan,premium,260,260,medium,low,10,namecheap,,,21/09/2026 18:40
-10497415-6431-4a3f-a731-8ea790a8403a,wander.fan,available,11.99,,medium,low,6,name.com,,,
-f6d42093-3dd8-44af-b934-877f70cf2966,enlarged.fan,available,11.99,71.99,low,low,8,name.com,,,22/09/2026 22:37
-69343a60-1309-4941-8b97-c17fa267c949,younameit.fan,available,11.99,,medium,low,11,name.com,,,
+10497415-6431-4a3f-a731-8ea790a8403a,wander.fan,available,11.99,,high,low,6,name.com,,,
 cbaab235-8911-4061-81b2-7b7f30d6349e,evrything.fan,available,11.99,,medium,low,9,name.com,,,
 2f75f948-d475-410a-8560-82385fe2ea52,lastly.fan,available,11.99,,medium,low,6,name.com,,,
-4d5d5e76-05d9-46a2-8c1b-b52254daca3b,perch.fan,available,11.99,71.99,low,low,5,name.com,,,
-6f2c90db-3665-4dc3-a678-1abfecc09bf9,biteme.fan,available,11.99,,medium,low,7,name.com,,,
+4d5d5e76-05d9-46a2-8c1b-b52254daca3b,perch.fan,available,11.99,71.99,high,low,5,name.com,,,
 5b2bfa82-37d4-4f5d-8d6e-e15251a7dd6a,examine.fan,available,11.99,,high,low,7,name.com,,,
-1464a94e-fc29-4d87-a0cd-d83298e7f503,avionic.fan,available,11.99,71.99,low,low,7,name.com,,,07/08/2026 23:35
-b43929ef-13e6-4c0e-bade-1889593382f8,red.fan,premium,128.7,128.7,medium,low,3,namecheap,,,22/09/2026 22:22
-46d7fcb8-6d4c-49e2-9157-b99c28bb7ef2,talkto.fan,available,,,medium,low,7,,,,
-39436408-3876-4b5b-8b18-8e9cae279009,optionally.fan,available,11.99,,medium,low,10,name.com,,,
-dbf8b437-0713-4f3e-8f0e-34ba842d2ac6,okay.fan,available,57.98,68.98,medium,low,4,namecheap,,,22/09/2026 01:07
-3b330daf-9746-4549-9cd8-ebf6cb1abc80,bored.fan,available,57.98,68.98,low,low,5,namecheap,,,23/09/2026 00:16
-6e91a58b-38f3-49f7-9430-4c5085f48ec6,gowith.fan,available,11.99,,high,low,7,name.com,,,
+1464a94e-fc29-4d87-a0cd-d83298e7f503,avionic.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 23:35
+39436408-3876-4b5b-8b18-8e9cae279009,optionally.fan,available,11.99,,high,low,10,name.com,,,
 840a6f19-9682-4057-a729-1bb604ed9b46,details.fan,available,11.99,,high,low,7,name.com,,,
-c2c3c36c-c089-4adc-ae6f-9d14fe8c1258,screen.fan,available,57.98,68.98,low,low,6,namecheap,,,23/09/2026 16:32
 c29d6866-ad41-461e-97e2-4452772c9b27,highlighting.fan,available,11.99,,high,low,12,name.com,,,
 4b0e4c22-d561-45b9-a126-586feda55bd7,cot.fan,available,11.99,,high,low,3,name.com,,,
 df249c00-57f2-4a57-a0f0-123c6abfa972,oxfam.fan,available,11.99,,high,low,5,name.com,,,
 9f201ff3-4da1-4573-b559-7f0837dac405,buyer.fan,available,11.99,,high,low,5,name.com,,,
 608cc790-6b0d-481c-a10e-026c76a3e16e,passive.fan,available,11.99,,high,low,7,name.com,,,
-5b30996a-e815-4d1a-b202-4a8d2be1ddf4,letgo.fan,available,11.99,,high,low,6,name.com,,,
-cf4ff964-bb31-49e9-ac39-8fa0996faa80,letterofmotivation.fan,available,11.99,,medium,low,20,name.com,,,
-50c946ff-f5c5-43f4-852b-cc1382a62ace,breakfast.fan,available,11.99,71.99,medium,low,9,name.com,,,04/09/2026 13:27
-56f01120-0b02-44a0-b75b-539ba9ddbc8e,backtooth.fan,available,57.98,68.98,low,low,10,namecheap,,,21/09/2026 14:54
-2faa806f-2f0a-4a5a-af96-54cbe13b8d78,taylor.fan,premium,123.75,,medium,low,6,name.com,,,
-b7bc5a8a-4f9b-435a-9e96-6dc66436d499,asfaras.fan,available,11.99,,medium,low,9,name.com,,,
-fcd8fc1e-09d7-48f7-971b-27b0692331bb,therebe.fan,available,11.99,,low,low,8,name.com,,,
-c71acedf-8c47-4d6b-b2f5-b3d1b1226717,rearward.fan,available,11.99,71.99,low,low,8,name.com,,,08/08/2026 06:51
-f8a31b68-34f8-4081-9ec4-b8e012ebfb6c,achy.fan,available,11.99,71.99,low,low,4,name.com,,,
-217c656b-c851-4e3f-ba8a-6a7d44258d5b,thorpe.fan,available,11.99,,medium,low,6,name.com,,,
-e9bccf51-1cd9-464b-a84b-8f517e48dc21,helmethair.fan,available,11.99,,medium,low,11,name.com,,,
+50c946ff-f5c5-43f4-852b-cc1382a62ace,breakfast.fan,available,11.99,71.99,high,low,9,name.com,,,04/09/2026 13:27
+2faa806f-2f0a-4a5a-af96-54cbe13b8d78,taylor.fan,premium,123.75,,high,low,6,name.com,,,
+f8a31b68-34f8-4081-9ec4-b8e012ebfb6c,achy.fan,available,11.99,71.99,medium,low,4,name.com,,,
+217c656b-c851-4e3f-ba8a-6a7d44258d5b,thorpe.fan,available,11.99,,high,low,6,name.com,,,
 d77f30f7-3eb9-4e1c-ad52-31591b8b542f,distance.fan,available,11.99,,high,low,8,name.com,,,
-24554d1d-de60-4878-afa2-afee212d0c68,gelpen.fan,available,11.99,,high,low,7,name.com,,,
 32201868-776d-401d-a73a-452f0e971bc9,diversity.fan,available,11.99,,high,low,9,name.com,,,
-221c8fe1-8414-4cac-bdde-d76bca01a385,composed.fan,available,57.98,68.98,medium,low,8,namecheap,,,23/09/2026 17:50
-aa0ba593-256e-4843-bb67-fb12dfcd4118,goodlife.fan,available,11.99,,medium,low,9,name.com,,,
-3632fe71-6e4d-430d-931f-54966ac395b9,exemplary.fan,available,57.98,68.98,medium,low,9,namecheap,,,21/09/2026 18:58
-b475725a-dbc4-480d-a03d-7c513398e2fe,riveravon.fan,available,11.99,,high,low,10,name.com,,,
-c4859c67-4497-412a-b6b9-81f8c9c0c40e,estateinland.fan,available,11.99,,medium,low,14,name.com,,,
 5eacb2a7-309a-4787-9647-be93b331fee4,shaft.fan,available,11.99,,high,low,5,name.com,,,
-5f65dd47-b0b4-4a3b-a069-24b2e9440721,xxv.fan,available,57.98,68.98,low,low,3,namecheap,,,21/09/2026 12:45
-35d57826-58ca-4b77-98e3-928c942cfdcf,technology.fan,premium,128.7,128.7,medium,low,10,namecheap,,,23/09/2026 02:34
-c6a1f440-ccef-41dd-a0f6-84a952a145ff,littleblackdress.fan,available,11.99,,high,low,18,name.com,,,
-488e5383-a5be-48e7-994f-60436bd82aa2,consent.fan,available,57.98,68.98,medium,low,7,namecheap,,,08/09/2026 13:17
+488e5383-a5be-48e7-994f-60436bd82aa2,consent.fan,available,57.98,68.98,high,low,7,namecheap,,,08/09/2026 13:17
 e9f75e84-eb3b-43ee-b66e-6b312598e702,rest.fan,available,11.99,,high,low,4,name.com,,,
-d9e29296-f8be-4669-97ea-c11daa19dae1,beginning.fan,available,11.99,71.99,low,low,9,name.com,,,09/08/2026 09:06
-4a294f09-3f2f-4ea0-b629-5d11aae981b5,advanced.fan,available,11.99,71.99,medium,low,8,name.com,,,21/09/2026 20:46
-ef5a7aad-e8ea-4e87-b7ee-62deb93b94d0,childsexabuse.fan,available,11.99,,medium,low,15,name.com,,,
-82540ace-0c3f-4208-befd-d26b1bad1977,damascus.fan,premium,250,,medium,low,8,name.com,,,
-4e6e7c01-f105-4f58-b145-8795ed7571a5,givesomeoneabreak.fan,available,11.99,,high,low,20,name.com,,,
-9bdede66-8255-4b9d-b8d0-bb1bf38f3b94,communicationmix.fan,available,11.99,,high,low,17,name.com,,,
-b1f5fd05-33b4-4f04-8553-d64a2e26eff0,sickabed.fan,available,11.99,71.99,low,low,9,name.com,,,09/08/2026 07:12
-ad58afb0-3878-410f-95a9-f9ab817a1086,ane.fan,available,11.99,71.99,low,low,3,name.com,,,
-ae0d436b-b80a-48f5-9e8b-7d26f16b5fa2,mixedup.fan,available,11.99,71.99,low,low,8,name.com,,,07/08/2026 12:12
-51d78f7d-ea13-46d5-9d50-ba698def00a1,anglican.fan,available,11.99,71.99,low,low,8,name.com,,,
-01e63bfc-41e7-4a34-8a36-18026588d00a,justified.fan,available,11.99,,medium,low,9,name.com,,,
-863c2baf-13d4-4996-9839-8c353354d09e,mesh.fan,premium,260,260,medium,low,4,namecheap,,,23/09/2026 08:00
+d9e29296-f8be-4669-97ea-c11daa19dae1,beginning.fan,available,11.99,71.99,high,low,9,name.com,,,09/08/2026 09:06
+82540ace-0c3f-4208-befd-d26b1bad1977,damascus.fan,premium,250,,high,low,8,name.com,,,
+ad58afb0-3878-410f-95a9-f9ab817a1086,ane.fan,available,11.99,71.99,high,low,3,name.com,,,
+51d78f7d-ea13-46d5-9d50-ba698def00a1,anglican.fan,available,11.99,71.99,high,low,8,name.com,,,
+01e63bfc-41e7-4a34-8a36-18026588d00a,justified.fan,available,11.99,,high,low,9,name.com,,,
 c75af26e-2851-42b2-9c67-5eb4d497d22c,outcome.fan,available,11.99,,high,low,7,name.com,,,
 84d865c4-34ea-4557-86f2-b858a664a65b,campus.fan,premium,123.75,,high,low,6,name.com,,,
-9622775c-0b7a-431f-85d3-3ab18175b8b8,geek.fan,premium,250,250,high,low,4,name.com,,,
 fc574007-d5e6-4370-a08e-cd9629b3b6f9,whose.fan,available,11.99,,high,low,5,name.com,,,
-89d0852e-8de7-47b8-8de1-03d41d46a7fe,twelve.fan,available,57.98,68.98,medium,low,6,namecheap,,,21/09/2026 11:23
-ee313def-f830-4061-bf40-34cdbd702856,bristly.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 17:18
 8f94b1db-42d9-4de7-98cb-1ddfd107c9df,rihanna.fan,available,11.99,,high,low,7,name.com,,,
 e4df7e04-d2c4-4e64-9892-65a535860e34,uproar.fan,available,11.99,,high,low,6,name.com,,,
-730d3b15-c836-4f63-b926-b69852f2eb3d,everybody.fan,available,11.99,,medium,low,10,name.com,,,
 aa721625-a649-4ac3-9039-9cc5fd876047,salad.fan,available,11.99,,high,low,5,name.com,,,
-b78f02f9-934f-48f8-9864-b0cc382f4ca1,bantering.fan,available,11.99,71.99,low,low,9,name.com,,,08/08/2026 14:34
-e98addc5-2bf0-4940-8fba-a18152cbc571,avaricious.fan,available,11.99,71.99,low,low,10,name.com,,,07/08/2026 21:48
+e98addc5-2bf0-4940-8fba-a18152cbc571,avaricious.fan,available,11.99,71.99,medium,low,10,name.com,,,07/08/2026 21:48
 0daaa580-cb93-442f-8ab2-7fb74b471b0a,caught.fan,available,11.99,,high,low,6,name.com,,,
-cbfaac6a-22cb-414e-91fd-7a080c84ef3a,gregorio.fan,available,11.99,,medium,low,8,name.com,,,
+cbfaac6a-22cb-414e-91fd-7a080c84ef3a,gregorio.fan,available,11.99,,high,low,8,name.com,,,
 9951a2d8-9325-4ff9-b9db-4fddeabf8f23,almost.fan,available,11.99,,high,low,6,name.com,,,
-14d88042-50aa-4596-be82-ad2ca8bf6238,going.fan,available,11.99,,high,low,5,name.com,,,
-69bc8ed2-bcf9-4864-bae4-2b9b28e4628e,wipeup.fan,available,11.99,,high,low,7,name.com,,,
-08891ddb-132f-4f86-afa1-e34f699ea471,asaconsequenceof.fan,available,11.99,,medium,low,19,name.com,,,
 3ec6657e-2427-4ee4-bc9e-d08a53f8c918,bedewed.fan,available,11.99,71.99,low,low,7,name.com,,,09/08/2026 06:46
 0a0600a8-a290-4276-993e-3961d27ac704,want.fan,available,11.99,,high,low,4,name.com,,,
 0e18c170-235b-4b5d-917b-d23fd6c2d1d8,polo.fan,available,,,high,low,4,,,,
 3414bfb4-35b5-4ce0-90e1-7ddd9c355100,brotherhood.fan,available,11.99,,high,low,11,name.com,,,
-1f062e3c-9891-4d5e-bf16-5587602ca9c2,greekalphabet.fan,available,11.99,,medium,low,14,name.com,,,
 59b27095-2882-435f-8653-1671a28a77e9,police.fan,available,11.99,,high,low,6,name.com,,,
 11ff7aa4-3843-4833-ba9b-6aa0fbc6ce5c,grungy.fan,available,11.99,71.99,low,low,6,name.com,,,09/08/2026 09:36
-8c20416e-b5cb-4df4-b033-89e57a06cd67,relief.fan,available,57.98,68.98,medium,low,6,namecheap,,,23/09/2026 07:06
-7996a01f-bd76-41b4-be16-a99727c4436f,reflexcamera.fan,available,11.99,,medium,low,13,name.com,,,
-542b97aa-9238-49b1-ad47-2ab52fd95e7d,auxetic.fan,available,11.99,71.99,low,low,7,name.com,,,07/08/2026 21:28
+542b97aa-9238-49b1-ad47-2ab52fd95e7d,auxetic.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 21:28
 a4c20ea6-c75a-4dc8-849d-7b92037e91a3,modeller.fan,available,11.99,,high,low,8,name.com,,,
-b4b039db-a0c7-4c65-94aa-1fb6729c6b7a,plantcommunity.fan,available,11.99,,high,low,15,name.com,,,
 61c4c7b4-643a-4a10-a537-3ee14e11af67,sneeze.fan,available,11.99,,high,low,6,name.com,,,
-15b5c91e-d84e-4083-b3a1-009233663659,providingthat.fan,available,11.99,,medium,low,14,name.com,,,
 5a31420e-08e9-483f-9c27-1c592c684768,own.fan,available,,,high,low,3,,,,
-8ebfb958-a906-4820-8a65-def0dc2c948f,tierce.fan,available,11.99,71.99,low,low,6,name.com,,,
+8ebfb958-a906-4820-8a65-def0dc2c948f,tierce.fan,available,11.99,71.99,medium,low,6,name.com,,,
 86f8b3a4-f326-46aa-a7f5-d768b8e05ccb,creating.fan,available,11.99,,high,low,8,name.com,,,
-b593a242-1b75-406c-a7d3-9aacfffe7f82,pinkgold.fan,available,11.99,,low,low,9,name.com,,,
-3ac96979-6e25-4e98-9faf-9175d1288041,amino.fan,available,11.99,71.99,low,low,5,name.com,,,
-340534f5-e311-4cd2-8b7a-ddde03e92aad,arched.fan,available,11.99,71.99,low,low,6,name.com,,,06/08/2026 14:34
-9f14e38a-fa62-436c-a0ad-cecb610848ff,phonecall.fan,available,11.99,,high,low,10,name.com,,,
+3ac96979-6e25-4e98-9faf-9175d1288041,amino.fan,available,11.99,71.99,high,low,5,name.com,,,
+340534f5-e311-4cd2-8b7a-ddde03e92aad,arched.fan,available,11.99,71.99,medium,low,6,name.com,,,06/08/2026 14:34
 0838ee98-2c95-48de-b5db-662af1be9bba,sex.fan,premium,1000,,high,medium,3,name.com,,,
-7739bcd3-87cd-42b5-810a-35da007ee9dc,firsttime.fan,available,11.99,,high,low,10,name.com,,,
 1be7c49d-e08a-4c02-8ad4-190d86a7aa7c,insure.fan,premium,123.75,,high,low,6,name.com,,,
-da34466e-7576-4ced-b3bc-c1cb4a7fb935,eremitic.fan,available,11.99,71.99,low,low,8,name.com,,,
 d94a2092-6aa4-45bd-858b-283de6f34c99,screenshot.fan,available,11.99,,high,low,10,name.com,,,
 82375392-2f63-4049-9dca-e0086483c923,episode.fan,available,11.99,,high,low,7,name.com,,,
-1c0f2fd5-ff44-4c1b-9776-a4d067eccb59,wedge.fan,available,11.99,,medium,low,5,name.com,,,
-95ee38fc-607b-4321-97a2-931a44ee5340,potentiality.fan,available,11.99,,low,low,12,name.com,,,
-637ac4f3-6847-40b1-9d2b-7858d608ff8b,alexic.fan,available,11.99,71.99,low,low,6,name.com,,,
-49df31a3-94e9-463c-a99a-a1362c0a0a97,lookunderrocks.fan,available,11.99,,medium,low,16,name.com,,,
-0fa805c1-8372-40ef-92bc-84cfb61f5dc1,burgerbun.fan,available,11.99,,high,low,10,name.com,,,
+1c0f2fd5-ff44-4c1b-9776-a4d067eccb59,wedge.fan,available,11.99,,high,low,5,name.com,,,
+95ee38fc-607b-4321-97a2-931a44ee5340,potentiality.fan,available,11.99,,high,low,12,name.com,,,
 bf240ecc-5c94-4940-b84e-bd4df6390d36,ages.fan,available,11.99,,medium,low,4,name.com,,,
-c8dfbdeb-b3d8-469d-a1ba-ddb39eae2516,safersex.fan,available,11.99,,medium,low,9,name.com,,,
-d00a5255-b6da-45e7-9b68-2a154459bf39,buyfood.fan,available,11.99,,high,low,8,name.com,,,
-cd9f6a20-5356-4745-8d16-10bb1a49ba82,mavin.fan,available,11.99,71.99,low,low,5,name.com,,,
-ace2bce6-7e85-45b6-b1d8-69f5bf2ff2c0,traveller.fan,available,11.99,,medium,low,9,name.com,,,
+cd9f6a20-5356-4745-8d16-10bb1a49ba82,mavin.fan,available,11.99,71.99,high,low,5,name.com,,,
+ace2bce6-7e85-45b6-b1d8-69f5bf2ff2c0,traveller.fan,available,11.99,,high,low,9,name.com,,,
 cd019df0-61cc-415f-8341-fcf732dfd0e3,kirkland.fan,available,,,high,low,8,,,,
-11df55d1-7479-4809-93ab-cc8faf6af448,enterontheboards.fan,available,11.99,,medium,low,19,name.com,,,
-5a11c767-671d-4059-9a4a-240b17c57411,exalt.fan,available,11.99,71.99,medium,low,5,name.com,,,
-133190c1-5e0c-4f11-a34a-7b13c4aa8f1a,openbar.fan,available,11.99,,high,low,8,name.com,,,
+5a11c767-671d-4059-9a4a-240b17c57411,exalt.fan,available,11.99,71.99,high,low,5,name.com,,,
 41647cff-3770-4f85-a2be-7f65eafb1f7c,pete.fan,premium,82.5,,high,low,4,name.com,,,
-e51db542-5d1a-497d-9a3f-d5e4ed116038,excelat.fan,available,11.99,,high,low,8,name.com,,,
-0401a226-f501-47ee-8e9a-e138587d0a78,questionmark.fan,available,11.99,,medium,low,13,name.com,,,
 3f81f2b4-40b8-4ae7-8b1f-abc9f677178b,produce.fan,available,11.99,,high,low,7,name.com,,,
-a1c7db96-3d9f-4a93-9851-d85c68a5f396,amort.fan,available,11.99,71.99,low,low,5,name.com,,,
-705f6d08-5ac6-4a5c-9b93-a7b530167fc4,passionately.fan,available,11.99,,medium,low,12,name.com,,,
-bcb3e17a-63ca-4759-b78b-b5fd0c1220c6,chemicaltoilet.fan,available,11.99,,medium,low,15,name.com,,,
-eea24c66-7fdf-4982-96e1-6530dc515fd2,strongcity.fan,available,11.99,,medium,low,11,name.com,,,
-c724cebb-be00-4b37-80e8-5bf9300b5b45,yard.fan,available,57.98,68.98,medium,low,4,namecheap,,,21/09/2026 11:13
+a1c7db96-3d9f-4a93-9851-d85c68a5f396,amort.fan,available,11.99,71.99,medium,low,5,name.com,,,
+705f6d08-5ac6-4a5c-9b93-a7b530167fc4,passionately.fan,available,11.99,,high,low,12,name.com,,,
 a0b02071-01bd-4594-9cdd-1415f25bf524,lang.fan,premium,123.75,,high,low,4,name.com,,,
-acc61028-f2df-4f98-985f-ced3d001c6c0,corking.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 12:20
-52a82bb4-e391-41e4-90d7-a2a9bbbdec74,arrogant.fan,premium,128.7,128.7,low,low,8,namecheap,,,22/09/2026 08:39
+acc61028-f2df-4f98-985f-ced3d001c6c0,corking.fan,available,11.99,71.99,high,low,7,name.com,,,08/08/2026 12:20
 037a17eb-6f88-458a-9ea2-3ee83cb2987d,artwork.fan,available,11.99,,high,low,7,name.com,,,
-5421419c-fed0-4482-94cd-e7d79382450d,audenesque.fan,available,11.99,71.99,low,low,10,name.com,,,07/08/2026 16:30
-37662b16-8d5d-49e7-83d1-811cc93b38bd,corrected.fan,available,57.98,68.98,medium,low,9,namecheap,,,23/09/2026 23:45
-f5569991-50b9-43cc-a215-c26df4f4dbbd,grandniece.fan,available,11.99,,high,low,10,name.com,,,
-d86af995-9c3a-405d-9ae7-78a85a34caa7,blinking.fan,available,57.98,68.98,medium,low,8,namecheap,,,22/09/2026 21:58
-599b6d44-8685-49c4-9503-d7cd49aa4544,yesno.fan,available,11.99,,low,low,6,name.com,,,
 1bc3aaa8-2fdf-4f15-bb67-6a0a6eb438bc,sky.fan,premium,250,,high,medium,3,name.com,,,
 3da367e4-a5bf-4854-bdae-1e59ef3ec363,nearly.fan,available,11.99,,high,low,6,name.com,,,
-b89eccd7-0d9e-44e5-951c-c42fcb920f3c,totality.fan,available,11.99,71.99,low,low,8,name.com,,,
-ae1c342d-0b61-4617-9b06-106c26bb5bcc,allover.fan,available,11.99,71.99,low,low,8,name.com,,,
-308915e0-eecb-40f4-8817-8bd9b94bc368,giveitupfor.fan,available,11.99,,medium,low,14,name.com,,,
-96a763d6-475d-4129-a33d-6bb48911d125,lvii.fan,available,11.99,71.99,low,low,4,name.com,,,
-60b3ecad-69e1-4d6e-9395-6fd1caaa1c79,vexation.fan,available,11.99,71.99,low,low,8,name.com,,,
-9aef21c3-8df3-4ebf-8e28-09e00a3a8f42,taketheknee.fan,available,11.99,,low,low,13,name.com,,,
-05ddb3c6-95ae-4edc-bdf9-a75105ee590b,distinctness.fan,available,11.99,,high,low,12,name.com,,,
-f16466a6-5187-4623-8dcb-85027af15b93,monitory.fan,available,11.99,71.99,low,low,8,name.com,,,
+b89eccd7-0d9e-44e5-951c-c42fcb920f3c,totality.fan,available,11.99,71.99,high,low,8,name.com,,,
+60b3ecad-69e1-4d6e-9395-6fd1caaa1c79,vexation.fan,available,11.99,71.99,medium,low,8,name.com,,,
+f16466a6-5187-4623-8dcb-85027af15b93,monitory.fan,available,11.99,71.99,medium,low,8,name.com,,,
 eda4a981-900b-4542-964b-425146b6be3e,marriage.fan,available,11.99,,high,low,8,name.com,,,
-f3e8ccbb-7fae-4520-8e25-bee99088d398,revolved.fan,available,11.99,,medium,low,8,name.com,,,
-01595729-c2f3-453e-b5e6-2aef04953e30,dothelaundry.fan,available,11.99,,medium,low,14,name.com,,,
+f3e8ccbb-7fae-4520-8e25-bee99088d398,revolved.fan,available,11.99,,high,low,8,name.com,,,
 6f45212f-3613-4c6b-9e3b-fd1ce337a7f0,baggage.fan,available,11.99,,high,low,7,name.com,,,
 6c02ddf6-3d3a-45ed-b56a-5b54de903f72,would.fan,available,11.99,,high,low,5,name.com,,,
-b9c4e55d-3ec6-4eea-b6db-e4e7af4f99e1,slick.fan,available,57.98,68.98,low,low,5,namecheap,,,24/09/2026 02:25
-578b3d86-8167-45e8-b3d4-4250ced1b3ae,atyourservice.fan,available,11.99,,high,low,15,name.com,,,
-ad366ff7-a4cb-443e-9e03-b8eb4cef54e4,returned.fan,available,11.99,,medium,low,8,name.com,,,
-7eaf48df-05f1-4e92-87d8-c5a9db706ea6,antiviral.fan,available,11.99,71.99,low,low,9,name.com,,,05/08/2026 20:06
+ad366ff7-a4cb-443e-9e03-b8eb4cef54e4,returned.fan,available,11.99,,high,low,8,name.com,,,
+7eaf48df-05f1-4e92-87d8-c5a9db706ea6,antiviral.fan,available,11.99,71.99,high,low,9,name.com,,,05/08/2026 20:06
 990364aa-fbe6-4273-9aa4-94edc89cde3c,awareness.fan,available,11.99,,high,low,9,name.com,,,
 7c544ccb-e66a-4c9e-86e5-0e1a49129b29,but.fan,available,11.99,,high,low,3,name.com,,,
-ca898ca6-5654-44f6-94ee-86787185f4dd,prototypic.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 15:42
-0096d40f-9f4e-46e4-82a6-4f3bc544a9a9,howlong.fan,available,11.99,,medium,low,8,name.com,,,
-42841afc-f719-4486-8784-a390df8af5bb,listed.fan,available,11.99,,medium,low,6,name.com,,,
-578a14a2-6ec4-46d3-bf3b-b36579850fe0,objectively.fan,available,11.99,,medium,low,11,name.com,,,
-d0a212f6-d65e-443d-b219-14376dc3989d,biology.fan,available,57.98,68.98,medium,low,7,namecheap,,,24/09/2026 02:45
-ad60bd37-bc07-4d61-b47e-300277b49c71,covered.fan,available,57.98,68.98,medium,low,7,namecheap,,,24/09/2026 00:50
-0bf600ef-07d7-4d56-9ee7-5ba7c93d24d2,yearround.fan,available,11.99,,high,low,10,name.com,,,
+ca898ca6-5654-44f6-94ee-86787185f4dd,prototypic.fan,available,11.99,71.99,medium,low,10,name.com,,,06/08/2026 15:42
+42841afc-f719-4486-8784-a390df8af5bb,listed.fan,available,11.99,,high,low,6,name.com,,,
+578a14a2-6ec4-46d3-bf3b-b36579850fe0,objectively.fan,available,11.99,,high,low,11,name.com,,,
 04be41d9-6c11-4127-959a-ead690c67f1b,mister.fan,premium,250,,high,low,6,name.com,,,
-8de3323d-0dab-4131-afea-35b6cee43eb8,avoidable.fan,available,11.99,71.99,low,low,9,name.com,,,07/08/2026 22:51
-a3d5567f-4e43-45e8-a3cc-8e1685b6ecf9,eyeofthebeholder.fan,available,11.99,,high,low,19,name.com,,,
-78b15704-7c1e-44f3-ac4d-5d3644acb8f6,captive.fan,available,11.99,71.99,low,low,7,name.com,,,
+78b15704-7c1e-44f3-ac4d-5d3644acb8f6,captive.fan,available,11.99,71.99,high,low,7,name.com,,,
 22b4b8ea-c938-4e8e-ba4b-92fcf845221f,initial.fan,available,11.99,,high,low,7,name.com,,,
-f5702ade-0c2c-499b-b762-4f58e24a9646,cockeyed.fan,available,11.99,71.99,low,low,8,name.com,,,07/08/2026 03:36
-54e05b95-f32f-4c36-b712-c62987e1e9df,four.fan,available,57.98,68.98,low,low,4,namecheap,,,21/09/2026 13:11
-10ead122-2a36-47c9-ab3b-7ee8ac4d6c84,thebahamas.fan,available,,,low,low,11,,,,
-554611ec-7ec4-488e-a356-bd914594bd71,lastminute.fan,available,11.99,,medium,low,11,name.com,,,
-df5ed2a3-62e9-494c-91f6-efd518d4bb2a,aaa.fan,premium,128.7,128.7,medium,medium,3,namecheap,,,
+df5ed2a3-62e9-494c-91f6-efd518d4bb2a,aaa.fan,premium,128.7,128.7,high,medium,3,namecheap,,,
 31e9c01c-3b08-4dc7-996c-eaf4235fb364,laptop.fan,available,11.99,,high,low,6,name.com,,,
-871d4794-12dc-44ea-b689-f0e86f3b5906,fifth.fan,available,11.99,71.99,low,low,5,name.com,,,
-67aecce5-0999-4de6-9ef2-65bbb6eb41e5,blacktea.fan,available,57.98,68.98,low,low,9,namecheap,,,24/09/2026 01:47
-476c8808-690c-411d-be78-30f61c419bd4,vanquish.fan,available,11.99,71.99,low,low,8,name.com,,,09/08/2026 05:32
-ea3304b6-ae1c-4804-a5ce-d10cd931cf5f,justsaying.fan,available,11.99,,medium,low,11,name.com,,,
-0d06e5d2-5854-41d9-ba9e-d32b7babcfb6,earlyadopter.fan,available,11.99,,high,low,13,name.com,,,
-fbaf441e-1020-4a5a-b320-ac12d651024a,algore.fan,available,11.99,,high,low,7,name.com,,,
-563891a7-8b19-493d-9cf3-4f982ac46c1c,bloodsample.fan,available,11.99,,high,low,12,name.com,,,
-86107d6d-569b-4837-9697-57b9ed6ffa99,goodgame.fan,available,11.99,,medium,low,9,name.com,,,
-8663e96d-e695-430a-bb53-96fb031f8807,cruel.fan,premium,128.7,128.7,low,low,5,namecheap,,,22/09/2026 17:21
+871d4794-12dc-44ea-b689-f0e86f3b5906,fifth.fan,available,11.99,71.99,high,low,5,name.com,,,
+476c8808-690c-411d-be78-30f61c419bd4,vanquish.fan,available,11.99,71.99,high,low,8,name.com,,,09/08/2026 05:32
 54f0e7f3-a544-4dd9-9427-eac9b418d9fa,grew.fan,available,11.99,,high,low,4,name.com,,,
-f7c079be-1ba7-4b72-a28c-a567b104241c,bootleg.fan,available,57.98,68.98,low,low,7,namecheap,,,22/09/2026 21:19
-7fffc7e6-909b-4a9a-9590-d2b076ae3cb1,appendaged.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 06:28
-45f2b9c5-54f0-4bd2-92bc-4aa2bf077028,returnticket.fan,available,11.99,,high,low,13,name.com,,,
 ff71554e-65cb-465b-8408-f2f0890fe1f5,hybrid.fan,available,11.99,,high,low,6,name.com,,,
 1295303e-7883-46fd-82e1-f8b59ee6a368,invent.fan,available,11.99,,high,low,6,name.com,,,
-f88068b5-2945-4e39-89d1-04dba9cf19e2,resignation.fan,available,11.99,,medium,low,11,name.com,,,
-6cc56bec-ee93-4b50-9efc-a12018c13da2,astomatal.fan,available,11.99,71.99,low,low,9,name.com,,,07/08/2026 09:41
-29f4bf0a-2079-4075-96d7-af8368cc9d82,postoffice.fan,available,11.99,,medium,low,11,name.com,,,
-6c4693ec-ee71-497d-b369-2ff7739a0c9a,rolling.fan,available,57.98,68.98,low,low,7,namecheap,,,19/09/2026 06:51
-1da9c44b-5b29-4f56-8819-7708e1269dd6,greatuncle.fan,available,11.99,,medium,low,11,name.com,,,
-d7f0ec1a-e8b0-4d3e-bf50-0adc5c2e5f2d,tush.fan,available,11.99,71.99,low,low,4,name.com,,,09/08/2026 11:45
+f88068b5-2945-4e39-89d1-04dba9cf19e2,resignation.fan,available,11.99,,high,low,11,name.com,,,
+29f4bf0a-2079-4075-96d7-af8368cc9d82,postoffice.fan,available,11.99,,high,low,11,name.com,,,
+d7f0ec1a-e8b0-4d3e-bf50-0adc5c2e5f2d,tush.fan,available,11.99,71.99,medium,low,4,name.com,,,09/08/2026 11:45
 b431324a-b5e1-43e8-972e-60aca4eb907b,retired.fan,available,11.99,,high,low,7,name.com,,,
-91fbcbc0-eb1c-4f70-8d30-55777eb5b113,loopy.fan,available,11.99,71.99,low,low,5,name.com,,,06/08/2026 21:22
+91fbcbc0-eb1c-4f70-8d30-55777eb5b113,loopy.fan,available,11.99,71.99,medium,low,5,name.com,,,06/08/2026 21:22
 4593301a-86be-4af3-b361-fea60a88d9bf,detective.fan,available,11.99,,high,low,9,name.com,,,
-92a8fb67-03ac-4992-8685-2fb79ce03ce6,lambent.fan,available,11.99,71.99,low,low,7,name.com,,,
-95d818c4-fec9-46a7-bf1a-dda73f026806,influenced.fan,available,11.99,,medium,low,10,name.com,,,
-c062fc93-70d0-49bd-8294-f36c1d52ae85,airdried.fan,available,11.99,71.99,low,low,9,name.com,,,
-96f194ed-77c2-4dc4-b565-be39d5d1d44d,successor.fan,available,11.99,,medium,low,9,name.com,,,
-38a326b1-8414-476b-a31b-98af1c0d9140,throwoff.fan,available,11.99,,medium,low,9,name.com,,,
+92a8fb67-03ac-4992-8685-2fb79ce03ce6,lambent.fan,available,11.99,71.99,medium,low,7,name.com,,,
+95d818c4-fec9-46a7-bf1a-dda73f026806,influenced.fan,available,11.99,,high,low,10,name.com,,,
+96f194ed-77c2-4dc4-b565-be39d5d1d44d,successor.fan,available,11.99,,high,low,9,name.com,,,
 f5a92413-0fde-49c0-be84-f72729a7b7a1,hic.fan,available,11.99,,high,low,3,name.com,,,
 91a5f61e-8a8f-4299-872b-06579b67e0a3,spirits.fan,available,11.99,,high,low,7,name.com,,,
 8c496dd2-e14f-41d5-9e7e-b2a4fad04fd0,developer.fan,resell,,,high,low,9,Dynadot Inc,17/06/2025 17:00,17/06/2026 17:00,
-e7dc0f44-746d-4edb-a9e0-912cdf5d408f,valueable.fan,available,11.99,,high,low,9,name.com,,,
-3f90cb51-de5b-46bb-9fda-549d18d8aa69,lxxxvii.fan,available,11.99,71.99,low,low,7,name.com,,,
-eca154de-7fb6-4919-806c-ffe701acc0c4,toandfro.fan,available,57.98,68.98,low,low,10,namecheap,,,13/09/2026 23:03
-19b9648c-dbc4-4aa3-9e5b-de623f74c446,annulate.fan,available,11.99,71.99,low,low,8,name.com,,,
-e63d2f29-9c6d-4cc8-8817-b620cbb6728f,damned.fan,available,57.98,68.98,low,low,6,namecheap,,,22/09/2026 21:41
-7782dd11-ba9e-4ba6-ac1f-a14abc8e60a8,sideways.fan,available,57.98,68.98,low,low,8,namecheap,,,24/09/2026 01:14
-284ab643-eb97-4c06-a5bb-61ece007a0e0,teeshirt.fan,available,11.99,,high,low,9,name.com,,,
+e7dc0f44-746d-4edb-a9e0-912cdf5d408f,valueable.fan,available,11.99,,medium,low,9,name.com,,,
+19b9648c-dbc4-4aa3-9e5b-de623f74c446,annulate.fan,available,11.99,71.99,high,low,8,name.com,,,
 cf1a1f1c-bd4e-4711-9e70-fd686de0e4d0,married.fan,available,11.99,,high,low,7,name.com,,,
-858b0c52-f305-41b0-8b33-a8bef1a2cc6c,aberrant.fan,available,11.99,71.99,low,low,8,name.com,,,
-a69c92ab-6f55-4a90-954b-604232e8cbac,allow.fan,available,11.99,71.99,low,low,5,name.com,,,06/08/2026 09:03
-91c50131-16a2-4daa-b4ec-fcec36ca24b9,makemusic.fan,available,11.99,,high,low,10,name.com,,,
-fd17b9cf-cd20-449a-b7c4-8094bf7d60d1,getwell.fan,available,11.99,,high,low,8,name.com,,,
-7ee18b55-b698-472c-808b-8736edf28c32,acre.fan,available,11.99,,medium,low,4,name.com,,,
+858b0c52-f305-41b0-8b33-a8bef1a2cc6c,aberrant.fan,available,11.99,71.99,high,low,8,name.com,,,
+a69c92ab-6f55-4a90-954b-604232e8cbac,allow.fan,available,11.99,71.99,high,low,5,name.com,,,06/08/2026 09:03
+7ee18b55-b698-472c-808b-8736edf28c32,acre.fan,available,11.99,,high,low,4,name.com,,,
 4a02318b-3ed2-46c6-9af7-b00fdb82307c,breathtaking.fan,available,11.99,,high,low,12,name.com,,,
-a6e446b2-3b9e-4a45-940e-8f1f8c526ed3,aramaic.fan,available,11.99,71.99,low,low,7,name.com,,,06/08/2026 12:13
+a6e446b2-3b9e-4a45-940e-8f1f8c526ed3,aramaic.fan,available,11.99,71.99,high,low,7,name.com,,,06/08/2026 12:13
 af2fe544-1e7c-47ad-a395-92756808d992,pharmacist.fan,available,11.99,,high,low,10,name.com,,,
 4556048f-32fb-4a1c-9df2-4ee7f1df7254,exaggerate.fan,available,11.99,,high,low,10,name.com,,,
-c382c414-de7a-439b-bb8c-108a96380451,favorable.fan,available,11.99,,medium,low,9,name.com,,,
-76538bf4-6f37-4ee3-81ef-0bc3f5773ef5,acerate.fan,available,11.99,71.99,low,low,7,name.com,,,
-80c5653d-6df0-442a-b2a4-023278691b87,frenchpancake.fan,available,11.99,,high,low,14,name.com,,,
-1b62700c-ce4e-452e-b589-a044e70810de,meddle.fan,available,11.99,,medium,low,6,name.com,,,
-60cd3f34-907a-466a-9e96-396354ea8aac,subrosa.fan,available,11.99,71.99,low,low,8,name.com,,,09/08/2026 12:09
-93e9723e-23ba-4edf-a8d8-7a07910e28ab,profitmargin.fan,available,11.99,,high,low,13,name.com,,,
-c3eaeb84-457d-4af9-99b8-025d7c2b3171,invariably.fan,available,11.99,,medium,low,10,name.com,,,
-754ae45c-abeb-4b32-a131-2fd25e089b0d,laborer.fan,available,11.99,,medium,low,7,name.com,,,
-ea0ba562-d8c5-426f-8a1f-13542d353e32,victor.fan,available,,,medium,low,6,,,,
-6f71d3ce-b6a6-4760-a671-7aa0c5583c35,seeyoulater.fan,available,11.99,,low,low,13,name.com,,,
-9e12c830-0ea9-4e05-875c-880d5713baa8,stripling.fan,available,11.99,71.99,low,low,9,name.com,,,
-61b63942-65e8-49af-a8bc-d7d3d2ac1c71,arthistory.fan,available,11.99,,high,low,11,name.com,,,
-6fcb458e-f610-463d-9b9d-53c198b9a66c,havethelastlaugh.fan,available,11.99,,high,low,19,name.com,,,
-339987cc-7bf2-47c4-83ca-c57ed0bd41d3,coruscant.fan,available,11.99,71.99,low,low,9,name.com,,,
-1a9a3551-b661-46d9-84b0-b5bb403a0464,passalong.fan,available,11.99,,high,low,10,name.com,,,
-c97ca13b-7d7f-4404-81cc-16fb9bf736ba,dieselengine.fan,available,11.99,,high,low,13,name.com,,,
-515bb81c-d60d-4161-aac7-5bb32b4dd497,goforgold.fan,available,11.99,,high,low,11,name.com,,,
-e1f14636-d9a9-4c8f-911f-ee6907a45c1a,recognised.fan,available,57.98,68.98,medium,low,10,namecheap,,,21/09/2026 15:30
-15e2a4b9-dc7e-4158-a316-1960685e507e,auld.fan,available,11.99,71.99,low,low,4,name.com,,,07/08/2026 17:21
-cf89df46-3f6e-4211-88b7-e694514c4213,amusive.fan,available,11.99,71.99,low,low,7,name.com,,,
-a4be2969-086c-45ac-bb47-1435dc598460,beaklike.fan,available,11.99,71.99,low,low,8,name.com,,,09/08/2026 03:59
-4677fe58-7b94-4a02-a485-08a076533e5a,acidulous.fan,available,11.99,71.99,low,low,9,name.com,,,
+76538bf4-6f37-4ee3-81ef-0bc3f5773ef5,acerate.fan,available,11.99,71.99,medium,low,7,name.com,,,
+1b62700c-ce4e-452e-b589-a044e70810de,meddle.fan,available,11.99,,high,low,6,name.com,,,
+c3eaeb84-457d-4af9-99b8-025d7c2b3171,invariably.fan,available,11.99,,high,low,10,name.com,,,
+754ae45c-abeb-4b32-a131-2fd25e089b0d,laborer.fan,available,11.99,,high,low,7,name.com,,,
+ea0ba562-d8c5-426f-8a1f-13542d353e32,victor.fan,available,,,high,low,6,,,,
+9e12c830-0ea9-4e05-875c-880d5713baa8,stripling.fan,available,11.99,71.99,medium,low,9,name.com,,,
+339987cc-7bf2-47c4-83ca-c57ed0bd41d3,coruscant.fan,available,11.99,71.99,medium,low,9,name.com,,,
+15e2a4b9-dc7e-4158-a316-1960685e507e,auld.fan,available,11.99,71.99,medium,low,4,name.com,,,07/08/2026 17:21
+cf89df46-3f6e-4211-88b7-e694514c4213,amusive.fan,available,11.99,71.99,medium,low,7,name.com,,,
 d1c1d868-80a1-4239-8faf-2d8cb910c2c0,clam.fan,available,11.99,,high,low,4,name.com,,,
-58944301-e6d3-4cf5-ad5f-80985f60331d,roll.fan,available,11.99,,medium,low,4,name.com,,,
-b90e906e-c812-435f-8817-0ff69a18b07d,butt.fan,available,11.99,71.99,low,low,4,name.com,,,09/08/2026 10:40
-8ca9dc8e-3ded-472e-ac01-ebe5903df52e,acarpous.fan,available,11.99,71.99,low,low,8,name.com,,,
+58944301-e6d3-4cf5-ad5f-80985f60331d,roll.fan,available,11.99,,high,low,4,name.com,,,
+b90e906e-c812-435f-8817-0ff69a18b07d,butt.fan,available,11.99,71.99,medium,low,4,name.com,,,09/08/2026 10:40
+8ca9dc8e-3ded-472e-ac01-ebe5903df52e,acarpous.fan,available,11.99,71.99,medium,low,8,name.com,,,
 77f34943-ad06-4962-89db-8d2140cf5794,suspense.fan,available,11.99,,high,low,8,name.com,,,
-c13af498-0a4f-40d7-9dd3-10b380f47e60,kill.fan,available,11.99,71.99,medium,low,4,name.com,,,
 b5272ec6-153c-4e45-b679-a2acea9f7ce6,bulb.fan,available,11.99,,high,low,4,name.com,,,
 ab6a7b60-956c-40f3-9d1f-de645790081c,appoint.fan,available,11.99,,high,low,7,name.com,,,
-cb2b95d7-a195-4ff9-8661-9a0eec28608f,gettofirstbase.fan,available,11.99,,high,low,17,name.com,,,
-2cc80391-3bd3-4c18-8cf6-0085c939a86d,tackabout.fan,available,11.99,,low,low,10,name.com,,,
-485c9aee-04f0-4bf1-af1e-b7c2a82b84d2,scummy.fan,available,11.99,71.99,low,low,6,name.com,,,
-83bf2b5f-4d95-410f-84fb-a78e046f4171,airy.fan,available,11.99,71.99,low,low,4,name.com,,,
+485c9aee-04f0-4bf1-af1e-b7c2a82b84d2,scummy.fan,available,11.99,71.99,medium,low,6,name.com,,,
+83bf2b5f-4d95-410f-84fb-a78e046f4171,airy.fan,available,11.99,71.99,high,low,4,name.com,,,
 8de11faf-ba4c-4074-b742-d730130d5dd6,esteem.fan,available,11.99,,high,low,6,name.com,,,
-7905e80e-bd6a-4bcf-865e-d0c46035bbd7,execrable.fan,available,11.99,71.99,low,low,9,name.com,,,
-715dba84-d3d2-4e36-9296-4dfc714653fb,vocalcords.fan,available,11.99,,medium,low,11,name.com,,,
-3ea0d7dc-cd14-4ab3-a8c2-5dc7bc63988d,airtight.fan,available,11.99,71.99,low,low,8,name.com,,,
-39a508a9-be63-40ff-ae5f-a60009eed9d9,machine.fan,resell,,,medium,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",30/06/2024 08:04,30/06/2027 08:04,08/09/2026 03:48
-6a4e586c-0067-4b4e-9301-0e00d237a1cb,auditive.fan,available,11.99,71.99,low,low,8,name.com,,,07/08/2026 16:49
-d8931edc-920c-472f-8019-4baf4da6715e,amaurotic.fan,available,11.99,71.99,low,low,9,name.com,,,
-320fe2f4-fe27-4bdb-b084-f003e8d3ff66,oslo.fan,premium,250,,medium,low,4,name.com,,,
-d637aa72-2dfe-4c49-bf20-06aad2e5b646,abundantly.fan,available,11.99,,low,low,10,name.com,,,
+7905e80e-bd6a-4bcf-865e-d0c46035bbd7,execrable.fan,available,11.99,71.99,medium,low,9,name.com,,,
+3ea0d7dc-cd14-4ab3-a8c2-5dc7bc63988d,airtight.fan,available,11.99,71.99,high,low,8,name.com,,,
+6a4e586c-0067-4b4e-9301-0e00d237a1cb,auditive.fan,available,11.99,71.99,medium,low,8,name.com,,,07/08/2026 16:49
+320fe2f4-fe27-4bdb-b084-f003e8d3ff66,oslo.fan,premium,250,,high,low,4,name.com,,,
+d637aa72-2dfe-4c49-bf20-06aad2e5b646,abundantly.fan,available,11.99,,high,low,10,name.com,,,
 51b624a4-e74b-49f4-94b9-4c45bf884986,alabama.fan,premium,250,,high,low,7,name.com,,,
-a4871bbe-8afe-4451-9af9-14b872593ed6,easymark.fan,available,11.99,,medium,low,9,name.com,,,
 737e649f-8c84-49b4-9192-84707beeca70,lager.fan,available,11.99,,high,low,5,name.com,,,
-b0816c1d-afe4-4e4b-be86-be790d491e49,anarmandaleg.fan,available,11.99,,medium,low,16,name.com,,,
 dceedfbf-8e18-4d9c-ae9a-467bd10ce84d,snapchat.fan,available,11.99,,high,low,8,name.com,,,
 e530ad29-d7a8-4ba9-a67b-f01c65f936ca,gore.fan,premium,123.75,,medium,low,4,name.com,,,
-f8b899d2-a79c-4c1c-8272-a93556ebf29b,acerbic.fan,available,11.99,71.99,low,low,7,name.com,,,
-04fe094c-fd72-4d21-995c-27dd083b9140,getto.fan,available,11.99,,high,low,6,name.com,,,
-18a89b7c-2be7-495b-8774-1967c30226fd,astounded.fan,available,57.98,68.98,low,low,9,namecheap,,,22/09/2026 03:42
+f8b899d2-a79c-4c1c-8272-a93556ebf29b,acerbic.fan,available,11.99,71.99,medium,low,7,name.com,,,
 940deb17-9c7f-4d71-bf28-2f92adc6c194,technique.fan,available,11.99,,high,low,9,name.com,,,
-efe8ece3-a5a0-439c-ac83-15b8cf968f47,lockbox.fan,available,11.99,,medium,low,7,name.com,,,
-d93abc05-e94a-4df3-8847-937efae82ca8,scowling.fan,available,11.99,71.99,low,low,8,name.com,,,09/08/2026 08:33
-722e5788-01a1-4a6a-81d8-4800e8ea0c6a,auspicious.fan,available,11.99,71.99,medium,low,10,name.com,,,22/09/2026 13:12
+efe8ece3-a5a0-439c-ac83-15b8cf968f47,lockbox.fan,available,11.99,,high,low,7,name.com,,,
+d93abc05-e94a-4df3-8847-937efae82ca8,scowling.fan,available,11.99,71.99,medium,low,8,name.com,,,09/08/2026 08:33
 d7a3e280-0e22-40fc-b9f7-6d5f21815882,siberian.fan,available,11.99,,high,low,8,name.com,,,
-678938ad-3be5-4f24-8311-5b317b87e82a,television.fan,available,57.98,68.98,medium,low,10,namecheap,,,23/09/2026 06:07
-7d0506be-e597-4243-aab7-9dc885cf03f4,letter.fan,available,57.98,68.98,medium,low,6,namecheap,,,24/09/2026 02:40
 ae2959b3-90f6-4b46-b319-af460631fcd2,cheeses.fan,available,11.99,,high,low,7,name.com,,,
-30a6d5c0-5a2a-4bfd-a0fa-409db4659384,appealable.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 05:46
-3d2e9763-dbd1-4bd0-b2e9-15faee59dca3,intheear.fan,available,11.99,,medium,low,10,name.com,,,
-7a062049-58f0-44e2-8393-2c302bb5df2f,pale.fan,available,11.99,,medium,low,4,name.com,,,
-a88150b2-f7f2-4ee5-8203-a8ceb617ddb3,athletics.fan,premium,128.7,128.7,medium,medium,9,namecheap,,,
-ce9b03bb-5e5a-43f6-8765-e17471de41d4,forestfire.fan,available,11.99,,medium,low,11,name.com,,,
-b0318b9a-89b1-4860-a8c8-1803f8a2db7b,godonlyknows.fan,available,11.99,,medium,low,14,name.com,,,
-0b39fd07-e6b8-4827-9f5f-998f6fb3ad3b,ambrosian.fan,available,11.99,71.99,low,low,9,name.com,,,
-fde296a8-406c-42ad-94ad-d68c29ffe622,allied.fan,available,57.98,68.98,medium,low,6,namecheap,,,22/09/2026 01:28
-074140bf-465d-46f9-8b3c-6da0351d130b,cxxx.fan,available,11.99,71.99,low,low,4,name.com,,,
-bd2b43b1-879c-44ab-b625-d3c5d6750986,dime.fan,available,11.99,,medium,low,4,name.com,,,
+7a062049-58f0-44e2-8393-2c302bb5df2f,pale.fan,available,11.99,,high,low,4,name.com,,,
+a88150b2-f7f2-4ee5-8203-a8ceb617ddb3,athletics.fan,premium,128.7,128.7,high,medium,9,namecheap,,,
+0b39fd07-e6b8-4827-9f5f-998f6fb3ad3b,ambrosian.fan,available,11.99,71.99,high,low,9,name.com,,,
+074140bf-465d-46f9-8b3c-6da0351d130b,cxxx.fan,available,11.99,71.99,high,low,4,name.com,,,
+bd2b43b1-879c-44ab-b625-d3c5d6750986,dime.fan,available,11.99,,high,low,4,name.com,,,
 e56dcf07-4612-4630-820f-677699caeae3,outback.fan,available,11.99,,high,low,7,name.com,,,
-48b7dd73-d930-4367-a45f-15fa962fce13,anemic.fan,available,11.99,71.99,low,low,6,name.com,,,
-8df88deb-0595-4090-878e-07b4fd595961,thisminute.fan,available,11.99,,low,low,11,name.com,,,
-11c08d28-5d08-4959-bd99-333beca0a5da,basal.fan,available,11.99,71.99,low,low,5,name.com,,,08/08/2026 21:24
+48b7dd73-d930-4367-a45f-15fa962fce13,anemic.fan,available,11.99,71.99,high,low,6,name.com,,,
+11c08d28-5d08-4959-bd99-333beca0a5da,basal.fan,available,11.99,71.99,medium,low,5,name.com,,,08/08/2026 21:24
 0c62462f-0bce-4e33-a80d-c1150bbcc045,cons.fan,available,11.99,,high,low,4,name.com,,,
-41ee7e8a-6dc6-41fd-8155-6021547c62af,commonguineapig.fan,available,11.99,,medium,low,17,name.com,,,
-df519a1d-4744-4a25-8cea-a0957bfd0099,abashed.fan,available,11.99,71.99,low,low,7,name.com,,,
-1b4b8e3d-9a7a-4789-8063-20d2bbc7ed82,appositive.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 08:04
+df519a1d-4744-4a25-8cea-a0957bfd0099,abashed.fan,available,11.99,71.99,medium,low,7,name.com,,,
 defe1e3e-83b5-4132-82ce-419250de4fe7,tend.fan,available,11.99,,high,low,4,name.com,,,
-22dec91f-81b2-45c3-bf55-08c39f2d54f7,allout.fan,available,57.98,68.98,medium,low,7,namecheap,,,22/09/2026 00:48
 23bd50d1-b24f-4449-9943-82bf1116823c,tribute.fan,available,11.99,,high,low,7,name.com,,,
 55ea0192-9547-4fd2-b7d8-09314b8ef628,case.fan,premium,123.75,,high,low,4,name.com,,,
-f80fd5b2-0e1a-4c7b-a21a-0b8bdc65a99b,hillcity.fan,available,11.99,,medium,low,9,name.com,,,
-d911c0e6-e434-46f3-9aa7-a100eeadb695,received.fan,available,11.99,,medium,low,8,name.com,,,
-2410833d-7f93-4fde-a5c7-7e4f10602029,getwiththetimes.fan,available,11.99,,high,low,18,name.com,,,
-1d7b9ffb-c36e-4376-8373-b4e163c0b0f2,wash.fan,available,11.99,,medium,low,4,name.com,,,
-c778fc74-bbdf-4728-93eb-ee5941290654,especially.fan,available,11.99,,medium,low,10,name.com,,,
-7fe9a679-69c7-4ae5-8ae3-2db350e0aad2,thirteen.fan,available,57.98,68.98,medium,low,8,namecheap,,,21/09/2026 11:32
-0516b3a7-e6c2-4a7d-b0b6-99d1a0e554d3,funnylooking.fan,available,11.99,,medium,low,13,name.com,,,
-e7d2375c-a694-48fe-9e1d-d8fc796961c5,alley.fan,available,11.99,,medium,low,5,name.com,,,
-741f8a8e-363f-4788-a7b6-be1e6a5c27c3,sombudy.fan,available,11.99,,medium,low,7,name.com,,,
-a6402ff3-474d-41d7-9777-91f6466b1ea7,appetitive.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 06:56
+d911c0e6-e434-46f3-9aa7-a100eeadb695,received.fan,available,11.99,,high,low,8,name.com,,,
+1d7b9ffb-c36e-4376-8373-b4e163c0b0f2,wash.fan,available,11.99,,high,low,4,name.com,,,
+c778fc74-bbdf-4728-93eb-ee5941290654,especially.fan,available,11.99,,high,low,10,name.com,,,
+e7d2375c-a694-48fe-9e1d-d8fc796961c5,alley.fan,available,11.99,,high,low,5,name.com,,,
 3bb4a58c-4ca2-457d-adde-4d7df8e4bd63,succeed.fan,available,11.99,,high,low,7,name.com,,,
-a14b7935-641c-487c-8b6b-981ca85792bc,wire.fan,available,11.99,,medium,low,4,name.com,,,
+a14b7935-641c-487c-8b6b-981ca85792bc,wire.fan,available,11.99,,high,low,4,name.com,,,
 0373a1ba-b145-4950-916a-5cabab4ca022,various.fan,available,11.99,,high,low,7,name.com,,,
-07499958-0f4e-4e8e-801e-d9ff929b1079,baroque.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 20:26
-bdee7785-8f57-4492-af57-528ab5090b22,intheend.fan,available,11.99,,medium,low,10,name.com,,,
-55f2f5e0-f513-4373-b3a1-df799fd69e3a,converted.fan,available,57.98,68.98,low,low,9,namecheap,,,23/09/2026 00:43
+07499958-0f4e-4e8e-801e-d9ff929b1079,baroque.fan,available,11.99,71.99,high,low,7,name.com,,,08/08/2026 20:26
 2ec52108-cf11-40be-9bf2-766a9ff04abf,ensure.fan,available,11.99,,high,low,6,name.com,,,
-02cdc064-7efd-4c48-a15b-ebd76d6d8b7c,virtuoso.fan,available,57.98,68.98,medium,low,8,namecheap,,,21/09/2026 17:38
-7e246682-668f-4a84-a759-8ee950c7dbb5,stations.fan,available,11.99,,medium,low,8,name.com,,,
-8d282277-502d-4c4f-9fda-5fb37d48105b,bearish.fan,available,11.99,71.99,low,low,7,name.com,,,09/08/2026 04:48
-a2e4e71d-bd7a-4de1-ae6e-65273ab45aff,conscious.fan,available,57.98,68.98,medium,low,9,namecheap,,,23/09/2026 20:38
-3ec4102c-22af-49ea-bd7e-be9cd52039d8,concluded.fan,available,11.99,71.99,low,low,9,name.com,,,
-862ac577-fe84-4ab5-8f26-398a74f5d8e2,portofcall.fan,available,11.99,,low,low,12,name.com,,,
-9250017c-253f-4c2a-800a-9727156448e5,sly.fan,available,57.98,68.98,low,low,3,namecheap,,,24/09/2026 01:29
-a613205a-2237-4330-bea9-b93f0e434157,analgesic.fan,available,11.99,71.99,low,low,9,name.com,,,
-6dd78b6b-5c19-4ba8-b6cd-d9a97b5ee0a0,amiss.fan,available,11.99,71.99,low,low,5,name.com,,,
-44b19914-248d-4e2a-83ea-9f258de3f984,goin.fan,available,11.99,71.99,low,low,5,name.com,,,16/09/2026 23:43
-d21d6143-abb7-4ee5-a087-574a102563f0,evaluative.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 08:13
+7e246682-668f-4a84-a759-8ee950c7dbb5,stations.fan,available,11.99,,high,low,8,name.com,,,
+8d282277-502d-4c4f-9fda-5fb37d48105b,bearish.fan,available,11.99,71.99,medium,low,7,name.com,,,09/08/2026 04:48
+3ec4102c-22af-49ea-bd7e-be9cd52039d8,concluded.fan,available,11.99,71.99,high,low,9,name.com,,,
+a613205a-2237-4330-bea9-b93f0e434157,analgesic.fan,available,11.99,71.99,medium,low,9,name.com,,,
+6dd78b6b-5c19-4ba8-b6cd-d9a97b5ee0a0,amiss.fan,available,11.99,71.99,high,low,5,name.com,,,
+d21d6143-abb7-4ee5-a087-574a102563f0,evaluative.fan,available,11.99,71.99,medium,low,10,name.com,,,06/08/2026 08:13
 3a57b022-84aa-4c41-b19b-9bcc2024f75d,fatigue.fan,available,11.99,,high,low,7,name.com,,,
-5c094665-6aa8-462a-8a60-5bdd3ed89691,walkfree.fan,available,11.99,,medium,low,9,name.com,,,
-14422a36-d2f1-4cce-bd0e-68b65ece6837,shed.fan,available,57.98,68.98,low,low,4,namecheap,,,23/09/2026 12:18
-0c594dc6-5952-473d-b5d7-0813672bbd6b,achromous.fan,available,11.99,71.99,low,low,9,name.com,,,
-8c1f8016-7f77-490f-831e-15931c4b3aa5,onebyone.fan,available,11.99,,medium,low,10,name.com,,,
-47e728f2-2c7a-4116-83e0-560c0e936e39,yawn.fan,available,11.99,,medium,low,4,name.com,,,
+47e728f2-2c7a-4116-83e0-560c0e936e39,yawn.fan,available,11.99,,high,low,4,name.com,,,
 3b536638-1ef1-4f25-b90d-258ce3a9b181,marooned.fan,available,11.99,,medium,low,8,name.com,,,
 ab357679-c9c9-4b1c-8b78-b50b9985b926,hunger.fan,available,11.99,,high,low,6,name.com,,,
-c7e69863-3685-442d-a5fc-80bd8947964c,acrid.fan,available,11.99,71.99,low,low,5,name.com,,,
-e2bc4503-cb1d-435d-b768-82816a2ace89,adviseable.fan,available,11.99,,medium,low,10,name.com,,,
+c7e69863-3685-442d-a5fc-80bd8947964c,acrid.fan,available,11.99,71.99,medium,low,5,name.com,,,
+e2bc4503-cb1d-435d-b768-82816a2ace89,adviseable.fan,available,11.99,,high,low,10,name.com,,,
 ba25e7b7-2008-4ceb-9dd8-0a053a4f5a65,besides.fan,available,11.99,,high,low,7,name.com,,,
-b423415c-6631-49a8-aef9-a91ebee3404e,bean.fan,available,11.99,,medium,low,4,name.com,,,
-3c99076f-1977-401a-a55a-cd125ef8d8bd,twentyone.fan,available,57.98,68.98,medium,low,10,namecheap,,,21/09/2026 12:30
-aa37c849-a367-4e5b-9195-414cdbdc56eb,prickly.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 17:34
-a8e578fc-dd01-4eb5-b0fb-8ef31dbdfcca,pubichair.fan,available,11.99,,low,low,10,name.com,,,
-ee2e4ba3-fe8d-417c-b2f2-98955176068e,hangloose.fan,available,11.99,,high,low,10,name.com,,,
-9761ffdd-e50c-4ac9-ae69-5aaf296b4c9f,diplomatic.fan,available,11.99,71.99,high,low,10,name.com,,,
+b423415c-6631-49a8-aef9-a91ebee3404e,bean.fan,available,11.99,,high,low,4,name.com,,,
+aa37c849-a367-4e5b-9195-414cdbdc56eb,prickly.fan,available,11.99,71.99,high,low,7,name.com,,,08/08/2026 17:34
 b08912b0-5ff8-413b-a8f0-bd5f2555b0f2,obsessive.fan,premium,123.75,,high,low,9,name.com,,,
-7a7e9a69-515d-4a4c-baf4-1e8c726da7ed,tired.fan,available,57.98,68.98,low,low,5,namecheap,,,22/09/2026 16:41
-f6bee2e2-77c7-4ae8-8f1b-331a1a64bf1e,topnotch.fan,available,11.99,71.99,low,low,8,name.com,,,
-f5abc57b-ad60-4ef7-b33e-2794f8a285ab,positive.fan,available,57.98,68.98,medium,low,8,namecheap,,,23/09/2026 14:53
+f6bee2e2-77c7-4ae8-8f1b-331a1a64bf1e,topnotch.fan,available,11.99,71.99,high,low,8,name.com,,,
 d91c1f26-5f1c-4d0d-954b-dbd36ac4db9b,cameroon.fan,available,,,high,low,8,,,,
 5b95179f-89b6-40af-a365-d16de9c382b9,characteristics.fan,available,11.99,,medium,low,15,name.com,,,
-19cdbc1a-0f05-4543-95b1-38f895db9c43,pointless.fan,available,11.99,,medium,low,9,name.com,,,
+19cdbc1a-0f05-4543-95b1-38f895db9c43,pointless.fan,available,11.99,,high,low,9,name.com,,,
 1fd9a45e-64b3-4f4d-952e-c4c04989aabb,chased.fan,available,11.99,,high,low,6,name.com,,,
-f5cdd1a3-c763-4690-878c-2bc63347dcc0,muhfuckah.fan,available,11.99,,medium,low,9,name.com,,,
-1a0245cc-01a7-48ff-a5f7-b042d0f261bd,bust.fan,available,57.98,68.98,low,low,4,namecheap,,,23/09/2026 09:51
-ec5a68f6-5a35-4b87-8e5b-692ec0869170,heavyhanded.fan,available,11.99,,medium,low,12,name.com,,,
-8e4b08c0-7d26-4ab1-a909-7020810696fa,pieceofpaper.fan,available,11.99,,low,low,14,name.com,,,
-02774543-6499-4496-92c7-acda99fb5774,eve.fan,premium,123.75,,high,medium,3,name.com,,,
-5f2fbe0d-3343-4f1b-a0dd-2f2d9ab53229,ilxx.fan,available,11.99,71.99,low,low,4,name.com,,,
-e724d183-4628-40ef-9eee-7ab52cb111ea,armless.fan,available,11.99,71.99,low,low,7,name.com,,,06/08/2026 19:54
-2e7ce752-87d3-4ea6-b909-77f1cb470590,autophytic.fan,available,11.99,71.99,low,low,10,name.com,,,07/08/2026 20:57
-bfb33260-43df-47bc-bc0c-08f608d2b5b8,rheumatoid.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 23:10
+e724d183-4628-40ef-9eee-7ab52cb111ea,armless.fan,available,11.99,71.99,high,low,7,name.com,,,06/08/2026 19:54
+bfb33260-43df-47bc-bc0c-08f608d2b5b8,rheumatoid.fan,available,11.99,71.99,medium,low,10,name.com,,,06/08/2026 23:10
 851b570b-b6bf-44d4-a850-f749739c3e78,altruist.fan,available,11.99,,high,low,8,name.com,,,
-4a1576dd-483f-4883-b82e-2803ce4c67b4,blocked.fan,available,57.98,68.98,low,low,7,namecheap,,,22/09/2026 22:08
-c02761e6-4c15-465d-af37-604848212784,adactylous.fan,available,11.99,71.99,low,low,10,name.com,,,
-e82c73c1-a8b7-4d4d-bd6e-80f73e908584,working.fan,available,57.98,68.98,medium,low,7,namecheap,,,19/09/2026 07:09
 c0468740-7fbf-400c-92db-cbcaf86e119c,eid.fan,available,11.99,,high,low,3,name.com,,,
-f2240917-d50b-47d2-92d2-811549328613,ternion.fan,available,11.99,71.99,low,low,7,name.com,,,
-320c652d-6e85-4db9-a8a7-e701872c6d3c,aphonic.fan,available,11.99,71.99,low,low,7,name.com,,,05/08/2026 23:17
+f2240917-d50b-47d2-92d2-811549328613,ternion.fan,available,11.99,71.99,medium,low,7,name.com,,,
+320c652d-6e85-4db9-a8a7-e701872c6d3c,aphonic.fan,available,11.99,71.99,medium,low,7,name.com,,,05/08/2026 23:17
 1ddb32fb-fde2-4f75-9034-2b1ca4f93942,granola.fan,available,11.99,,high,low,7,name.com,,,
-570f569e-39b6-4384-aea4-3e1c26d201d0,orangenotice.fan,available,11.99,,medium,low,13,name.com,,,
 571f8e45-5a21-4428-b6b8-a7ac38d14ad1,worker.fan,available,11.99,,high,low,6,name.com,,,
-392b1e22-47e9-49f1-8092-89d11aca9718,childlabour.fan,available,11.99,,medium,low,12,name.com,,,
-7aab3959-c52b-4602-9ea3-8323c21584ac,avestan.fan,available,11.99,71.99,low,low,7,name.com,,,07/08/2026 23:07
-e78a69cf-80b7-4ce0-94c4-8d8e1756d654,artless.fan,available,11.99,71.99,low,low,7,name.com,,,06/08/2026 23:47
-55ccc156-2853-4b28-92b9-602cf509dc2d,dismaying.fan,available,11.99,71.99,low,low,9,name.com,,,06/08/2026 04:36
-f24650a9-a1d2-4ed1-9724-150e98ebc31c,bearsized.fan,available,11.99,71.99,low,low,10,name.com,,,09/08/2026 04:23
-29507341-99dd-41ae-975f-109761fc6fec,albinal.fan,available,11.99,71.99,low,low,7,name.com,,,
-c019e248-c5cb-4b53-a445-f391c6b13ad7,tortoiseshell.fan,available,11.99,,medium,low,14,name.com,,,
+7aab3959-c52b-4602-9ea3-8323c21584ac,avestan.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 23:07
+e78a69cf-80b7-4ce0-94c4-8d8e1756d654,artless.fan,available,11.99,71.99,high,low,7,name.com,,,06/08/2026 23:47
 5680dd72-d790-462e-ad77-846b0be75122,supermodel.fan,available,11.99,,high,low,10,name.com,,,
-e7b3667a-4841-4f22-91c1-26898c1d6746,baculiform.fan,available,11.99,71.99,low,low,10,name.com,,,08/08/2026 05:01
-aa6e1e9f-5325-4aff-8fe5-e1cffe70880a,beguiling.fan,available,57.98,68.98,medium,low,9,namecheap,,,22/09/2026 01:38
 4315807a-cdd6-4054-8e28-7aad0f2a86ca,invented.fan,available,11.99,,high,low,8,name.com,,,
-3ec512ca-a1be-4d38-b322-2152e648f8d5,checkinto.fan,available,11.99,,high,low,10,name.com,,,
-b2c70bf3-5d54-4aed-a8c7-93040edb0389,summoned.fan,available,11.99,,low,low,8,name.com,,,
-8f43c955-a984-42d9-a125-e02b22098b76,affected.fan,available,11.99,71.99,low,low,8,name.com,,,
-ed1b6528-f84c-40f9-89d2-4fa89d3cc101,fanny.fan,available,11.99,71.99,low,low,5,name.com,,,09/08/2026 12:00
-264951c2-c136-4423-97e1-dd0216cccb13,waitfor.fan,available,11.99,,medium,low,8,name.com,,,
-7fbfecf5-498d-4155-85ea-cd47ad8d5cbe,waterfountain.fan,available,11.99,,high,low,14,name.com,,,
+b2c70bf3-5d54-4aed-a8c7-93040edb0389,summoned.fan,available,11.99,,medium,low,8,name.com,,,
+8f43c955-a984-42d9-a125-e02b22098b76,affected.fan,available,11.99,71.99,high,low,8,name.com,,,
+ed1b6528-f84c-40f9-89d2-4fa89d3cc101,fanny.fan,available,11.99,71.99,medium,low,5,name.com,,,09/08/2026 12:00
 c6334415-1416-4141-b854-5503e43ff95d,saw.fan,available,11.99,,high,low,3,name.com,,,
-cb4c511f-d091-4ae4-a252-0f47455aa1d2,newyorkstate.fan,available,11.99,,medium,low,14,name.com,,,
-9b2dd914-de3a-4f57-a98f-dbce18917d68,fannyadams.fan,available,11.99,,medium,low,11,name.com,,,
 5aaf481c-251f-456a-a5c4-522b778684d5,landing.fan,available,11.99,,high,low,7,name.com,,,
 178f5399-caea-4f96-a0cf-2b8d3b2c8379,garlic.fan,available,11.99,,high,low,6,name.com,,,
 b1f75ffe-4942-4288-b808-f1062d504001,depression.fan,available,11.99,,medium,low,10,name.com,,,
-2cd166c3-efed-43a0-83cd-56fbb5d44d58,anumberof.fan,available,11.99,,medium,low,11,name.com,,,
-e60e69d2-a287-4667-91c7-5bd21de61cda,shadow.fan,available,11.99,,medium,low,6,name.com,,,
-7e48361f-f67d-471a-9fbc-49a559955efe,rightandleft.fan,available,11.99,,low,low,14,name.com,,,
-204289f6-efbe-4f18-a96f-f4df02398edd,fiftieth.fan,available,11.99,71.99,low,low,8,name.com,,,
-de85123a-57f4-4398-babe-b86c57193424,onfoot.fan,available,11.99,,low,low,7,name.com,,,
+e60e69d2-a287-4667-91c7-5bd21de61cda,shadow.fan,available,11.99,,high,low,6,name.com,,,
 2bff76c6-d821-48f9-9fb8-92ed2989d375,tentative.fan,available,11.99,,high,low,9,name.com,,,
-3f94efac-6e07-4e17-b823-e7d715c7a214,serialkiller.fan,available,11.99,,medium,low,13,name.com,,,
-e439d0ba-b5af-4a13-8e0b-1195ffd3d573,toothdecay.fan,available,11.99,,low,low,11,name.com,,,
-51375503-d6f4-447b-af4e-cb2983027471,concerned.fan,available,57.98,68.98,low,low,9,namecheap,,,23/09/2026 18:58
-c8a73aae-90ac-4371-bc08-53df583a5a78,was.fan,available,11.99,,low,low,3,name.com,,,
-625c009b-cc2d-499f-a568-24dba6d8eaf3,pimply.fan,available,11.99,71.99,low,low,6,name.com,,,
-d17f1d9b-2e53-4b49-97ab-762e8614dd78,youneverknow.fan,available,11.99,,low,low,14,name.com,,,
-111eb3fe-89f4-4125-b0c4-9524d4be7934,abrasive.fan,available,11.99,71.99,low,low,8,name.com,,,
+c8a73aae-90ac-4371-bc08-53df583a5a78,was.fan,available,11.99,,medium,low,3,name.com,,,
+625c009b-cc2d-499f-a568-24dba6d8eaf3,pimply.fan,available,11.99,71.99,medium,low,6,name.com,,,
+111eb3fe-89f4-4125-b0c4-9524d4be7934,abrasive.fan,available,11.99,71.99,high,low,8,name.com,,,
 57a500b2-157b-4117-977b-b8b100b377b5,pub.fan,premium,123.75,,high,low,3,name.com,,,
 54f02ad6-efa3-47c2-841d-4723619ab04f,sunglass.fan,available,11.99,,high,low,8,name.com,,,
-fe5597b9-ec57-4e50-9517-a3a34ebc8128,safesex.fan,available,11.99,,medium,low,8,name.com,,,
 0dda5d90-fe7e-4090-ac22-0ad3fb1552c4,fuel.fan,available,11.99,,high,low,4,name.com,,,
-c0bf75a5-4cc6-4360-b977-59b0bb789b96,amoeboid.fan,available,11.99,71.99,low,low,8,name.com,,,
-22c0be00-4b08-4688-bd52-b4145d4c6e44,heckno.fan,available,11.99,,high,low,7,name.com,,,
-88bede3b-8485-488a-8717-b7864897b2de,acetic.fan,available,11.99,71.99,low,low,6,name.com,,,
-0a46e0a2-6011-43ae-8c4c-f6bb3eee4f6d,oxford.fan,available,11.99,,medium,low,6,name.com,,,
-2dee6798-6d1f-4f67-ac12-7b3833cd5c56,warm.fan,premium,128.7,128.7,medium,low,4,namecheap,,,21/09/2026 21:51
+c0bf75a5-4cc6-4360-b977-59b0bb789b96,amoeboid.fan,available,11.99,71.99,medium,low,8,name.com,,,
+88bede3b-8485-488a-8717-b7864897b2de,acetic.fan,available,11.99,71.99,medium,low,6,name.com,,,
+0a46e0a2-6011-43ae-8c4c-f6bb3eee4f6d,oxford.fan,available,11.99,,high,low,6,name.com,,,
 b5844316-729c-4237-8406-4d5497ffbb18,sunday.fan,available,11.99,,high,low,6,name.com,,,
-fd801846-9d7a-4c78-80e7-81cf9448cf38,compactcamera.fan,available,11.99,,high,low,14,name.com,,,
-816f19b6-8e50-4818-bae6-703773355dfc,center.fan,premium,128.7,128.7,medium,low,6,namecheap,,,23/09/2026 13:19
-cf74faf5-b6c0-451e-8b65-48d7b7b5122b,soundthealarm.fan,available,11.99,,high,low,15,name.com,,,
 207e0929-602e-4354-bec6-1c1ae083408b,advisor.fan,available,11.99,,high,low,7,name.com,,,
 fc524898-fd7d-48ff-b484-320851459b7f,netflix.fan,available,,,high,medium,7,,,,
-58dd7dc0-fe57-4e52-9bab-21106f89568c,arguable.fan,available,11.99,71.99,low,low,8,name.com,,,06/08/2026 18:32
+58dd7dc0-fe57-4e52-9bab-21106f89568c,arguable.fan,available,11.99,71.99,medium,low,8,name.com,,,06/08/2026 18:32
 6e8cf569-309b-4a4f-9e95-c75f94b1198f,requirement.fan,available,11.99,,high,low,11,name.com,,,
-15f880b7-385d-44d5-89ba-5fa29352bce6,stpetersburg.fan,available,11.99,,medium,low,14,name.com,,,
-5e7b7695-aed3-44e6-9edb-e4d10de5f590,bringit.fan,available,11.99,,high,low,8,name.com,,,
-dae2af00-30ad-4ade-b4a8-6bca16cfc488,businesstrip.fan,available,11.99,,high,low,13,name.com,,,
-ba65358d-f45e-4c2d-84b1-eae524c19217,complicate.fan,available,57.98,68.98,low,low,10,namecheap,,,08/09/2026 14:25
+ba65358d-f45e-4c2d-84b1-eae524c19217,complicate.fan,available,57.98,68.98,high,low,10,namecheap,,,08/09/2026 14:25
 e1921c60-4f51-4c9a-918a-d4e098b228a5,monday.fan,available,11.99,,high,low,6,name.com,,,
-f1c31790-acdc-4bb2-b376-f4042c647a22,bewildered.fan,available,11.99,71.99,low,low,10,name.com,,,07/08/2026 11:52
-b9373771-814a-4f1a-97c1-4b2e6d3a4b3d,bald.fan,available,11.99,71.99,low,low,4,name.com,,,08/08/2026 09:16
+f1c31790-acdc-4bb2-b376-f4042c647a22,bewildered.fan,available,11.99,71.99,medium,low,10,name.com,,,07/08/2026 11:52
+b9373771-814a-4f1a-97c1-4b2e6d3a4b3d,bald.fan,available,11.99,71.99,medium,low,4,name.com,,,08/08/2026 09:16
 b30163ba-d8ea-44d0-ba00-1f038e43558d,scented.fan,available,11.99,,high,low,7,name.com,,,
-39248d25-0dab-4ed1-803f-5b8a709b217d,tectonic.fan,available,11.99,71.99,low,low,8,name.com,,,06/08/2026 15:47
-255d8a0d-09fb-4045-a8a8-07971cfd5b96,communal.fan,available,57.98,68.98,medium,low,8,namecheap,,,23/09/2026 16:10
-3b261c8a-f90e-4034-958f-dd6772b7926b,anodic.fan,available,57.98,68.98,low,low,6,namecheap,,,
-1d0135ea-acaa-4f07-b79d-95ab17e6ea80,softwareengineer.fan,available,11.99,,high,low,17,name.com,,,
+39248d25-0dab-4ed1-803f-5b8a709b217d,tectonic.fan,available,11.99,71.99,high,low,8,name.com,,,06/08/2026 15:47
+3b261c8a-f90e-4034-958f-dd6772b7926b,anodic.fan,available,57.98,68.98,high,low,6,namecheap,,,
 73914af0-e374-496b-9e50-719ced5c9f02,paperback.fan,available,11.99,,high,low,9,name.com,,,
 96f2f2cb-2b3b-44e0-9c29-df913934f3e4,pricing.fan,available,11.99,,high,low,7,name.com,,,
-33271e8d-f3b5-4d41-a480-064eac4e8c88,boots.fan,available,11.99,,medium,low,5,name.com,,,
-4d17bb66-409d-4c34-83e7-ed55fffa9131,hightechnology.fan,available,11.99,,high,low,15,name.com,,,
+33271e8d-f3b5-4d41-a480-064eac4e8c88,boots.fan,available,11.99,,high,low,5,name.com,,,
 5076991c-5409-4f88-9495-08ab7cd21de3,tourist.fan,available,11.99,,high,low,7,name.com,,,
-9e8f6483-5730-4fb3-9537-c815df7dfb9e,noncitizen.fan,available,11.99,71.99,low,low,10,name.com,,,
-a37a8d41-63c8-492f-9fea-c3759dc87397,aucourant.fan,available,11.99,71.99,low,low,10,name.com,,,
-067a8d4c-9f6d-4084-9486-532870de8383,confirming.fan,available,57.98,68.98,medium,low,10,namecheap,,,23/09/2026 19:45
-b74d7369-99e1-4e20-b525-bc8ac6215c0a,longdozen.fan,available,,,medium,low,10,,,,
-91af0620-f06c-44f1-848f-13320f6a2fd2,particular.fan,available,11.99,,high,low,10,name.com,,,
-16a2f78e-6212-4a5b-8aa6-3f8e7eb5f1f7,poor.fan,available,11.99,,medium,low,4,name.com,,,
-efd3d895-209c-43aa-91c7-ee3108c92457,toiletroll.fan,available,11.99,,medium,low,11,name.com,,,
+9e8f6483-5730-4fb3-9537-c815df7dfb9e,noncitizen.fan,available,11.99,71.99,high,low,10,name.com,,,
 339e0e03-cb9b-438c-9618-383261b32dbd,bruise.fan,available,11.99,,high,low,6,name.com,,,
-dc295607-f682-4d33-9d0b-c8d22a3f97db,octonary.fan,available,11.99,71.99,low,low,8,name.com,,,
 ad0e6089-0298-43e8-beec-4bb1a5f0b3e8,feb.fan,available,11.99,,high,low,3,name.com,,,
-697f0116-0267-42c8-a363-a5add662704a,financialcrisis.fan,available,11.99,,medium,low,16,name.com,,,
-add71401-2828-498f-9a36-326e92591284,satan.fan,premium,123.75,,medium,low,5,name.com,,,
-b94bb654-5ff8-4d38-aa0f-c2fbf1f0839e,sportsbar.fan,available,11.99,,high,low,10,name.com,,,
-4896ef09-b098-4307-9952-f7fb0f65e7eb,jewbaiter.fan,available,11.99,71.99,low,low,10,name.com,,,
-cd7a1368-d871-4ebb-86ec-0557b89a8c16,above.fan,available,57.98,68.98,medium,low,5,namecheap,,,21/09/2026 14:29
-a3aab247-6849-4c77-9895-f1ff03ffdf8a,vice.fan,available,11.99,,medium,low,4,name.com,,,
-76b83b66-f4ac-42b7-bf9c-524276103105,chagrined.fan,available,11.99,71.99,low,low,9,name.com,,,
-bd908e0a-643b-4086-b4ab-48e857fe2d54,sushibar.fan,available,11.99,,high,low,9,name.com,,,
-4a9482da-03e1-4d1f-b0ef-a306f298b58b,readmylips.fan,available,11.99,,low,low,12,name.com,,,
-a2a6f8f6-abe8-4ea1-8e7f-04a09c40d395,daft.fan,available,11.99,71.99,low,low,4,name.com,,,06/08/2026 20:50
-182f3a5b-d2ef-4d70-8833-c6650d1aae96,announced.fan,available,57.98,68.98,low,low,9,namecheap,,,22/09/2026 05:10
+add71401-2828-498f-9a36-326e92591284,satan.fan,premium,123.75,,high,low,5,name.com,,,
+a3aab247-6849-4c77-9895-f1ff03ffdf8a,vice.fan,available,11.99,,high,low,4,name.com,,,
+76b83b66-f4ac-42b7-bf9c-524276103105,chagrined.fan,available,11.99,71.99,medium,low,9,name.com,,,
+a2a6f8f6-abe8-4ea1-8e7f-04a09c40d395,daft.fan,available,11.99,71.99,high,low,4,name.com,,,06/08/2026 20:50
 45862c89-9d79-4948-ac30-c27c1cf6195c,london.fan,premium,250,,high,medium,6,name.com,,,
-3ebf39f0-e7ec-4038-b8de-fba78d63c1cf,advisory.fan,available,11.99,71.99,medium,low,8,name.com,,,
-cc59f349-fccc-4776-a6fc-78c86250ded2,younggirl.fan,available,11.99,,low,low,10,name.com,,,
-86bfd3d4-b4a1-493f-bc7f-6f4cc801ae28,moveabout.fan,available,11.99,,low,low,10,name.com,,,
-bc0d7ed7-aafc-4430-83a5-f769e75670ac,cathartic.fan,available,11.99,71.99,low,low,9,name.com,,,05/08/2026 22:20
-82d4b692-ec4a-4267-b32d-a5a7b689de97,rosegold.fan,available,11.99,,medium,low,9,name.com,,,
+3ebf39f0-e7ec-4038-b8de-fba78d63c1cf,advisory.fan,available,11.99,71.99,high,low,8,name.com,,,
+bc0d7ed7-aafc-4430-83a5-f769e75670ac,cathartic.fan,available,11.99,71.99,high,low,9,name.com,,,05/08/2026 22:20
 7a98ca9c-979e-4588-a971-a6c4254bdf3a,triple.fan,available,11.99,,high,low,6,name.com,,,
 929d0941-7d39-4048-9956-794169ebb6e2,icon.fan,resell,,,high,medium,4,Squarespace Domains II LLC,22/07/2019 07:21,22/07/2027 07:21,19/09/2026 17:45
-4cc2e239-f251-4e73-8f37-0495b1c36390,amphibian.fan,available,11.99,71.99,low,low,9,name.com,,,
-96e70075-9126-4673-a88f-c2c3b786ee17,correlate.fan,available,57.98,68.98,medium,low,9,namecheap,,,23/09/2026 23:49
-01866011-1809-4840-a3e2-f4e59213446b,abdominous.fan,available,11.99,71.99,low,low,10,name.com,,,
-9c22c66b-d318-431b-a6cb-e32d6f0e65a6,detestable.fan,available,11.99,71.99,low,low,10,name.com,,,
-adeb3796-3230-49b1-bff8-b172a8bbf339,tenner.fan,available,11.99,71.99,low,low,6,name.com,,,21/09/2026 10:53
+4cc2e239-f251-4e73-8f37-0495b1c36390,amphibian.fan,available,11.99,71.99,high,low,9,name.com,,,
+01866011-1809-4840-a3e2-f4e59213446b,abdominous.fan,available,11.99,71.99,medium,low,10,name.com,,,
+9c22c66b-d318-431b-a6cb-e32d6f0e65a6,detestable.fan,available,11.99,71.99,medium,low,10,name.com,,,
 7447bd11-9b27-48ef-b3a0-389becb8cf27,distress.fan,available,11.99,,high,low,8,name.com,,,
-b3395e48-f4e7-4eec-8149-0da56742c0a9,belgian.fan,available,11.99,71.99,low,low,7,name.com,,,09/08/2026 12:51
-bb678edb-efda-45ca-b4e0-0d2e7f3bf12a,littleperson.fan,available,11.99,,high,low,13,name.com,,,
-561b45e4-7177-46b1-9355-43faefaa4947,jumping.fan,available,57.98,68.98,medium,low,7,namecheap,,,08/09/2026 06:49
-cd78af31-5b5d-4680-9c4e-dc4939a7b216,unreal.fan,available,11.99,71.99,low,low,6,name.com,,,22/09/2026 09:00
+b3395e48-f4e7-4eec-8149-0da56742c0a9,belgian.fan,available,11.99,71.99,medium,low,7,name.com,,,09/08/2026 12:51
+561b45e4-7177-46b1-9355-43faefaa4947,jumping.fan,available,57.98,68.98,high,low,7,namecheap,,,08/09/2026 06:49
 47b03380-c000-45cc-a5d7-ad44f1602a90,soldiers.fan,available,11.99,,medium,low,8,name.com,,,
-c3b5dd3f-7a15-4dc5-9677-13d48c86edd2,alkaliser.fan,available,11.99,71.99,low,low,9,name.com,,,
-b44d8831-8b17-4e9b-aaec-1f827232a2c9,strategy.fan,available,11.99,,high,medium,8,name.com,,,
-fd38bf15-80f5-46b0-9de4-ab58b622b1d3,adenoid.fan,available,11.99,71.99,low,low,7,name.com,,,
+fd38bf15-80f5-46b0-9de4-ab58b622b1d3,adenoid.fan,available,11.99,71.99,medium,low,7,name.com,,,
 f4824bf5-f0b8-4cb2-897b-6d840b88dec9,spray.fan,available,11.99,,high,low,5,name.com,,,
-7208d8c2-1270-4dbf-97b2-e14cfb046fe8,alloyed.fan,available,11.99,71.99,low,low,7,name.com,,,
-94f68c21-89f5-4e8c-b101-b0adf1ba3654,holly.fan,premium,123.75,,medium,low,5,name.com,,,
-9a9ad4d3-039d-422a-b532-0088c148d3a0,mynameis.fan,available,11.99,,low,low,10,name.com,,,
+7208d8c2-1270-4dbf-97b2-e14cfb046fe8,alloyed.fan,available,11.99,71.99,high,low,7,name.com,,,
+94f68c21-89f5-4e8c-b101-b0adf1ba3654,holly.fan,premium,123.75,,high,low,5,name.com,,,
 77679988-7c44-46f6-b043-6820a7c8516b,stops.fan,available,11.99,,high,low,5,name.com,,,
-e0edada3-45bf-4dcb-8ed7-4e260a1a266e,ripe.fan,available,11.99,,medium,low,4,name.com,,,
+e0edada3-45bf-4dcb-8ed7-4e260a1a266e,ripe.fan,available,11.99,,high,low,4,name.com,,,
 b9a879e8-f070-4234-bc8e-16a658289264,inspiring.fan,available,11.99,,high,low,9,name.com,,,
 2b2e8e5a-fbb3-4163-baf2-f6a1c57b0bc8,trading.fan,premium,500,,high,low,7,name.com,,,
-70ce7293-0ebc-44bb-b1d1-d9e4cf0fcfeb,like.fan,resell,,,medium,low,4,"DNSPod, Inc.",22/10/2021 13:15,22/10/2033 13:15,21/09/2026 23:58
-7a72f913-5c4c-42f6-8ed5-e5763a8f088d,everyday.fan,available,11.99,,high,low,8,name.com,,,
-63d080b5-80aa-4f28-9ef8-190dae3ccf5b,watchful.fan,available,11.99,71.99,low,low,8,name.com,,,
-42b06fb3-9bd8-486c-b8fa-ad4b671025f1,trivial.fan,available,11.99,,high,low,7,name.com,,,
-b4ce0bed-d5d7-45b7-aa5a-64e9df3a5a6b,agnate.fan,available,11.99,71.99,low,low,6,name.com,,,
-8b7cc258-683f-4ad8-a359-d9fc2730fdd8,amnic.fan,available,11.99,71.99,low,low,5,name.com,,,
-1c640313-c10e-47aa-8cb7-9f20c9fd415a,asopposedto.fan,available,11.99,,medium,low,13,name.com,,,
+63d080b5-80aa-4f28-9ef8-190dae3ccf5b,watchful.fan,available,11.99,71.99,high,low,8,name.com,,,
+b4ce0bed-d5d7-45b7-aa5a-64e9df3a5a6b,agnate.fan,available,11.99,71.99,medium,low,6,name.com,,,
+8b7cc258-683f-4ad8-a359-d9fc2730fdd8,amnic.fan,available,11.99,71.99,medium,low,5,name.com,,,
 770f103b-2ec2-46ae-8439-7c03e135ed9a,totaled.fan,available,11.99,,high,low,7,name.com,,,
-2272c320-74cd-4925-b71c-c541caf34906,upcoming.fan,available,11.99,71.99,low,low,8,name.com,,,06/08/2026 08:39
-8fce2ffd-0253-46a2-b379-afbbd53a1337,banal.fan,available,11.99,71.99,low,low,5,name.com,,,22/09/2026 16:37
-344e5e26-c08a-410d-8c64-15c257f3c8df,humanbeing.fan,available,11.99,,high,low,11,name.com,,,
-40461ace-5f94-4523-aacc-2146a3f62c55,wordplay.fan,available,11.99,,medium,low,9,name.com,,,
-12b60ba1-1987-4414-a8f0-1ff8f8622af8,voluntarily.fan,available,11.99,,medium,low,11,name.com,,,
-62dd0006-806d-4de4-a673-45e1cd28b381,upwards.fan,available,11.99,,medium,low,7,name.com,,,
-3e7b9547-bdc6-4326-920e-5609be27f7b9,field.fan,premium,82.5,,medium,low,5,name.com,,,
+2272c320-74cd-4925-b71c-c541caf34906,upcoming.fan,available,11.99,71.99,high,low,8,name.com,,,06/08/2026 08:39
+40461ace-5f94-4523-aacc-2146a3f62c55,wordplay.fan,available,11.99,,high,low,9,name.com,,,
+12b60ba1-1987-4414-a8f0-1ff8f8622af8,voluntarily.fan,available,11.99,,high,low,11,name.com,,,
+62dd0006-806d-4de4-a673-45e1cd28b381,upwards.fan,available,11.99,,high,low,7,name.com,,,
+3e7b9547-bdc6-4326-920e-5609be27f7b9,field.fan,premium,82.5,,high,low,5,name.com,,,
 e445e096-9936-4b80-9f8f-88a52cd2d6d5,morning.fan,available,11.99,,high,low,7,name.com,,,
-780fae1a-aad0-4d19-8092-0e5729df39f3,ridiculous.fan,available,11.99,71.99,medium,low,10,name.com,,,
-dc0a9c9a-f20d-4621-a4d5-f33e3e981452,letterofguarantee.fan,available,11.99,,medium,low,19,name.com,,,
 0986ff80-9cb0-4061-b783-346dfd8c7ca4,dicks.fan,available,11.99,,medium,low,5,name.com,,,
 48056079-ace7-4580-afbf-3eba8b2f4221,satisfactory.fan,available,11.99,,high,low,12,name.com,,,
-c1c3db5f-d911-40f8-b6e2-227bdce5892f,gooddoctor.fan,available,11.99,,high,low,11,name.com,,,
-07fed5fc-8515-401e-a685-f9f7c62ca2ef,them.fan,available,11.99,,medium,low,4,name.com,,,
-dde03eb2-4b9f-4e68-9c07-774a30a29ec7,aboriginal.fan,available,11.99,71.99,low,low,10,name.com,,,
-5e4f0209-8f72-4918-a7a3-4aca76894dc0,prevenient.fan,available,11.99,71.99,low,low,10,name.com,,,
-b001c6bb-4f4a-41b5-bab6-6c910a94e27b,armorclad.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 20:05
-8089dbb9-fef5-4f20-8089-75357e532100,criticise.fan,available,11.99,,medium,low,9,name.com,,,
-7fb169a0-f676-458f-83c8-f2ff759d972f,toorder.fan,available,11.99,,medium,low,8,name.com,,,
-2f5e50b1-ee51-4a79-bbd3-5a7741ae645d,vincible.fan,available,11.99,71.99,low,low,8,name.com,,,09/08/2026 05:42
-c5b3c456-3d4d-471d-926b-4dd39c26993c,gointo.fan,available,57.98,68.98,low,low,7,namecheap,,,16/09/2026 23:51
-1c178284-268c-4639-b474-714008c1cebd,aleutian.fan,available,11.99,71.99,low,low,8,name.com,,,
-f1bf8d08-5270-4727-b1e0-a335662f5c14,alchemic.fan,available,11.99,71.99,low,low,8,name.com,,,
-4b057c03-afa0-4c45-b11e-13e346de29f7,apocryphal.fan,available,11.99,71.99,low,low,10,name.com,,,06/08/2026 01:11
-283b26b7-94b0-4d4a-8c12-d1ee6f91c479,claimform.fan,available,11.99,,medium,low,10,name.com,,,
-c7352aad-b10a-4c5e-b099-b651b9944336,central.fan,available,57.98,68.98,low,low,7,namecheap,,,23/09/2026 12:46
+07fed5fc-8515-401e-a685-f9f7c62ca2ef,them.fan,available,11.99,,high,low,4,name.com,,,
+dde03eb2-4b9f-4e68-9c07-774a30a29ec7,aboriginal.fan,available,11.99,71.99,high,low,10,name.com,,,
+8089dbb9-fef5-4f20-8089-75357e532100,criticise.fan,available,11.99,,high,low,9,name.com,,,
+2f5e50b1-ee51-4a79-bbd3-5a7741ae645d,vincible.fan,available,11.99,71.99,medium,low,8,name.com,,,09/08/2026 05:42
+1c178284-268c-4639-b474-714008c1cebd,aleutian.fan,available,11.99,71.99,high,low,8,name.com,,,
+f1bf8d08-5270-4727-b1e0-a335662f5c14,alchemic.fan,available,11.99,71.99,medium,low,8,name.com,,,
+4b057c03-afa0-4c45-b11e-13e346de29f7,apocryphal.fan,available,11.99,71.99,medium,low,10,name.com,,,06/08/2026 01:11
 4a4640b6-5db0-4e01-83d3-ce1066601786,strengthen.fan,available,11.99,,high,low,10,name.com,,,
-1294ced3-b302-4bb2-b95a-9512ef0e70fa,offstage.fan,available,11.99,71.99,medium,low,8,name.com,,,08/08/2026 06:14
-032fda9c-cb06-4c9b-88b8-a99ca04d6f49,foolish.fan,premium,123.75,123.75,medium,low,7,name.com,,,
-89e8a02b-d6a7-4182-84d1-cbe9ab0309d2,yourstruly.fan,available,11.99,,medium,low,11,name.com,,,
+1294ced3-b302-4bb2-b95a-9512ef0e70fa,offstage.fan,available,11.99,71.99,high,low,8,name.com,,,08/08/2026 06:14
 dd76d447-712b-4d18-a6b7-7f6799a7e07e,practicing.fan,available,11.99,,high,low,10,name.com,,,
-d235b2d2-2ece-49ea-a0a1-27fa89995eaf,wrongly.fan,available,11.99,,medium,low,7,name.com,,,
-64ada8b7-35ed-4d44-8928-1988d553af6f,stricken.fan,available,11.99,71.99,low,low,8,name.com,,,
-73c4321c-9783-45a5-ad35-bf8ab442774e,putonthemap.fan,available,11.99,,low,low,14,name.com,,,
+64ada8b7-35ed-4d44-8928-1988d553af6f,stricken.fan,available,11.99,71.99,high,low,8,name.com,,,
 8d2024c1-9a73-49e9-b050-99fb103b2e92,literal.fan,available,11.99,,high,low,7,name.com,,,
-99a12ef4-009a-4869-aaba-33e6b1b144dc,leash.fan,available,11.99,71.99,low,low,5,name.com,,,
-cacdd04c-791a-49e4-8801-dbe5da3da287,onemoment.fan,available,11.99,,high,low,10,name.com,,,
-622a60e4-655a-40d4-b69c-82c186f1646b,bare.fan,available,57.98,68.98,low,low,4,namecheap,,,22/09/2026 11:54
-ac465050-f760-404d-9cea-fabac9016044,phonesurvey.fan,available,11.99,,medium,low,12,name.com,,,
+99a12ef4-009a-4869-aaba-33e6b1b144dc,leash.fan,available,11.99,71.99,high,low,5,name.com,,,
 208631ae-46ac-40d8-a2ee-6e637e0c1983,grin.fan,available,11.99,,high,low,4,name.com,,,
-948b402a-73b6-4eaa-8005-6d6e6d23c354,scorched.fan,available,11.99,71.99,low,low,8,name.com,,,
-a5ea0929-8d36-46b7-bb65-f6da701f3943,passengerseat.fan,available,11.99,,high,low,14,name.com,,,
+948b402a-73b6-4eaa-8005-6d6e6d23c354,scorched.fan,available,11.99,71.99,medium,low,8,name.com,,,
 5aca4d10-be88-435e-83a9-f725203e3069,boxing.fan,premium,82.5,,high,low,6,name.com,,,
-b4b02420-e060-49c3-b69c-9f2c00371661,nowadays.fan,available,11.99,,medium,low,8,name.com,,,
-afbe0312-b009-4f3e-a6de-8b43dcc7369e,introduced.fan,available,11.99,,medium,low,10,name.com,,,
+b4b02420-e060-49c3-b69c-9f2c00371661,nowadays.fan,available,11.99,,high,low,8,name.com,,,
+afbe0312-b009-4f3e-a6de-8b43dcc7369e,introduced.fan,available,11.99,,high,low,10,name.com,,,
 24b9325b-0243-4e90-8907-be0a9d6991cc,sued.fan,available,11.99,,low,low,4,name.com,,,
-2299ea45-2638-47c6-b84a-be94ea067fdc,secondguess.fan,available,11.99,,medium,low,12,name.com,,,
-61d00ff8-8973-4973-bc0f-e6cd9214676f,seeabout.fan,available,11.99,,low,low,9,name.com,,,
-78c1e434-4ffb-46ab-8588-2739d893383c,oak.fan,available,,,medium,low,3,,,,
+78c1e434-4ffb-46ab-8588-2739d893383c,oak.fan,available,,,high,low,3,,,,
 84750d47-7a86-4005-9d6e-045ae2a1ac29,russian.fan,premium,123.75,,high,low,7,name.com,,,
-82888e5c-6cb6-4a88-ade1-3b81f628736f,newwave.fan,available,11.99,71.99,medium,low,8,name.com,,,07/08/2026 21:44
 16c0c80b-31ed-4d7b-9664-e3490ffb16b4,unlike.fan,available,11.99,,high,low,6,name.com,,,
-cb0c944e-a4af-47dd-b768-5b259df006d6,chemically.fan,available,11.99,,medium,low,10,name.com,,,
 69bdbe7e-1ce4-4c9f-905a-17ff8180febd,seoul.fan,premium,250,,high,low,5,name.com,,,
-ecfe78a3-e734-41f1-85c4-6ae6667665cb,germanempire.fan,available,11.99,,medium,low,13,name.com,,,
-f5a04b9e-aaaf-45a9-bcfb-995b95e1e8dc,acidotic.fan,available,11.99,71.99,low,low,8,name.com,,,
+f5a04b9e-aaaf-45a9-bcfb-995b95e1e8dc,acidotic.fan,available,11.99,71.99,medium,low,8,name.com,,,
 b8515d91-cc12-4b0d-9d68-f5a1214dce94,success.fan,premium,250,,high,low,7,name.com,,,
-3dba1aba-7c91-41e9-8ed0-2516cbfc162e,cotyloidal.fan,available,11.99,71.99,low,low,10,name.com,,,
-ade4e78d-d429-4342-bdd4-06cad760f31a,wall.fan,premium,260,260,low,low,4,namecheap,,,23/09/2026 16:20
-6f8a3c1b-b1a9-4973-a82a-71afbf3d87fc,abloom.fan,available,11.99,71.99,low,low,6,name.com,,,
-d25f8021-911c-42e8-bedd-fc7701e83982,textbook.fan,available,57.98,68.98,medium,low,8,namecheap,,,23/09/2026 13:09
-4267244a-fdf8-4461-a508-cd204fbf12fe,engineer.fan,premium,128.7,128.7,medium,low,8,namecheap,,,23/09/2026 17:26
+6f8a3c1b-b1a9-4973-a82a-71afbf3d87fc,abloom.fan,available,11.99,71.99,medium,low,6,name.com,,,
 b54e0d1e-5f47-4a04-a7a6-eb84be40963e,real.fan,available,,,high,low,4,,,,
-a844e773-9848-4234-a6a2-a5b4c87c433d,arced.fan,available,11.99,71.99,low,low,5,name.com,,,06/08/2026 14:28
-ee3893af-f54f-497e-8f52-b32fefc03213,intheair.fan,available,57.98,68.98,low,low,10,namecheap,,,15/09/2026 05:25
-bc94d7f8-3952-46b4-b042-d48db1bcd335,inthefastlane.fan,available,11.99,,medium,low,16,name.com,,,
+a844e773-9848-4234-a6a2-a5b4c87c433d,arced.fan,available,11.99,71.99,medium,low,5,name.com,,,06/08/2026 14:28
 51180777-192c-44c6-a784-01cde2cb371d,buzzed.fan,available,11.99,,high,low,6,name.com,,,
-e8b176a5-e924-4d27-8f42-0f50b6e6a0f9,walloping.fan,available,11.99,71.99,low,low,9,name.com,,,08/08/2026 13:19
-036801be-3698-4428-b65f-5f2fc1904eda,motherfukker.fan,available,11.99,,medium,low,12,name.com,,,
-027786ef-694b-4a64-ac6e-414368025390,seventh.fan,available,11.99,71.99,low,low,7,name.com,,,
-66cbe6ad-9a38-4694-8094-afcc48dd40fa,dragout.fan,available,11.99,,medium,low,8,name.com,,,
+027786ef-694b-4a64-ac6e-414368025390,seventh.fan,available,11.99,71.99,high,low,7,name.com,,,
 2d21a92f-8c5a-47b9-99be-d453869b2e5d,uml.fan,available,11.99,,high,low,3,name.com,,,
 445f6828-ce6a-4cbd-897d-7a8a70ebc4c5,budget.fan,available,11.99,,high,low,6,name.com,,,
-ca2839f1-c1e9-4c1d-ab0a-27909278b578,toeachhisown.fan,available,11.99,,medium,low,15,name.com,,,
 594a6914-310e-4f6c-ac10-6f110458eaa3,glitter.fan,available,11.99,,high,low,7,name.com,,,
-ffadc32c-c5ed-4206-b636-a3f91d46bf74,coffeemaker.fan,available,11.99,,high,low,12,name.com,,,
-3565dc8b-894b-411f-ad8f-4f1099aadfcd,mount.fan,available,11.99,,medium,low,5,name.com,,,
+3565dc8b-894b-411f-ad8f-4f1099aadfcd,mount.fan,available,11.99,,high,low,5,name.com,,,
 2bd5d9dc-e8b0-4f45-b728-dc8b437d0a27,flourishing.fan,available,11.99,,high,low,11,name.com,,,
-fd9a14ed-82c4-4cff-860b-b423a66cd0c2,astringent.fan,available,11.99,71.99,low,low,10,name.com,,,
-5e37693e-97a5-42d7-af79-4ed65c1b54db,whatiswhat.fan,available,11.99,,low,low,12,name.com,,,
+fd9a14ed-82c4-4cff-860b-b423a66cd0c2,astringent.fan,available,11.99,71.99,medium,low,10,name.com,,,
 2b894331-4aab-4eac-8b77-8ba06c653232,bid.fan,premium,123.75,,high,low,3,name.com,,,
-b4c78ef7-fb37-4555-8e73-45e9d63868c7,augmented.fan,available,11.99,71.99,low,low,9,name.com,,,22/09/2026 12:42
 93fd87a2-621c-4f91-9e03-0a787b865e9f,bagel.fan,available,11.99,,high,low,5,name.com,,,
 308818a1-a179-4015-a405-853247858eb4,draw.fan,available,11.99,,high,low,4,name.com,,,
 9f82f0e0-0571-4fc7-afc3-7685d287021c,etch.fan,available,11.99,,high,low,4,name.com,,,
-e1ff4ecc-9c81-4c06-a711-6b6178d480db,planless.fan,available,11.99,71.99,low,low,8,name.com,,,
-d3fab6e6-b134-480b-b63c-0b03c91ac04e,placative.fan,available,11.99,71.99,low,low,9,name.com,,,06/08/2026 06:07
+e1ff4ecc-9c81-4c06-a711-6b6178d480db,planless.fan,available,11.99,71.99,medium,low,8,name.com,,,
 1259a58a-58e8-49b6-ba2d-3482b8f68250,clickbait.fan,available,11.99,,high,low,9,name.com,,,
-94b5b7f7-d2eb-47af-8a5a-15cc6c0bf287,energizing.fan,available,11.99,71.99,medium,low,10,name.com,,,
-37693ec6-9c21-4379-afda-3bb018ae4e90,putterabout.fan,available,11.99,,low,low,12,name.com,,,
-1f46e9bf-e741-4223-91f6-a3ef92c62f53,steeltoeboot.fan,available,11.99,,high,low,14,name.com,,,
-53fd5414-fceb-402c-9174-591dd7dd46b0,aoristic.fan,available,11.99,71.99,low,low,8,name.com,,,05/08/2026 21:43
-d3557bc7-81eb-49f1-9b95-5949d91f1c21,taketowife.fan,available,11.99,,low,low,12,name.com,,,
-6253772c-4389-44b1-875c-6b2603c3c6a5,lovesome.fan,available,11.99,71.99,low,low,8,name.com,,,
-f415af08-35b3-480e-a847-f88a6a63301b,childporn.fan,available,11.99,,medium,low,10,name.com,,,
-d8fde4e1-94d3-4fd1-aa65-052a6a09d498,amebous.fan,available,11.99,71.99,low,low,7,name.com,,,
-f7650c33-1ab3-4717-bad6-1927302b2e53,stately.fan,available,11.99,71.99,low,low,7,name.com,,,08/08/2026 20:22
+94b5b7f7-d2eb-47af-8a5a-15cc6c0bf287,energizing.fan,available,11.99,71.99,high,low,10,name.com,,,
+6253772c-4389-44b1-875c-6b2603c3c6a5,lovesome.fan,available,11.99,71.99,high,low,8,name.com,,,
+d8fde4e1-94d3-4fd1-aa65-052a6a09d498,amebous.fan,available,11.99,71.99,medium,low,7,name.com,,,
+f7650c33-1ab3-4717-bad6-1927302b2e53,stately.fan,available,11.99,71.99,high,low,7,name.com,,,08/08/2026 20:22
 aecc9c4a-1bd2-4fd1-a3bb-c8ba3837c4bd,profile.fan,available,11.99,,high,low,7,name.com,,,
-4e3c341a-d15c-496f-b098-e4cd8f1d8a9c,climbable.fan,available,11.99,71.99,low,low,9,name.com,,,07/08/2026 00:10
+4e3c341a-d15c-496f-b098-e4cd8f1d8a9c,climbable.fan,available,11.99,71.99,medium,low,9,name.com,,,07/08/2026 00:10
 ed603c22-87ec-48e1-9867-110c7db0a503,blockade.fan,available,11.99,,high,low,8,name.com,,,
-034aeaf3-4895-459e-8ce3-459612945be3,coffeetalk.fan,available,11.99,,high,low,11,name.com,,,
-e400ad9f-05c0-4704-b967-b90ee32b4911,combat.fan,available,11.99,,high,low,6,name.com,,,
 0a50425f-384e-433f-aeef-d9af8eef4d09,recover.fan,available,11.99,,high,low,7,name.com,,,
-fdfe6400-70b8-4129-8e91-1ae2ac35194d,overnight.fan,available,57.98,68.98,medium,low,9,namecheap,,,22/09/2026 00:44
-4643254c-bcd3-4707-9093-e4b33e0b0e5d,beefedup.fan,available,11.99,71.99,low,low,9,name.com,,,09/08/2026 07:44
-9eb820d4-e77f-4fb7-832a-7af1523e06f4,appointment.fan,available,57.98,68.98,medium,low,11,namecheap,,,24/09/2026 03:38
 5a8c8f5b-2a01-4c35-bee4-030cdd3a957d,admiration.fan,available,11.99,,high,low,10,name.com,,,
 a2283485-c908-49e1-8a2f-90b3753d7cb1,sausage.fan,available,11.99,,high,low,7,name.com,,,
-3f953640-a88a-4dba-a0d0-850cfbc33a41,bareassed.fan,available,11.99,71.99,low,low,10,name.com,,,08/08/2026 18:05
-49242de0-e20b-40e8-8f85-5aa56128f517,hotticket.fan,available,11.99,,high,low,10,name.com,,,
-bac68c42-488e-4541-803f-3ca839bbd60f,sketchout.fan,available,11.99,,medium,low,10,name.com,,,
-cac8e170-1eec-48d4-a014-0a88a4b5a7d0,howdoyoumean.fan,available,11.99,,medium,low,15,name.com,,,
 b9518d4a-f2f6-4dfa-9ef6-fddac22203e0,expertise.fan,available,11.99,,high,low,9,name.com,,,
 09648368-3ba4-4896-9e76-277b80f82e02,belong.fan,available,11.99,,high,low,6,name.com,,,
-6c3ed36f-371f-434b-a210-fc5259707b23,auric.fan,available,11.99,71.99,low,low,5,name.com,,,07/08/2026 17:36
+6c3ed36f-371f-434b-a210-fc5259707b23,auric.fan,available,11.99,71.99,medium,low,5,name.com,,,07/08/2026 17:36
 af619df8-f071-4f63-b66b-4fc56aafa0a2,hour.fan,available,11.99,,high,low,4,name.com,,,
-e6b5cbc8-2755-46e5-9719-9b975edabf2d,dives.fan,available,11.99,,medium,low,5,name.com,,,
-0c3c5475-d376-45f8-b0af-2984e92d91dd,haveotherideas.fan,available,11.99,,medium,low,16,name.com,,,
-d4cfbbed-f241-47db-828a-bf3b61b1b005,fleet.fan,available,,,medium,low,5,,,,
+e6b5cbc8-2755-46e5-9719-9b975edabf2d,dives.fan,available,11.99,,high,low,5,name.com,,,
 cda15c7b-abdd-4f0c-940e-a3ffa03f1610,adventure.fan,premium,123.75,,high,medium,9,name.com,,,
-b2fd697a-c48c-412f-b5b9-3aebd49d1b49,bloodless.fan,available,11.99,71.99,low,low,9,name.com,,,07/08/2026 02:19
-36f5de3f-2923-47c9-90a3-852d0eef3ea1,fiftyfifty.fan,available,,,high,low,11,,,,
-286c5c87-4906-4ce4-a5ca-6b8e56db8f13,pharmaceutical.fan,available,57.98,68.98,low,low,14,namecheap,,,19/09/2026 04:12
-56461341-433e-4437-b57d-e3b5a34ec4d9,worldwideweb.fan,available,11.99,,low,low,14,name.com,,,
-3a2764d8-0d1b-4906-aa53-73e05c74e547,whiskery.fan,available,11.99,71.99,low,low,8,name.com,,,08/08/2026 16:20
+b2fd697a-c48c-412f-b5b9-3aebd49d1b49,bloodless.fan,available,11.99,71.99,medium,low,9,name.com,,,07/08/2026 02:19
 fd670d91-14fc-483c-86b6-0657e3430dbc,greens.fan,available,11.99,,high,low,6,name.com,,,
-d19b2dec-f537-4629-a874-fce2b0201c37,fallinto.fan,available,11.99,,medium,low,9,name.com,,,
 e6a36ecb-e70e-4bc3-b1de-01d38f479f2f,nashville.fan,premium,250,,high,low,9,name.com,,,
 6c8c47b1-a8f0-4922-b5f9-f105ca81b098,psychic.fan,available,11.99,,high,low,7,name.com,,,
-b2a8ef92-afe6-40b8-9c9a-31df340cf97d,sixtysix.fan,available,11.99,71.99,low,low,9,name.com,,,
-1a1c6d1b-b417-4dbb-b626-99b5fe008659,unhappy.fan,available,11.99,71.99,high,low,7,name.com,,,
-f1c13cde-88eb-4e78-a5e0-1fe0c42622a6,aug.fan,available,11.99,71.99,low,low,3,name.com,,,07/08/2026 17:10
-c1518db8-e9db-4b48-a18c-ddc64dd595a2,greenbuilding.fan,available,11.99,,high,low,14,name.com,,,
-81a4dedd-571d-47ee-96b7-75da6c7c19f2,acids.fan,available,11.99,,low,low,5,name.com,,,
-e24baf22-6058-46f8-a280-f37250c422fc,achaian.fan,available,11.99,71.99,low,low,7,name.com,,,
-27aebfe1-6f3b-4405-9124-f433f4c2d76b,twentytwo.fan,available,57.98,68.98,medium,low,10,namecheap,,,21/09/2026 12:36
-f079381d-2e14-4170-a90e-ffa6d6a2668a,frenchpie.fan,available,11.99,,medium,low,10,name.com,,,
-136864f5-b12c-42cc-b2ed-d8cf185f2fb3,fivesome.fan,available,11.99,71.99,low,low,8,name.com,,,
-2b4ec458-f85f-47c1-b4ad-76bd8e046bde,allocable.fan,available,11.99,71.99,low,low,9,name.com,,,
-23ee1fae-e8fd-4827-8e4e-8e0cadaeca49,oneman.fan,available,11.99,,low,low,7,name.com,,,
-7153f280-0242-473f-ac1e-6aa627c5c91c,represented.fan,available,11.99,,medium,low,11,name.com,,,
-fa4792f0-7503-46a8-a970-ea4821b1912f,setgoing.fan,available,11.99,,low,low,9,name.com,,,
-998e64fe-3c81-4930-8c88-43aed137c9ca,blueberrypie.fan,available,11.99,,medium,low,13,name.com,,,
+f1c13cde-88eb-4e78-a5e0-1fe0c42622a6,aug.fan,available,11.99,71.99,high,low,3,name.com,,,07/08/2026 17:10
+81a4dedd-571d-47ee-96b7-75da6c7c19f2,acids.fan,available,11.99,,medium,low,5,name.com,,,
+7153f280-0242-473f-ac1e-6aa627c5c91c,represented.fan,available,11.99,,high,low,11,name.com,,,
 f31d682f-5606-4a9c-a139-7f91bdf2985e,hoops.fan,available,11.99,,high,low,5,name.com,,,
-f0734a46-a6a7-4328-9399-e1290d674b97,records.fan,available,11.99,,low,low,7,name.com,,,
-f30217e6-a7fc-45f3-b3bc-c21ff9286d63,breatheeasy.fan,available,11.99,,high,low,12,name.com,,,
-6838c3fc-a5e3-409f-9b09-64622143b466,curse.fan,available,57.98,68.98,low,low,5,namecheap,,,24/09/2026 04:27
-b300983e-1054-4239-83e9-1daeb3a08e45,provoke.fan,available,11.99,,medium,low,7,name.com,,,
-b3cde9a6-5485-44ce-9943-c0188314502e,warishell.fan,available,11.99,,low,low,11,name.com,,,
+f0734a46-a6a7-4328-9399-e1290d674b97,records.fan,available,11.99,,high,low,7,name.com,,,
+b300983e-1054-4239-83e9-1daeb3a08e45,provoke.fan,available,11.99,,high,low,7,name.com,,,
 7242b680-18f7-41fd-aefd-944fac2c4550,abaft.fan,available,11.99,71.99,low,low,5,name.com,,,
-d201366f-fd06-4460-8250-e025d4777c63,funfair.fan,available,11.99,,high,low,7,name.com,,,
-ccd5cbc3-e18c-4b99-9412-ab844c41010b,wellworn.fan,available,11.99,71.99,low,low,9,name.com,,,08/08/2026 11:24
-e99a02d4-54b8-4e5e-93f8-c59eea4d1f6f,apneic.fan,available,11.99,71.99,low,low,6,name.com,,,06/08/2026 00:40
+e99a02d4-54b8-4e5e-93f8-c59eea4d1f6f,apneic.fan,available,11.99,71.99,medium,low,6,name.com,,,06/08/2026 00:40
 4b8d3722-7bf8-4b1a-ac26-d8f35e6b893d,sweatshirt.fan,available,11.99,,high,low,10,name.com,,,
 f981b63b-ef50-49c3-ade7-358e043ef786,exercising.fan,premium,123.75,,high,low,10,name.com,,,
-f5d31ab5-ce3f-42cf-9066-015abd5063ca,alot.fan,available,11.99,,high,low,5,name.com,,,
-06fa7c71-ec09-4256-ab80-89cb93941183,slobabout.fan,available,11.99,,low,low,10,name.com,,,
-dd867b5b-f22a-4d44-bb47-ad059c36f1a0,relatedto.fan,available,11.99,,medium,low,10,name.com,,,
 a0a8de59-f6ee-44be-956a-c59958f398f8,solicit.fan,available,11.99,,high,low,7,name.com,,,
-4eb83e45-078b-4571-bd71-72669888ac7d,spongecake.fan,available,11.99,,medium,low,11,name.com,,,
 5d8bd345-6592-4205-a272-5a1b5e4fe2a7,alligator.fan,available,11.99,,high,low,9,name.com,,,
-c626738f-27ea-4d7b-896e-d1e1cd659e54,wikileaks.fan,available,11.99,,low,low,9,name.com,,,
-df0feefb-2f65-4c25-8157-cc3636e287fb,accrued.fan,available,11.99,71.99,low,low,7,name.com,,,
-b0bfb24c-08d1-42e6-91d4-1ee9d8f66387,fireengine.fan,available,11.99,,high,low,11,name.com,,,
-c0c59e60-9873-444b-9575-95fe37513990,necessary.fan,available,11.99,,medium,low,9,name.com,,,
-f156a4d0-14f5-4c56-85b0-2731b8398bf4,actiondoll.fan,available,11.99,,high,low,11,name.com,,,
-f7565fa1-61be-4bed-af91-1dec6394b102,conclusive.fan,available,57.98,68.98,medium,low,10,namecheap,,,23/09/2026 19:11
-ea385129-c2ca-4552-ae63-5eaa7dfd0b62,comein.fan,available,11.99,,high,low,7,name.com,,,
-d3fe7c77-cf36-40c6-ad8a-7e0be71cc4aa,zoologicalpark.fan,available,11.99,,high,low,15,name.com,,,
-e9ae71f6-2afd-49d6-abd8-f3401dc9794b,fallen.fan,available,11.99,,high,low,6,name.com,,,
+c626738f-27ea-4d7b-896e-d1e1cd659e54,wikileaks.fan,available,11.99,,medium,low,9,name.com,,,
+df0feefb-2f65-4c25-8157-cc3636e287fb,accrued.fan,available,11.99,71.99,high,low,7,name.com,,,
 5da999bb-c9b7-4dca-a110-02b9b8e36df2,witty.fan,premium,123.75,,high,low,5,name.com,,,
-39b8be25-68b0-46c9-be85-1d7d5fcae8b8,bedaubed.fan,available,11.99,71.99,low,low,8,name.com,,,09/08/2026 06:32
 8baec883-7a41-4ae9-8f40-d2ce12dd11ac,cell.fan,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",24/01/2025 15:15,24/01/2027 15:15,
-eee69030-d77f-4059-a9fe-51d8f11d7afd,apposable.fan,available,11.99,71.99,low,low,9,name.com,,,06/08/2026 07:48
-8c0cf69b-742a-47c6-b292-4e1e65a778ab,computerliterate.fan,available,11.99,,high,low,17,name.com,,,
-c3f05bff-c02e-4e99-a32e-f1cd47d643e7,diminished.fan,available,11.99,71.99,low,low,10,name.com,,,07/08/2026 15:00
-611bed6e-6050-4fa9-a23e-bcdda760ea2d,rulesisrules.fan,available,11.99,,medium,low,14,name.com,,,
+c3f05bff-c02e-4e99-a32e-f1cd47d643e7,diminished.fan,available,11.99,71.99,medium,low,10,name.com,,,07/08/2026 15:00
 f2cb0e1a-8b29-4230-809d-5b537640586a,fiber.fan,available,11.99,,high,low,5,name.com,,,
-1dce9d15-1e7d-4748-acb3-440b198b7507,amphoric.fan,available,11.99,71.99,low,low,8,name.com,,,
 ce69222f-3d39-4427-9052-a1cbbd3e167e,bar.fan,premium,123.75,,high,low,3,name.com,,,
 edae6a59-e69a-45c3-aef3-da536094fa07,resolution.fan,available,11.99,,high,low,10,name.com,,,
-5736b7c1-948b-44d7-aa91-14ecc79e2215,bronze.fan,premium,260,260,low,low,6,namecheap,,,23/09/2026 09:58
-eea97a86-8286-4153-bf19-665865acc317,romancatholic.fan,available,11.99,,high,low,14,name.com,,,
-95c6eda4-feb4-42eb-a1de-0f73e3e8e2cc,barely.fan,available,11.99,,medium,low,6,name.com,,,
-5589f3e6-5164-4506-86b9-476f78871514,prenatal.fan,available,57.98,68.98,medium,low,8,namecheap,,,22/09/2026 05:55
-347bda34-e8dc-416a-b488-ba54a06a081d,pimpled.fan,available,11.99,71.99,low,low,7,name.com,,,
-17191ea1-7f05-481b-ae1a-a33898b3e15d,flashsale.fan,available,11.99,,high,low,10,name.com,,,
-6a13c5e8-486a-43e1-8656-3bf73aa192b0,envisioned.fan,available,11.99,,high,low,10,name.com,,,
-8f715a10-ea0a-42c0-913a-0f467d5024a2,little.fan,premium,123.75,,high,low,6,name.com,,,
-87f45aa8-aefb-4007-a523-986da1cbe8ed,sec.fan,premium,123.75,,medium,low,3,name.com,,,
+95c6eda4-feb4-42eb-a1de-0f73e3e8e2cc,barely.fan,available,11.99,,high,low,6,name.com,,,
+87f45aa8-aefb-4007-a523-986da1cbe8ed,sec.fan,premium,123.75,,high,low,3,name.com,,,
 9d0f7e72-073f-47b5-ac58-e330ce942247,refresh.fan,available,11.99,,high,low,7,name.com,,,
 c024bc56-b9d4-4ee9-ae36-51b8641b0e14,loving.fan,available,11.99,,high,low,6,name.com,,,
 b24ba68f-b357-4a53-a2a9-34a98f2b640e,significantly.fan,available,11.99,,medium,low,13,name.com,,,
 1db4a530-3a64-4037-8e32-35920c32ee91,convene.fan,available,11.99,,high,low,7,name.com,,,
-8aa8ea24-9f6b-454e-84a2-6c379c28e523,atthecostof.fan,available,11.99,,medium,low,14,name.com,,,
-a4b05688-1e64-4446-9a82-fbfb3f5a4010,bulletinboard.fan,available,11.99,,medium,low,14,name.com,,,
-686f0fdd-1eca-4ab7-87cc-a0587f98396e,adust.fan,available,11.99,71.99,low,low,5,name.com,,,
-ec7c4e9e-7d71-452a-ac0a-412445789107,anasarcous.fan,available,11.99,71.99,low,low,10,name.com,,,
-0092c8ec-8f28-40dc-9906-7e35edb63e45,befitting.fan,available,11.99,71.99,low,low,9,name.com,,,09/08/2026 08:38
+686f0fdd-1eca-4ab7-87cc-a0587f98396e,adust.fan,available,11.99,71.99,medium,low,5,name.com,,,
+0092c8ec-8f28-40dc-9906-7e35edb63e45,befitting.fan,available,11.99,71.99,medium,low,9,name.com,,,09/08/2026 08:38
 57892377-385d-4257-8d9d-d4ce419f88e0,wages.fan,available,11.99,,high,low,5,name.com,,,
-d84b53c0-3362-4eac-9157-94e2f354f1a1,baptized.fan,available,11.99,71.99,low,low,8,name.com,,,08/08/2026 14:55
-cfa13129-ac06-49c3-bfe1-5a0b665a2bbe,edge.fan,premium,85.8,85.8,low,low,4,namecheap,,,23/09/2026 01:34
-7a5f9fd3-366f-4ea4-b6fc-58e47f7b16e6,alate.fan,available,11.99,71.99,low,low,5,name.com,,,
+d84b53c0-3362-4eac-9157-94e2f354f1a1,baptized.fan,available,11.99,71.99,high,low,8,name.com,,,08/08/2026 14:55
+7a5f9fd3-366f-4ea4-b6fc-58e47f7b16e6,alate.fan,available,11.99,71.99,high,low,5,name.com,,,
 6e082a7a-9840-4d71-84fd-e081d9af67a8,antiblack.fan,available,11.99,71.99,low,low,9,name.com,,,
-51eaa3f2-ecd3-4902-a3d0-f891d3919a86,summit.fan,available,11.99,,medium,medium,6,name.com,,,
+51eaa3f2-ecd3-4902-a3d0-f891d3919a86,summit.fan,available,11.99,,high,medium,6,name.com,,,
 8a376701-bc93-47e7-b2ce-1847b6ec6b37,spirited.fan,available,11.99,,high,low,8,name.com,,,
-7920c16b-5f6b-452d-9ee1-5847f95fd377,marihuana.fan,available,11.99,,medium,low,9,name.com,,,
-a0774622-c5bb-4445-8653-39f1921975f2,gobackintime.fan,available,11.99,,high,low,15,name.com,,,
+7920c16b-5f6b-452d-9ee1-5847f95fd377,marihuana.fan,available,11.99,,high,low,9,name.com,,,
 51286f68-80bf-42bf-9c84-15a14ab3c993,maxim.fan,available,11.99,,high,low,5,name.com,,,
-9c997c34-4d43-492f-819e-494a5ab576fd,bawdy.fan,available,11.99,71.99,low,low,5,name.com,,,09/08/2026 02:05
-b7c3e3d4-9f2e-4c93-a960-cbb2a57a7c4b,nineteen.fan,available,57.98,68.98,medium,low,8,namecheap,,,21/09/2026 12:05
-a6e5a0aa-adae-4e3a-8e9c-8514c35a25bf,cost.fan,available,11.99,,medium,low,4,name.com,,,
+9c997c34-4d43-492f-819e-494a5ab576fd,bawdy.fan,available,11.99,71.99,medium,low,5,name.com,,,09/08/2026 02:05
+a6e5a0aa-adae-4e3a-8e9c-8514c35a25bf,cost.fan,available,11.99,,high,low,4,name.com,,,
 35c909fb-177c-497f-824b-6aa588772c5a,koala.fan,available,11.99,,high,low,5,name.com,,,
 ff557772-4972-41a7-9b72-696a48cb683e,talks.fan,available,11.99,,high,low,5,name.com,,,
-71057cf7-40fd-407e-9fc4-15b4e6a1f15a,westindies.fan,available,11.99,,low,low,11,name.com,,,
-7d952113-8944-42d9-9f42-ea3db7760a73,advertent.fan,available,11.99,71.99,low,low,9,name.com,,,
-91d4a0af-2f55-46ec-acab-0f1bac70d834,xcvii.fan,available,11.99,71.99,low,low,5,name.com,,,
-db2c6c18-5708-41a4-8d9c-d5ca0e7f2a5e,holdopen.fan,available,11.99,,high,low,9,name.com,,,
-7bae7cdf-ec14-4b54-9737-44148a9c5908,winning.fan,available,11.99,,high,low,7,name.com,,,
-e6206324-119a-4fb0-a834-277bcef80bd5,square.fan,premium,260,260,low,low,6,namecheap,,,19/09/2026 16:04
+7d952113-8944-42d9-9f42-ea3db7760a73,advertent.fan,available,11.99,71.99,medium,low,9,name.com,,,
 48030871-a385-4ebe-8923-a9dfa257df72,ellen.fan,available,11.99,,high,low,5,name.com,,,
-b14df923-f1c4-4111-9b3b-2d1baa8af2e8,biological.fan,available,11.99,71.99,medium,low,10,name.com,,,22/09/2026 20:55
-cb07fd10-e054-4fa8-993d-cb7da5887f0a,atmost.fan,available,11.99,,medium,low,7,name.com,,,
 e18918a1-8d2c-480f-8783-185ffb94a822,difference.fan,available,11.99,,high,low,10,name.com,,,
-376e3614-2915-427e-8259-9b6c732ebd28,bits.fan,available,11.99,,medium,low,4,name.com,,,
+376e3614-2915-427e-8259-9b6c732ebd28,bits.fan,available,11.99,,high,low,4,name.com,,,
 b1684748-1563-4119-8930-0db8fc13b4e0,contrast.fan,available,11.99,,high,low,8,name.com,,,
+d3eeb613-ab5f-4099-be41-d18ae52176ec,comfortably.fan,available,11.99,,high,low,11,name.com,,,
+75ae3db3-f6d3-4466-a24b-ba0168ccda90,panoptic.fan,available,11.99,71.99,medium,low,8,name.com,,,
+199f42ff-49ae-4994-933f-08711f0c2499,upper.fan,available,11.99,,high,low,5,name.com,,,
+1a5089e2-6314-48d6-9dc5-b67c25e228e0,consistently.fan,available,11.99,,high,low,12,name.com,,,
+d88d0515-4d75-42a1-825d-daf35eaf63e5,jody.fan,available,11.99,,high,low,4,name.com,,,
+d6462cd5-0311-40e5-bf6a-bd046c9da86c,reply.fan,available,11.99,,high,low,5,name.com,,,
+312669f8-2d66-4596-be23-3b6ec72bae11,enwrapped.fan,available,11.99,71.99,medium,low,9,name.com,,,
+89b6f0ff-33ef-462b-825a-ea445a1062de,bidens.fan,available,11.99,,high,low,6,name.com,,,
+7f299406-41f6-44dd-a8d8-d97ba0e315fe,apical.fan,available,11.99,71.99,high,low,6,name.com,,,05/08/2026 23:58
+319267c5-754c-49c0-856e-664e0a89d622,afloat.fan,available,11.99,,high,low,6,name.com,,,
+0c303f2e-e707-4a29-b3dc-884ced85a0af,toddler.fan,available,11.99,,high,low,7,name.com,,,
+d89c39a1-43f6-4a55-a618-e925677e4fc8,appeal.fan,available,11.99,,high,low,6,name.com,,,
+ab0d44a4-8b88-4bc2-a301-690e4a380d9a,annelidan.fan,available,11.99,71.99,medium,low,9,name.com,,,
+445b0028-8c51-482f-bd4d-2a7f729aae7e,skin.fan,premium,123.75,,high,low,4,name.com,,,
+ee4b816b-acfe-4ee9-b86f-a7ffd04dfdfa,globular.fan,available,11.99,71.99,high,low,8,name.com,,,08/08/2026 10:06
+213c9bf5-bb5d-4d30-a04e-d0c3dcea60e8,indentured.fan,available,11.99,71.99,medium,low,10,name.com,,,06/08/2026 08:34
+75e51791-60df-4581-9c16-4d7a2a7f1a8b,spontaneity.fan,available,11.99,,high,low,11,name.com,,,
+8308b21d-aade-4376-bba1-5c9deba4aaa7,idiom.fan,available,11.99,,high,low,5,name.com,,,
+4a7eb0df-e5a6-4f93-a22a-b5d096edf395,brushing.fan,available,11.99,,high,low,8,name.com,,,
+0d0b7fbc-260f-4891-b577-e039503abe6c,streets.fan,available,11.99,,high,low,7,name.com,,,
+34a7bab0-b39e-46f2-96ca-fd775eee0d35,certificate.fan,available,11.99,,high,low,11,name.com,,,
+9889732c-7844-44c5-8200-e611b82bbc5e,aggravated.fan,available,11.99,71.99,high,low,10,name.com,,,
+6ceddd51-3522-4984-84e9-a44b36257c80,pyrenees.fan,available,11.99,,high,low,8,name.com,,,
+8fae3265-ee53-4170-b0d0-4dfa89282257,carpet.fan,available,11.99,,high,low,6,name.com,,,
+6f2e9ac0-6f56-4148-b712-11a391b065e7,meaningful.fan,available,11.99,,high,low,10,name.com,,,
+5c6d86cb-3044-459d-bfed-936cc29e8f48,basis.fan,available,11.99,,high,low,5,name.com,,,
+43830f38-dd51-4dee-b6e8-e700595e4bc5,accented.fan,available,11.99,71.99,medium,low,8,name.com,,,
+43709fe3-ab38-417b-b353-264a82105155,montreal.fan,premium,250,,high,low,8,name.com,,,
+cb3ccadd-355d-41a7-a3a4-5bb2fdd58dd3,crimes.fan,available,11.99,,high,low,6,name.com,,,
+e34c3d5b-6522-4809-912c-2c45d06066b7,hopefully.fan,available,11.99,,high,low,9,name.com,,,
+5e983d9a-2f46-4746-af12-7d69459c3ec1,owing.fan,available,11.99,,medium,low,5,name.com,,,
+8536d9ce-5f50-46bb-a689-2936df71cb52,artful.fan,available,11.99,71.99,high,low,6,name.com,,,06/08/2026 22:44
+906bf704-afdc-41e4-aaa6-c028fcb57c88,penis.fan,available,11.99,,high,low,5,name.com,,,
+7198a975-7882-4274-afc4-028144854352,several.fan,available,11.99,,high,low,7,name.com,,,
+5f758040-d35d-4018-8762-dff0aa43c542,tomboy.fan,available,11.99,,high,low,7,name.com,,,
+4faeeee8-5778-4e51-b0f2-eb28f59e73c8,kiss.fan,available,11.99,,high,low,4,name.com,,,
+d66bb194-6681-43c2-bfcd-b85d85281ec4,mouth.fan,available,57.98,68.98,high,low,5,namecheap,,,08/09/2026 03:51
+a16002f2-6659-4965-87d6-d58e415562ce,supra.fan,available,11.99,71.99,high,low,5,name.com,,,
+e30166c1-44a7-40a3-a909-f53f0ab64784,oddly.fan,available,11.99,,high,low,5,name.com,,,
+c65f2efc-747c-4919-8398-0303ce9dc39a,tracing.fan,available,11.99,,high,low,7,name.com,,,
+38c72ea9-4b3a-4ff5-b710-9523cadc9d5d,techno.fan,premium,250,,high,low,6,name.com,,,
+eda99642-fbd5-4607-8fd7-dff2b9fd83d4,deficit.fan,available,11.99,,high,low,7,name.com,,,
+bf1a7bcb-00e9-4836-8dfd-0a011d4de6c1,unfounded.fan,available,11.99,71.99,medium,low,9,name.com,,,08/08/2026 21:57
+f1ec22d6-cd75-4f88-bbe4-08c734f2c2e0,spherical.fan,available,11.99,71.99,high,low,9,name.com,,,08/08/2026 10:21
+0b71465a-a7bd-4a4c-aa8d-453189201270,stink.fan,available,11.99,,high,low,5,name.com,,,
+033ca880-de66-4bbb-9a57-a711ab39a0c9,buns.fan,available,11.99,71.99,medium,low,4,name.com,,,09/08/2026 10:54
+c792ab36-830d-4759-aeb1-53f1a3e1fa56,incorrect.fan,available,11.99,,high,low,9,name.com,,,
+013161d9-4472-4c76-bd5a-74b467bde0f7,drift.fan,available,11.99,,high,low,5,name.com,,,
+3a2e1316-074a-4f18-bebd-10577d1cfc27,drinking.fan,premium,82.5,,high,low,8,name.com,,,
+39f04b80-b940-4c53-b4df-b9043b3cdd43,tahoe.fan,available,11.99,,high,low,5,name.com,,,
+835a9182-23cf-4f6d-a767-180c86745b06,dislike.fan,available,11.99,,high,low,7,name.com,,,
+84db45fa-6e0b-47c1-b47d-8d1712a727ef,pesky.fan,available,11.99,71.99,high,low,5,name.com,,,
+cc749666-111d-41f1-8ddf-f30a8f91ac0c,involve.fan,available,11.99,,high,low,7,name.com,,,
+488fd4e7-487f-4ec2-9383-5b7e72668a8d,quint.fan,available,11.99,71.99,medium,low,5,name.com,,,
+8ce9da2f-9f3a-435d-956c-8ae00fbb48c9,abreast.fan,available,11.99,71.99,high,low,7,name.com,,,
+21ec8278-6c08-4dfd-b156-6dbf98d7b1e4,student.fan,premium,128.7,128.7,high,low,7,namecheap,,,
+4a519c1f-d77c-4339-ac9f-fcfca6e2bb14,indiana.fan,premium,250,,high,low,7,name.com,,,
+b6bcdfea-fcda-4793-8f1e-8258cd3173d4,implausible.fan,available,11.99,,medium,low,11,name.com,,,
+97803553-6781-41e8-bbc2-a87d1030f8a5,natural.fan,available,57.98,68.98,high,low,7,namecheap,,,08/09/2026 12:12
+6f964c10-a6dd-44af-a71d-56c36aee971e,broadly.fan,available,11.99,,high,low,7,name.com,,,
+2d993583-63fc-45c4-bb51-a95eb7b8a28a,appealing.fan,available,11.99,71.99,high,low,9,name.com,,,06/08/2026 05:51
+a2487e2f-6f0e-4bc2-bd86-6165c032aa27,palm.fan,available,11.99,,high,low,4,name.com,,,
+d480757d-0bd1-4778-a1e5-f5e74ac3e1d2,stillborn.fan,available,11.99,71.99,high,low,9,name.com,,,
+795b4905-1202-4bcf-b4b8-e84a9f6cbcdb,apian.fan,available,11.99,71.99,medium,low,5,name.com,,,05/08/2026 23:47
+3958e390-e915-4203-a318-4224eadac4b0,ablative.fan,available,11.99,71.99,high,low,8,name.com,,,
+899da183-b7c8-46cc-9a40-78b3c75b212c,articular.fan,available,11.99,71.99,medium,low,9,name.com,,,06/08/2026 23:26
+fe46e303-1232-4bde-9b78-b63cb50b2fe3,blistering.fan,available,11.99,71.99,high,low,10,name.com,,,
+c08dbb0f-845e-4cf9-987c-84f9b8e2170a,grinning.fan,available,11.99,,high,low,8,name.com,,,
+5f8e12e3-e676-49e4-bb30-e2b5f2e1c3be,rigid.fan,available,11.99,,high,low,5,name.com,,,
+00af9d89-d2c6-43b4-9248-b2b5dc4ababb,walkabout.fan,available,11.99,,high,low,10,name.com,,,
+80c8002e-a0a5-4490-8c76-ec4b406cc940,discomfort.fan,available,11.99,,high,low,10,name.com,,,
+79584bd2-0608-49b1-aa87-bfd8ae7c6b4e,blanket.fan,available,57.98,68.98,high,low,7,namecheap,,,08/09/2026 07:17
+5809e1cb-c989-4e7f-aa82-6ef9e34d71a3,relation.fan,available,11.99,,high,low,8,name.com,,,
+55bf2b5c-0dfe-46ee-a75c-214539b0ebf6,tie.fan,available,,,high,low,3,,,,
+14f9bac5-cffd-48cd-9acd-30fde4f627b4,phil.fan,available,11.99,,high,medium,4,name.com,,,
+b50dba73-bbe2-431f-93a5-dd8228df0b7c,autogenous.fan,available,11.99,71.99,medium,low,10,name.com,,,07/08/2026 20:16
+9c199859-f1a3-41e8-827b-b2c94b43d2a1,multitude.fan,available,11.99,,high,low,9,name.com,,,
+47f98a22-bdd7-4e52-9c80-3f95c8341425,scatty.fan,available,11.99,71.99,medium,low,6,name.com,,,
+83e9b68b-92b9-45c7-aa40-9b602763bd3b,troll.fan,available,,,high,low,5,,,,
+9eef9ec3-942c-4dbe-affd-ca472d296b5a,commonsense.fan,available,11.99,,high,low,12,name.com,,,
+44b7366d-65c8-4185-a8cf-ade8ae331d80,blood.fan,available,11.99,,high,low,5,name.com,,,
+7157afc6-a8b8-4a55-89eb-9c229e97d758,algal.fan,available,11.99,71.99,high,low,5,name.com,,,
+017ded7a-c0b2-44ad-aeef-889cfbb019ff,devote.fan,available,11.99,,high,low,6,name.com,,,
+1bb315bc-075d-4768-ab8e-c5815facebaa,longer.fan,available,11.99,,high,low,6,name.com,,,
+404a85de-ff2d-491f-b269-2f602c36be58,plentiful.fan,available,11.99,,high,low,9,name.com,,,
+47dc174b-1dcd-4cb4-8f5e-7f224d9848ab,barebacked.fan,available,11.99,71.99,medium,low,10,name.com,,,08/08/2026 18:44
+df3a54ec-18a5-4616-b0d4-d630bb30f84c,idle.fan,available,11.99,71.99,high,low,4,name.com,,,08/08/2026 21:52
+65ad66e7-688e-4fd6-a937-653b38f3917f,bury.fan,available,11.99,,high,low,4,name.com,,,
+44e13d30-e610-4848-bf8e-29bd46699bba,nokia.fan,available,,,high,low,5,,,,
+6c092694-a3c6-4cf7-8c8f-bbf5c727f431,alkaloidal.fan,available,11.99,71.99,medium,low,10,name.com,,,
+0107d38c-ea37-4d16-a7b1-b7e37dc97e4b,perceived.fan,available,11.99,,high,low,9,name.com,,,
+d8987441-84b8-4012-b463-908e398493ae,passcode.fan,available,11.99,,high,low,8,name.com,,,
+c0e54e0b-297a-41a5-91f4-7d45264e3188,yearbook.fan,available,11.99,,high,low,8,name.com,,,
+f145ef7d-9a1c-47b5-8661-89e210ba78cc,foot.fan,available,,,high,low,4,,,,
+99fddc32-ee9e-4c45-929f-00bcfd34f8f6,emoji.fan,premium,250,,high,low,5,name.com,,,
+a19be055-3058-45ba-b1ab-32ab9181684c,anodyne.fan,available,11.99,71.99,high,low,7,name.com,,,
+08406bcf-56f1-4693-9c50-760c50987cf6,poolside.fan,available,11.99,,high,low,8,name.com,,,
+d8dd63ae-2983-4072-9cd6-15c6e10a21a5,import.fan,available,11.99,,high,low,6,name.com,,,
+e9bd2bf0-0610-47f2-8304-214240c7385a,lobby.fan,available,11.99,,high,low,5,name.com,,,
+f0e85b0d-325b-4ecb-94c6-8e19251d530f,swastika.fan,available,11.99,,medium,low,8,name.com,,,
+0a9d482f-fbca-4f96-8fbf-0265c7f61f01,softly.fan,available,11.99,,high,low,6,name.com,,,
+17902575-7838-4db0-aa81-fb454fc8c4a9,outlook.fan,available,,,high,low,7,,,,
+5ed5c78e-1a7f-4492-9458-6c2c38b78956,environmentally.fan,available,11.99,,medium,low,15,name.com,,,
+dcae77f6-df5e-44eb-9ba6-32ed0c1a95c0,abrupt.fan,available,11.99,71.99,high,low,6,name.com,,,
+99354b4b-af8a-4773-9d3b-0ee1747da9f7,sleeping.fan,available,11.99,,high,low,8,name.com,,,
+b3e7cfea-0e51-4981-83ed-c588380e15c2,absolutist.fan,available,11.99,71.99,high,low,10,name.com,,,
+88c3fa6a-a1e6-46c4-acb7-fd6c93a32d9d,conscience.fan,available,11.99,,high,low,10,name.com,,,
+0d3e81b7-9614-4b1e-b42d-5be5605ac390,unnatural.fan,available,11.99,71.99,high,low,9,name.com,,,
+8348827c-563b-495f-a27e-517516c110a5,adventive.fan,available,11.99,71.99,medium,low,9,name.com,,,
+2c9b754e-9ebc-40a8-ab7e-39c2b8f85565,amidships.fan,available,11.99,71.99,medium,low,9,name.com,,,
+1d21a30b-177e-4aa1-ad64-acaf147e5fe9,omniscient.fan,available,11.99,71.99,high,low,10,name.com,,,
+ce5dd8b2-744f-40e4-b4bc-46f13d65dc8c,sub.fan,available,11.99,,high,low,3,name.com,,,
+6df3b06e-62e7-435e-96f8-f3e53ae5fa4a,abominable.fan,available,11.99,71.99,medium,low,10,name.com,,,
+a6cb1cfb-9912-41a5-8133-47befd696d9f,between.fan,available,11.99,,high,low,7,name.com,,,
+0f0d24d2-0d22-45ec-8612-191e9db26f17,omen.fan,available,11.99,,high,low,4,name.com,,,
+eaeaa527-0253-4439-9e6f-287d0a175588,nostrils.fan,available,11.99,,medium,low,8,name.com,,,
+787384de-289f-4195-bbe3-6b3a13f8fd4b,laudable.fan,available,11.99,71.99,high,low,8,name.com,,,06/08/2026 07:01
+20255edf-8857-4d5a-99c9-653342a92e48,wrong.fan,available,11.99,,high,low,5,name.com,,,
+7393a307-1059-49cd-9d6a-07fe093b0e65,france.fan,available,,,high,low,6,,,,
+118e1505-f9db-4c95-ba1d-f17d99049002,laziness.fan,available,11.99,,medium,low,8,name.com,,,
+4ddf22c0-0620-4efd-a0c3-77494e62404f,acidic.fan,available,11.99,71.99,high,low,6,name.com,,,
+b2b7a513-19c0-4dc9-8b44-e8826e71e2e1,june.fan,available,11.99,,high,low,4,name.com,,,
+14fa8a99-021c-459e-814c-4bd1ae298f56,peninsula.fan,available,11.99,,high,low,9,name.com,,,
+65a80818-fa97-4285-8ca6-3a8f580dfc42,actuarial.fan,available,11.99,71.99,high,low,9,name.com,,,
+71c89b78-a047-4642-955b-9d8efdf0589b,consult.fan,available,11.99,,high,low,7,name.com,,,
+dbf8fc02-b836-4e37-9f35-46bab521e77f,centesimal.fan,available,11.99,71.99,high,low,10,name.com,,,
+b5914f85-1572-4066-ae81-e8b740ccf8ca,unceasing.fan,available,11.99,71.99,high,low,9,name.com,,,
+8098f7c2-b1ec-4551-9e24-983164b67e00,nominee.fan,available,11.99,,high,low,7,name.com,,,
+77f54cc6-4f83-404a-81e4-65c3f5371907,glue.fan,available,11.99,,high,low,4,name.com,,,
+84732239-8723-4031-9495-182bcf50916e,however.fan,available,11.99,,high,low,7,name.com,,,
+d5ce2cb2-f900-49d0-a5f3-821dfafec683,moved.fan,available,11.99,,high,low,5,name.com,,,
+79cb143e-6f87-4e95-8122-68105285f28d,aunt.fan,available,11.99,,high,low,4,name.com,,,
+268f2fbf-5ecb-4336-9177-da4f0e27ae21,bless.fan,available,11.99,,high,low,5,name.com,,,
+2c60c8b6-b36b-413f-94ee-a9563e6487b9,publicized.fan,available,11.99,,high,low,10,name.com,,,
+ff67cb4a-429d-4fab-996c-4276969551ea,facebook.fan,available,,,high,medium,8,,,,
+a991a3aa-9eb1-4723-9508-341ebde6312f,amount.fan,available,11.99,,high,low,6,name.com,,,
+101da6f4-2cd3-4916-8eb2-f05b570847eb,xciv.fan,available,11.99,71.99,medium,low,4,name.com,,,
+c4db6994-3051-45d9-a476-6494c3e3eeda,barefaced.fan,available,11.99,71.99,medium,low,9,name.com,,,08/08/2026 09:20
+15804ceb-3881-442a-bc24-2c66657fbd14,honestly.fan,available,11.99,71.99,high,low,8,name.com,,,
+73d3be03-9030-4116-9779-caec4572b000,platter.fan,available,11.99,,high,low,7,name.com,,,
+c04e9e98-415d-421e-8320-d6f23a9a640b,spine.fan,available,11.99,,high,low,5,name.com,,,
+6611be23-f13d-424e-8be5-4f502d33c0de,timeworn.fan,available,11.99,71.99,medium,low,8,name.com,,,08/08/2026 11:14
+602cf2aa-7782-4d87-9703-1ff8bf4e6827,definitely.fan,available,11.99,,high,low,10,name.com,,,
+c088b9d9-80eb-441f-8a25-5978e50d52dc,aground.fan,available,11.99,71.99,medium,low,7,name.com,,,
+acf96c2c-69fb-4e65-91c8-144414fb4599,slot.fan,resell,,,high,low,4,"Sav.com, LLC",28/11/2025 17:00,28/11/2026 17:00,
+6b95199f-a890-478c-83a0-014bc9b365ac,her.fan,premium,123.75,,high,low,3,name.com,,,
+1aaba0af-41b3-4824-91cf-7af7457bad79,donation.fan,available,11.99,,high,low,8,name.com,,,
+a9473aff-df19-46fd-aedc-5335d0c33194,step.fan,available,11.99,,high,low,4,name.com,,,
+7714c1ee-30d0-4940-839d-660ee9e1127b,port.fan,available,11.99,,high,low,4,name.com,,,
+ba35c4f1-0997-4485-b381-5340a184b3e1,bash.fan,available,,,high,low,4,,,,
+7ad4ae5f-19b6-4abd-b8d2-a37cc3b5abed,handle.fan,available,57.98,68.98,high,low,6,namecheap,,,08/09/2026 13:26
+dd3ee9a1-5f6e-4430-944c-f7bb10f90b22,motive.fan,available,,,high,low,6,,,,
+469990e1-ad43-4632-8db7-4d038e204eab,ablaze.fan,available,11.99,71.99,high,low,6,name.com,,,
+e5bbbe60-a0b3-44f1-98d3-8bbd0349b934,rubber.fan,available,11.99,,high,low,6,name.com,,,
+accb73ec-a893-4524-ad4e-509f8a0dfe47,interstate.fan,available,11.99,,high,low,10,name.com,,,
+89162741-81f8-4f82-b057-5608ff2636f1,fought.fan,available,11.99,,medium,low,6,name.com,,,
+34cc61ab-51d2-41f1-bcfc-72f756a79ba0,aim.fan,premium,250,,high,low,3,name.com,,,
+0f2f971f-5cb0-4b8b-873f-b6ebd61815bc,suspend.fan,available,11.99,,high,low,7,name.com,,,
+c99a632a-4726-40b1-83c1-db9b643cf843,redemption.fan,available,11.99,,high,low,10,name.com,,,
+a7caec61-7d17-4e9d-842e-4f84386f7a82,amnesic.fan,available,11.99,71.99,medium,low,7,name.com,,,
+e15d5517-aed1-4202-bb62-3ee30c1575f0,adrift.fan,available,11.99,71.99,high,low,6,name.com,,,
+e55c7a56-0f64-4d56-9c21-db9c052a0faf,played.fan,available,11.99,,high,low,6,name.com,,,
+7ead86ea-9a20-430e-b456-14047e7ebf83,use.fan,premium,123.75,,high,low,3,name.com,,,
+b5151b78-457c-4489-a662-f0e7078e36be,attention.fan,available,11.99,,high,low,9,name.com,,,
+c395cd55-204d-459e-ba04-2c96d89feea2,upc.fan,available,11.99,,high,low,3,name.com,,,
+02bf7491-b019-4180-82a5-1f68cd7d2140,instal.fan,available,11.99,,high,low,6,name.com,,,
+f340c338-a1ac-4b52-9a41-9832442bf64f,pound.fan,available,11.99,,high,low,5,name.com,,,
+bcf6a177-bb2c-482d-8c7a-541683af9e5d,achiever.fan,available,11.99,,high,low,8,name.com,,,
+e47ce194-a45e-41b8-b4f9-2f4247e4fe56,beefy.fan,available,11.99,71.99,medium,low,5,name.com,,,09/08/2026 07:49
+680e164b-fbc0-45a2-a798-78b5cde30cee,pretence.fan,available,11.99,,high,low,8,name.com,,,
+1b05eefa-31b8-4b1b-8805-d16ab8465d1f,lock.fan,available,11.99,,high,low,4,name.com,,,
+efb3228d-1c3e-4b7a-907a-25c9fcd7e7da,hear.fan,available,11.99,,high,low,4,name.com,,,
+e2710da1-3ddb-499c-beb4-32312191f985,adonic.fan,available,11.99,71.99,medium,low,6,name.com,,,
+cafad24c-62c2-4223-8f97-a00c3a688d0d,premier.fan,premium,123.75,,high,low,7,name.com,,,
+29de6b7c-23bb-46dd-a6af-3274159307c1,wagon.fan,available,11.99,,high,low,5,name.com,,,
+0833e1f5-cdfd-4b1b-a9f4-2ad3a84cdb0c,balance.fan,available,11.99,,high,low,7,name.com,,,
+1e35b63a-37dd-404b-a58f-477aa3be6a35,algebraic.fan,available,11.99,71.99,high,low,9,name.com,,,
+e9c6e2ce-6317-4398-9b76-a97fe9fbdbaf,grumpy.fan,premium,123.75,123.75,high,low,6,name.com,,,08/08/2026 07:57
+3df480ad-0f00-47be-890c-08d99f3dda8c,attachable.fan,available,11.99,71.99,medium,low,10,name.com,,,07/08/2026 15:36
+cb16d81f-3401-43bc-b0a1-6f11b9b3dd9d,sufficient.fan,available,11.99,,high,low,10,name.com,,,
+3ba0937e-a057-4cf6-926b-4a2ec0c32565,boards.fan,available,11.99,,high,low,6,name.com,,,
+661d5aba-d405-4794-b1eb-55a89da02b98,barbarian.fan,available,11.99,71.99,high,low,9,name.com,,,08/08/2026 15:26
+553b28f8-5e41-47e6-89d8-db17552162f3,taal.fan,available,11.99,71.99,medium,low,4,name.com,,,
+1fbebc33-d07e-4dae-86eb-3647d409ca69,lawn.fan,available,11.99,,high,low,4,name.com,,,
+4e5b2081-8c7e-4274-ac6b-1722d8bf08ed,lxx.fan,available,11.99,71.99,medium,low,3,name.com,,,
+e85b54dc-cb9c-4294-8c41-dbf8b4ca1d9b,involvement.fan,available,11.99,,high,low,11,name.com,,,
+b6d71730-38b9-40ca-952b-8844990374c4,incidental.fan,available,11.99,71.99,high,low,10,name.com,,,
+327ea4dc-a138-41ce-8d13-f0dfbe8ec08f,unlocking.fan,available,11.99,,high,low,9,name.com,,,
+b44ac713-12c1-4b89-8f03-a941f576c1ef,acoustical.fan,available,11.99,71.99,medium,low,10,name.com,,,
+805eb537-dc7c-4210-8a69-99f67522f01f,lake.fan,premium,82.5,,high,low,4,name.com,,,
+7778e598-d1c8-4538-bca8-89863bae5bb7,explain.fan,available,11.99,,high,low,7,name.com,,,
+557c0f74-8a50-4811-9c63-b81ab8bbe907,shallow.fan,available,11.99,,medium,low,7,name.com,,,
+1df36141-9122-465d-90b0-68271e36f0e9,grotesque.fan,available,11.99,71.99,medium,low,9,name.com,,,
+bc347cbb-32be-4b21-a2a3-bf9b32bd2784,float.fan,available,11.99,,high,low,5,name.com,,,
+9dfbeb6e-3f15-491c-888e-81d2a7294b3a,supervisor.fan,available,11.99,,high,low,10,name.com,,,
+5d60c362-1769-43be-8ea2-c761a51bd872,barefooted.fan,available,11.99,71.99,medium,low,10,name.com,,,08/08/2026 18:59
+15a06389-cdf3-4287-95ce-f32016f454ec,somesing.fan,available,11.99,,medium,low,8,name.com,,,
+302e0c15-fd4a-4ac7-b0bb-c730936762a6,prevent.fan,available,11.99,,high,low,7,name.com,,,
+d995a3e9-5dcb-4976-8b81-4b98027f6613,abstruse.fan,available,11.99,71.99,medium,low,8,name.com,,,
+7ea990e9-e4f8-4767-90c2-8c823acb09ae,criticism.fan,available,11.99,,high,low,9,name.com,,,
+41c5ceb5-65ab-4e1c-9c28-72384bd129b2,generally.fan,available,11.99,,high,low,9,name.com,,,
+097d3d4b-4e43-4d4e-9c81-ff3632c82cbb,thee.fan,available,11.99,,high,low,4,name.com,,,
+6a937afa-ed50-4816-875d-daeaa3c45552,bye.fan,available,11.99,,high,low,3,name.com,,,
+10380e2f-e76a-46cd-87b7-b8101697942a,loaded.fan,available,11.99,71.99,high,low,6,name.com,,,
+92fe8341-4a23-4146-bacc-3840f30a62fe,pretense.fan,available,11.99,,high,low,8,name.com,,,
+ffa8852e-20ed-4f06-b95a-93d11466ce79,worsening.fan,available,11.99,,medium,low,9,name.com,,,
+f5710d53-4403-4848-8c14-88d0eec9cf24,anger.fan,available,11.99,,high,low,5,name.com,,,
+331d6e10-9df6-4db4-b271-63af915555af,another.fan,available,11.99,,high,low,7,name.com,,,
+5ded4ef2-736a-4d97-afaa-fcac9bca5dfb,congrats.fan,available,11.99,,high,low,8,name.com,,,
+7a6481b3-34cf-4546-91ca-fb7d2b931afd,pernicious.fan,available,11.99,71.99,medium,low,10,name.com,,,08/08/2026 12:01
+e9119ab8-3e2d-49a7-b4c1-0eeec8ea6b33,miffed.fan,available,11.99,71.99,medium,low,6,name.com,,,
+edb93af9-b4ce-4203-b2ec-559b716b9936,australia.fan,available,,,high,low,9,,,,
+ad6633db-8f4f-4ffd-99a3-5a35d66da7e6,beauteous.fan,available,11.99,71.99,medium,low,9,name.com,,,09/08/2026 05:58
+dd9d1247-4989-4e63-8a96-5cf05d40731b,facilitate.fan,available,11.99,,high,low,10,name.com,,,
+a1e7a89a-9dac-4e86-a7ed-c55a8ab1369a,barbate.fan,available,11.99,71.99,medium,low,7,name.com,,,08/08/2026 16:10
+a7ec649f-f249-4d0c-9c97-f3cfc1a70222,supported.fan,available,11.99,,high,low,9,name.com,,,
+81d6555e-91a3-4957-b022-a3af4055ba5c,monumental.fan,available,11.99,,high,low,10,name.com,,,
+cfd3d661-9d4b-479d-b3e2-9331b1cf06e9,fauna.fan,available,,,high,low,5,,,,
+360513cd-e9c1-476a-940b-ceefc20497fe,senescent.fan,available,11.99,71.99,medium,low,9,name.com,,,
+c582de3a-9e8c-4b1a-ba90-d61f0f304b60,normally.fan,available,11.99,,high,low,8,name.com,,,
+6d28561a-4840-42d5-a6be-4a1e32016100,tasting.fan,available,11.99,,high,low,7,name.com,,,
+ed764ea6-6379-45e5-9e88-748d75208328,expedition.fan,available,11.99,,high,low,10,name.com,,,
+5f4c7349-8f5b-4228-a3ae-0e8fad995ff2,tracy.fan,premium,250,,high,low,5,name.com,,,
+d717eb50-441d-448b-96c9-cbd51e4bcc91,until.fan,available,11.99,,high,low,5,name.com,,,
+5a41ff36-b4bb-4c64-83ba-05f4b79fb40f,regret.fan,available,11.99,,high,low,6,name.com,,,
+50c91939-0e6f-443b-9ac9-7d02a9514af3,resonating.fan,available,11.99,,high,low,10,name.com,,,
+865f10c9-2161-44f6-a953-01b5b1cf110b,beg.fan,available,11.99,,high,low,3,name.com,,,
+5f981253-f7e0-4b2c-b809-36ab0899be12,wired.fan,available,11.99,,high,low,5,name.com,,,
+dd7b5627-c44b-4ec6-bced-018c144fe049,evident.fan,available,11.99,71.99,high,low,7,name.com,,,06/08/2026 05:13
+ba40e03b-4dcb-44bf-8f5a-7ed6ddd55a80,brie.fan,available,11.99,,high,low,4,name.com,,,
+b4786133-4b83-4741-affe-417b96decab3,pleasure.fan,available,11.99,,high,low,8,name.com,,,
+e5062e8f-7d1c-4904-9766-62816431da04,prolife.fan,available,11.99,,high,low,8,name.com,,,
+38fa3d68-efe4-4fb9-b635-d88552f86cc9,bantu.fan,available,11.99,71.99,medium,low,5,name.com,,,08/08/2026 14:50
+1af4d0ec-c513-4931-9a1c-c8e4c2bd7123,maddened.fan,available,11.99,71.99,medium,low,8,name.com,,,
+599bfa66-d090-422a-94b3-4ccb5fe2f52e,faith.fan,premium,82.5,,high,low,5,name.com,,,
+da7859f1-e533-4205-9333-dcb63ff3955c,highschool.fan,available,11.99,,high,low,10,name.com,,,
+5cf573d4-fc81-4acc-aacb-bd0da0220cc3,decay.fan,available,11.99,,high,low,5,name.com,,,
+7a1ba033-6b4c-48fe-977b-bd2791509a4b,abroach.fan,available,11.99,71.99,medium,low,7,name.com,,,
+699e473b-58de-4d61-b0f8-3ae12cc0b3f4,tangle.fan,available,11.99,,high,low,6,name.com,,,
+1c34ddef-ff1c-401e-83cd-cb7812a6ac8f,adducent.fan,available,11.99,71.99,medium,low,8,name.com,,,
+8ec0502f-4904-4a35-bfe6-18fc3437263d,needle.fan,available,11.99,,high,low,6,name.com,,,
+8f35165c-b296-4f2d-9dd3-61224d788f56,scurrilous.fan,available,11.99,71.99,medium,low,10,name.com,,,
+8cc7bee2-c705-447b-80d0-ec590a717dcf,rhoda.fan,premium,82.5,,high,low,5,name.com,,,
+7e1474d6-3d59-43c8-9584-8248a2b264c9,contrasting.fan,available,11.99,,high,low,11,name.com,,,
+d8fa0178-fc89-4798-8eed-902d35cd0092,triclinic.fan,available,11.99,71.99,medium,low,9,name.com,,,
+ed0a80dd-6f0e-498e-b7d6-e09f2f4819e7,ennead.fan,available,11.99,71.99,medium,low,6,name.com,,,
+40797a15-9bdb-4c56-9004-ecca7609a891,ascetic.fan,available,11.99,71.99,high,low,7,name.com,,,07/08/2026 00:56
+e5da00e2-700b-40d9-b27c-4c7d2ada72de,came.fan,available,11.99,,high,low,4,name.com,,,
+0af2c34c-7384-44cf-a7a9-959bdaae79f6,airline.fan,available,11.99,,high,low,7,name.com,,,
+9a6774a2-7457-43aa-8793-34e142262794,quilting.fan,premium,123.75,,high,low,8,name.com,,,
+92066dba-00b2-4ac5-a926-71ba0642cae9,stroke.fan,available,11.99,,high,low,6,name.com,,,
+aa5304a5-f4d2-4ae8-8cc0-c484863402ae,aneroid.fan,available,11.99,71.99,medium,low,7,name.com,,,
+6e6d6889-3fcb-4784-b75e-427c8e992849,steak.fan,available,11.99,,high,low,5,name.com,,,
+a375e434-1dfe-484c-b738-d1b9c29d46c7,afrikaans.fan,available,11.99,71.99,high,low,9,name.com,,,
+14f8add8-710d-421d-aeb9-ee98b4479c60,island.fan,premium,123.75,,high,low,6,name.com,,,
+0cd15060-d4fd-4276-a2c3-e1fa6e6eb647,assorted.fan,available,11.99,71.99,medium,low,8,name.com,,,07/08/2026 07:25
+9df08cc7-9453-4198-8b9a-f61abba17ab6,accordant.fan,available,11.99,71.99,high,low,9,name.com,,,
+34ff8e13-6118-4afa-b944-32ed5a02e1a7,banded.fan,available,11.99,71.99,medium,low,6,name.com,,,08/08/2026 11:40
+67f172f8-9a60-4477-99eb-449626ebc642,affirmable.fan,available,11.99,71.99,high,low,10,name.com,,,
+eded2fb6-89b6-44b0-b19e-61086a4a3a2a,mcdonald.fan,available,11.99,,high,low,8,name.com,,,
+0c658493-d850-495e-a4fa-9cc1ca5ef9d0,inconsistent.fan,available,11.99,,medium,low,12,name.com,,,
+886a8b73-a93c-403f-87b0-894881f1d729,squall.fan,available,11.99,,high,low,6,name.com,,,
+d5c856e4-35a9-4826-9338-b70f3dbb80a7,sheraton.fan,available,,,high,low,8,,,,
+556501e9-1cd7-4049-8f6d-5220a9a40a81,contempt.fan,available,11.99,,medium,low,8,name.com,,,
+1bd1ff83-f713-44d4-ae41-9f264b102d0a,require.fan,available,11.99,,high,low,7,name.com,,,
+32411894-a948-4240-8a45-22b1231dd36f,addled.fan,available,11.99,71.99,medium,low,6,name.com,,,
+19205b96-fecd-48cb-9f25-9dabfde7bcbd,spoken.fan,available,11.99,,high,low,6,name.com,,,
+02a3ce7f-4b1f-429a-b8a8-bf75427720ca,neighboring.fan,available,11.99,,high,low,11,name.com,,,
+40d7af4c-f940-4ed5-8b8d-a75ddf0a7f55,marks.fan,available,11.99,,high,low,5,name.com,,,
+d40f1e5b-1728-46b6-8e51-3a6f17e3c457,unfair.fan,available,11.99,,high,low,6,name.com,,,
+bd9dc127-eec7-4a71-8cfe-c9fceacbb2bd,written.fan,available,11.99,,high,low,7,name.com,,,
+e7a542ba-a870-4953-b2c2-85a54008d856,promotion.fan,available,11.99,,high,low,9,name.com,,,
+e80b43d7-681b-45f7-95fb-4fc45908c6b8,remote.fan,premium,250,,high,medium,6,name.com,,,
+3253e0e3-fd05-44df-b61a-06f7d2512d9e,exhibition.fan,available,11.99,,high,low,10,name.com,,,
+f3d56328-b000-445d-935f-300728302784,dew.fan,available,11.99,,high,low,3,name.com,,,
+c1181b05-14e0-4bf9-9ee1-0e98ae5755dc,surprising.fan,available,11.99,,high,low,10,name.com,,,
+90ab4814-9c4c-4e1c-bae0-d1a450341928,modelling.fan,available,11.99,,high,low,9,name.com,,,
+90e32e23-243e-4cc0-8d98-f91c0f784051,antidotal.fan,available,11.99,71.99,medium,low,9,name.com,,,
+dcab57f5-22be-445b-b750-4a13b41df7a3,singletree.fan,available,11.99,,medium,low,11,name.com,,,
+2ddf9b92-780d-457c-a75f-6ef78990f847,midwinter.fan,available,11.99,,medium,low,10,name.com,,,
+afc6b5b8-2e7d-4991-ba77-bcba609dadd5,instagrammable.fan,available,11.99,,high,low,14,name.com,,,
+551a290f-17ed-47e8-92d7-ee0275cb002e,pinging.fan,available,11.99,,high,low,7,name.com,,,
+fd6b8594-c8ef-484d-96cf-074c190366a5,professor.fan,available,11.99,,high,low,9,name.com,,,
+16212e2f-affa-4ce6-bd0b-a930e5762ba2,concern.fan,available,11.99,,high,low,7,name.com,,,
+e5e690dc-c471-444d-895c-cb99c3cf2e95,wondered.fan,available,11.99,,high,low,8,name.com,,,
+b1cd145a-fcbe-44aa-827b-769570d2e224,respectful.fan,available,11.99,,high,low,10,name.com,,,
+dba1a87e-fe3b-4bdf-8410-ad080a76bcfa,lemon.fan,premium,250,,high,medium,5,name.com,,,
+19e15cbe-0b67-41e9-9ee3-c881d86c03bb,bug.fan,resell,,,high,low,3,"Sav.com, LLC - 16",21/11/2025 15:15,21/11/2026 15:15,
+aed5899f-48ba-4ea6-ba9b-14507923564e,shin.fan,premium,123.75,,high,low,4,name.com,,,
+0a038488-1d04-422a-8610-20a04ffb3aa7,windsor.fan,available,11.99,,high,low,7,name.com,,,
+410c46aa-0b2a-4f6b-8bf4-9e4d86841b0e,cerulean.fan,available,11.99,71.99,high,low,8,name.com,,,08/08/2026 03:10
+98f2bc40-9d98-4910-940b-2367b6883156,season.fan,available,11.99,,high,low,6,name.com,,,
+d47b2e13-0974-4d43-8717-babdfd26a00a,thirteenth.fan,available,11.99,71.99,high,low,10,name.com,,,
+d423a143-3c5b-455a-9b9b-54ccc4672a75,liable.fan,available,11.99,,high,low,6,name.com,,,
+c73c73b8-a312-4c88-aa0c-3655337ad221,behavioral.fan,available,11.99,71.99,medium,low,10,name.com,,,09/08/2026 10:16
+6a2993e6-2c6d-4299-a383-c502b438eec7,sunhat.fan,available,11.99,,high,low,6,name.com,,,
+3124be66-39ec-4a71-a870-637dd07c1b63,skirt.fan,available,11.99,,high,low,5,name.com,,,
+a42cdd73-1719-4b58-843d-8e2c6bcf10ee,escaped.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 11:22
+7875a550-0993-4c5a-9ba4-e61db88c4a39,tetrad.fan,available,11.99,71.99,high,low,6,name.com,,,
+1e52f4d0-d1a6-4149-9330-78c879e18cfe,risk.fan,available,11.99,71.99,high,low,4,name.com,,,08/09/2026 12:49
+f16c0db1-63a1-41db-bcae-64ac95a8200c,insurance.fan,premium,260,260,high,medium,9,namecheap,,,
+f18034e7-56d2-4b00-aa1c-10a8ec7435e8,powered.fan,available,11.99,,high,low,7,name.com,,,
+c73370cc-8347-4e78-b2f8-1b2b685baa4c,exclamation.fan,available,11.99,,high,low,11,name.com,,,
+61a4ac10-c5a4-462e-8718-f856add5c728,lawless.fan,available,11.99,71.99,medium,low,7,name.com,,,
+92628d8a-4b9b-4cbf-aeb4-80d045df94cf,years.fan,available,11.99,,high,low,5,name.com,,,
+7b5e225d-f634-45af-8aaf-dd148d4cdf47,awe.fan,premium,123.75,,high,low,3,name.com,,,
+56c93180-195a-4cec-a93f-204c4937b8bb,mission.fan,premium,250,,high,medium,7,name.com,,,
+bf9938dc-540a-4637-b0c2-da6bd102e2af,replacement.fan,available,11.99,,high,low,11,name.com,,,
+0659ac87-edb2-45b0-9c06-b27deee64518,bought.fan,available,11.99,,high,low,6,name.com,,,
+baf72b0b-0d8e-471b-a91a-399a61db12e7,idk.fan,available,11.99,,medium,low,3,name.com,,,
+5a000bf5-32b5-4c24-b70e-bb7a84110343,tyrannical.fan,available,11.99,71.99,medium,low,10,name.com,,,07/08/2026 19:12
+c491d1c4-b514-48fb-b05c-5d65ed8f20cf,chairperson.fan,available,11.99,,high,low,11,name.com,,,
+04ca6659-c10e-4f45-b199-ca5da71896f0,sentence.fan,available,11.99,,high,low,8,name.com,,,
+752bf23e-f3ef-4361-abb3-7f8d65610320,abbatial.fan,available,11.99,71.99,medium,low,8,name.com,,,
+b5774ca9-8922-44c9-a3d5-b6ea6931efc0,multiplication.fan,available,11.99,,medium,low,14,name.com,,,
+fde6e0d0-2b48-4550-bb95-0af00c53dc68,plague.fan,available,11.99,,high,low,6,name.com,,,
+cd5a48ee-1cc3-488f-a34c-659ec22c789b,unplug.fan,available,11.99,,high,low,6,name.com,,,
+6cbf4b8d-3632-43db-9028-2fc7f7d8c69d,burger.fan,premium,82.5,,high,low,6,name.com,,,
+a2cf8f2b-cd50-4446-924c-84084d4400aa,enlighten.fan,available,11.99,,high,low,9,name.com,,,
+deb2d7fb-8d32-43a5-bb45-9eb64a74f23e,aluminous.fan,available,11.99,71.99,medium,low,9,name.com,,,
+57fb97c3-ea7a-4e1a-ad48-1dbab766289f,slanting.fan,available,11.99,71.99,medium,low,8,name.com,,,07/08/2026 04:20
+cf8ec4b3-47d1-49b4-8922-2608fb451b04,lowly.fan,available,11.99,71.99,medium,low,5,name.com,,,08/08/2026 21:38
+56f31b21-3cd8-4688-819c-e83e5be3e1b4,barometric.fan,available,11.99,71.99,medium,low,10,name.com,,,08/08/2026 20:06
+eab57718-4268-446f-a1f1-d0272af257ab,testing.fan,available,11.99,,high,low,7,name.com,,,
+cc4b87fa-27dd-435a-90b3-5cb11ff7af23,petite.fan,available,11.99,71.99,medium,low,6,name.com,,,08/08/2026 14:24
+347526d2-b107-4dfc-a618-a52a8712c495,bemused.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 11:47
+3b0605db-5596-48a5-9ec5-f36db345c067,snake.fan,available,11.99,,high,low,5,name.com,,,
+7459d280-c487-4246-8995-9f8658b2358f,antitoxic.fan,available,11.99,71.99,medium,low,9,name.com,,,05/08/2026 19:55
+6b9f7926-8316-4150-82b7-6b3cfe64a84d,building.fan,available,11.99,,high,low,8,name.com,,,
+b2c3c5e7-4106-4563-8749-0a4888356969,looks.fan,available,11.99,,high,low,5,name.com,,,
+48b72eae-8902-47c8-98c1-f34308c539a7,sunroof.fan,available,11.99,,high,low,7,name.com,,,
+e0f992df-960d-4ad5-bba1-40fb364c0292,cautionary.fan,available,11.99,71.99,high,low,10,name.com,,,
+6f4b378a-2efb-4e91-90e8-031cf0748927,pyramid.fan,available,57.98,68.98,high,low,7,namecheap,,,08/09/2026 13:53
+1b06f06d-1498-42be-aeb0-1101e92265fd,commodity.fan,available,11.99,,high,low,9,name.com,,,
+fdee9c04-6516-4430-a178-d2c0b28e5fd6,resolute.fan,available,11.99,,high,low,8,name.com,,,
+74215782-f854-4ceb-b8fa-535e8c593901,aligned.fan,available,11.99,71.99,high,low,7,name.com,,,
+8e882bb0-2876-44b3-880c-295d525f0adb,absorbent.fan,available,11.99,71.99,high,low,9,name.com,,,
+7bd9dacb-e302-4cbb-8356-a07564b544a0,bats.fan,available,11.99,71.99,high,low,4,name.com,,,06/08/2026 20:31
+1422256d-3c05-4510-ba64-3b08a02b8718,antigenic.fan,available,11.99,71.99,medium,low,9,name.com,,,
+71443e15-29af-4523-8f44-7c7376df3f42,batty.fan,available,11.99,71.99,medium,low,5,name.com,,,06/08/2026 20:35
+c9341ebd-a95e-47c5-bb1a-8ce9cd3b6b10,adient.fan,available,11.99,71.99,medium,low,6,name.com,,,
+756bab7f-7a94-46a6-b461-e43ba1225df0,astylar.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 10:15
+18564135-d72a-4019-bf72-a00983730ce2,cincinnati.fan,premium,250,,high,low,10,name.com,,,
+a1e3c2ca-c029-4832-bf9d-0f9ed1c9c78d,beer.fan,premium,128.7,128.7,high,low,4,namecheap,,,24/09/2026 08:26
+73c1464d-f0bb-46b4-9a51-384ad6715db3,septenary.fan,available,,,medium,low,9,,,,
+da3340a1-ccac-443f-bdaf-b360ef6a2000,mostly.fan,available,11.99,,high,low,6,name.com,,,
+bbaa8657-d166-47fe-a034-6a57f436b69c,timely.fan,available,11.99,71.99,high,low,6,name.com,,,06/08/2026 10:08
+62daeaf0-8103-40df-bd3a-ba6872faafa6,ordinary.fan,available,11.99,,high,low,8,name.com,,,
+46e79923-472a-4a1c-9e8c-a7ee5e4e3318,proper.fan,available,11.99,,high,low,6,name.com,,,
+2e732378-f471-4127-aaa3-c10617a75e13,azonal.fan,available,11.99,71.99,medium,low,6,name.com,,,08/08/2026 02:27
+38ca7cc9-70c1-4f35-8d2e-953f27222d47,intend.fan,available,11.99,,high,low,6,name.com,,,
+dbc57730-3343-4ff4-9484-1103e9cf74de,coordinate.fan,available,57.98,68.98,high,low,10,namecheap,,,08/09/2026 03:35
+684cf921-2433-4918-9559-344402dfa067,victoria.fan,premium,123.75,,high,low,8,name.com,,,
+4df2c664-33db-4282-b33a-de8650e92f83,follower.fan,available,11.99,,high,low,8,name.com,,,
+a86d494d-a802-465c-ab8f-b97f2e7bde1a,aboulic.fan,available,11.99,71.99,medium,low,7,name.com,,,
+ff5a8898-3e7d-4b67-a58a-f76f343a26c4,slighting.fan,available,11.99,71.99,medium,low,9,name.com,,,09/08/2026 13:15
+af7103c9-a89e-4065-bfb5-3071e3d58586,knowing.fan,available,11.99,,high,low,7,name.com,,,
+db6ecf57-4073-4241-8b9f-97fa87fdc493,awol.fan,available,11.99,71.99,high,low,4,name.com,,,08/08/2026 01:46
+eafd0c4e-68ac-4115-8572-206cbffb2afc,mining.fan,premium,1040,1040,high,low,6,namecheap,,,
+595b68f4-8f29-428d-8615-07228abf68d8,clxxx.fan,available,11.99,71.99,medium,low,5,name.com,,,
+041e2777-bb58-4ec5-af89-02bb74f07efb,adnate.fan,available,11.99,71.99,medium,low,6,name.com,,,
+d2e76989-1fe9-4d40-9f78-433d49d194be,archetypal.fan,available,11.99,71.99,high,low,10,name.com,,,06/08/2026 15:32
+51890856-33e7-4cc7-b46f-5f1af6497d10,adherent.fan,available,11.99,71.99,high,low,8,name.com,,,
+28447083-8ea0-4213-a6bd-3e1ad2765237,tug.fan,available,11.99,,high,low,3,name.com,,,
+66bed53e-37a7-4ef2-801e-9479437d6bbb,actinoid.fan,available,11.99,71.99,medium,low,8,name.com,,,
+01fba108-525d-49e7-a655-bf3f5aa794b3,chatbot.fan,resell,,,high,medium,7,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,
+8d2efa92-12ae-4f21-91f7-cd64cce2271c,ape.fan,available,11.99,71.99,high,low,3,name.com,,,
+3c26b4d9-d6d0-4a3c-a18a-268d34cf33a7,wannabe.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 05:17
+7cc07c7b-39f6-42bc-8008-c3202c79a7b7,affectionate.fan,available,11.99,,high,low,12,name.com,,,
+1906755f-43e6-4086-b12b-01cf5cea02e1,nutty.fan,premium,250,250,high,low,5,name.com,,,06/08/2026 21:27
+aafe3990-df1b-4983-a099-8795537e18b7,dickhead.fan,available,11.99,71.99,medium,low,8,name.com,,,08/08/2026 23:34
+822596af-de9d-49a4-883e-f1ab942eeb00,addresses.fan,available,11.99,,medium,low,9,name.com,,,
+3f8c6f1b-43da-40ab-a7a8-0d106d7e5541,confess.fan,available,11.99,,high,low,7,name.com,,,
+620e7c77-9258-4eb1-8119-1bab05e28b3f,ready.fan,available,11.99,,high,low,5,name.com,,,
+63350a5f-c5ad-4dc6-b8db-82983defccf5,abkhaz.fan,available,11.99,71.99,high,low,6,name.com,,,
+505c2bfa-1938-4da9-95b1-8e850d1a38fc,chore.fan,available,11.99,,high,low,5,name.com,,,
+a851e9c8-2f5d-4208-837c-d19aa8f4bd4f,human.fan,premium,123.75,,high,medium,5,name.com,,,
+6c83c095-f52c-4b8c-9bbe-b7a71a859d8d,afflicted.fan,available,11.99,71.99,high,low,9,name.com,,,
+58e22b6f-367c-416d-bd50-538a1c4eab86,styptic.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 10:00
+30619960-bee1-4fb6-bdd2-6e0aa256967a,visibility.fan,available,11.99,,high,low,10,name.com,,,
+e3809808-8277-4a3b-b25f-d1eec778f81e,brightness.fan,available,11.99,,high,low,10,name.com,,,
+fd862c2d-dcd5-4563-8130-13e6a10e5b2b,acropetal.fan,available,11.99,71.99,medium,low,9,name.com,,,
+1f7a83f1-34bd-4e60-bfaa-5b5e95cf9bf7,aliquot.fan,available,11.99,71.99,high,low,7,name.com,,,
+fbb5feb1-dbbb-4039-80cd-21556f8c30b4,fictitious.fan,available,11.99,71.99,medium,low,10,name.com,,,07/08/2026 07:50
+818fa515-5c46-473c-ae21-6acdf0bc97ee,performing.fan,available,11.99,71.99,high,low,10,name.com,,,
+28e7c6d5-2fb1-4f21-8afb-a0427c7d32bd,apsidal.fan,available,11.99,71.99,medium,low,7,name.com,,,06/08/2026 10:18
+58b893b0-910e-4ea3-9bf8-ce5a8f8bdedb,pitching.fan,available,11.99,,high,low,8,name.com,,,
+b5955240-0301-4ffd-b198-0a4ccd470316,aflutter.fan,available,11.99,71.99,medium,low,8,name.com,,,
+1279f44d-4635-463e-9e64-ce5fa9f7f65b,glinting.fan,available,11.99,71.99,high,low,8,name.com,,,
+5ebe1a32-4971-444e-bba9-b667a8a2c5fa,neighbor.fan,available,11.99,,high,low,8,name.com,,,
+82eb363d-9ce2-44dd-87fa-a83d5d6c551c,hands.fan,available,57.98,68.98,high,low,5,namecheap,,,08/09/2026 04:01
+a837c05d-8721-4ac9-aeba-e8bc12ea6640,supporting.fan,available,11.99,,high,low,10,name.com,,,
+a7c65ee2-48f4-4251-b8a6-d466c18cf59b,bayesian.fan,available,11.99,71.99,medium,low,8,name.com,,,09/08/2026 03:13
+9ff9b90d-abda-4c70-8feb-ebd8495507bd,dedicate.fan,available,11.99,,high,low,8,name.com,,,
+8e01b253-f2db-4f99-97b4-123e073522fb,lap.fan,available,11.99,,high,low,3,name.com,,,
+68bfd1d8-0143-4745-a2be-d8c4c8a35290,agnostical.fan,available,11.99,71.99,medium,low,10,name.com,,,
+ea33f468-74e9-41b0-b227-1a281a079ac0,posterior.fan,available,11.99,71.99,medium,low,9,name.com,,,09/08/2026 11:12
+90fbae58-15d2-4a45-9f52-d5cd62107466,services.fan,premium,128.7,128.7,high,low,8,namecheap,,,
+35cec212-20a8-4bb0-8089-a5340a0b6081,punishing.fan,available,11.99,71.99,high,low,9,name.com,,,06/08/2026 17:10
+af023cf0-3864-48b2-84fd-48a7c1b69f0d,interested.fan,available,11.99,,high,low,10,name.com,,,
+066a2c5b-cb72-4fdd-9ed1-8bf5e8635df7,boxers.fan,available,11.99,,high,low,6,name.com,,,
+23da702d-d581-4be6-9b29-00672ce602b1,criticize.fan,available,11.99,,high,low,9,name.com,,,
+525bd79f-1762-47c2-8cd4-55ec71f34c75,state.fan,available,,,high,low,5,,,,
+7053b250-2ee0-4764-815d-fdddb3daa8b3,endurance.fan,available,11.99,,high,low,9,name.com,,,
+4b29da1e-c4be-483c-98f3-d326f1834f0d,algonquin.fan,available,11.99,71.99,high,low,9,name.com,,,
+8005ea59-bfb6-4b0c-a611-9545fc074602,angled.fan,available,11.99,71.99,high,low,6,name.com,,,
+cee83e03-e268-47bd-a5c3-a51df2d4fadb,duty.fan,available,11.99,,high,low,4,name.com,,,
+d9edef84-86dd-4d8a-ad67-2c9b5a89aa0a,restrain.fan,available,11.99,,high,low,8,name.com,,,
+9ad7dd3e-6d92-4035-aeff-84509a09410b,wannabee.fan,available,11.99,71.99,medium,low,8,name.com,,,07/08/2026 05:22
+f1b62d58-3c7d-4ede-bd69-bf1757f5cd25,personally.fan,available,11.99,,high,low,10,name.com,,,
+ec653053-5602-4016-8508-99cbcca3e545,atilt.fan,available,11.99,71.99,medium,low,5,name.com,,,07/08/2026 13:13
+f39bb036-b11a-4a61-986d-ec25906bb928,marijuana.fan,premium,250,,high,low,9,name.com,,,
+c09d758e-a9bf-426c-a617-fe32c4c6a41b,trapped.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 11:08
+e6b8f06f-75ad-454d-a84b-3d735ed0330f,sandwich.fan,available,11.99,,high,low,8,name.com,,,
+f498f0fb-5664-4787-8a13-97bfad3428ea,contents.fan,available,11.99,,high,low,8,name.com,,,
+6b927d7b-ca6c-46cf-9028-81ef81099c8c,arterial.fan,available,11.99,71.99,high,low,8,name.com,,,06/08/2026 22:29
+da63b2ea-ba92-484f-9c25-855b507d1b16,kindness.fan,available,11.99,,high,low,8,name.com,,,
+97e0480e-0607-4e48-9129-0da4a604f6c7,vent.fan,available,11.99,,high,low,4,name.com,,,
+ad2d46fe-df2c-4fa7-86c4-c9fa8922484f,masculine.fan,available,11.99,,high,low,9,name.com,,,
+a0f12ef4-a83c-4c42-91a7-3bc80834fe38,prosecution.fan,available,11.99,,high,low,11,name.com,,,
+cfece775-edaf-4ffd-92f3-930587e45df0,result.fan,available,11.99,,high,low,6,name.com,,,
+4619a310-2c1b-4b0e-bd76-e7b63d12efc4,workfare.fan,available,11.99,,high,low,8,name.com,,,
+a4c9f198-d315-442b-8c98-bc132861dd90,household.fan,available,11.99,,high,low,9,name.com,,,
+9e1d4e9f-2da5-45a3-a904-b2276b781a1c,cat.fan,available,,,high,low,3,,,,
+a5691c8a-d09c-45d3-9acc-8f3be2a0049c,unique.fan,premium,250,,high,medium,6,name.com,,,
+3fdeb616-a997-4bf0-b283-72890bc63668,inviting.fan,available,11.99,,high,low,8,name.com,,,
+38f22a69-bf5c-493b-8dcd-c99a7e1c5382,obviously.fan,available,11.99,,high,low,9,name.com,,,
+bea9daa5-1eda-44a4-90ed-4005f9437ca5,lying.fan,available,11.99,,high,low,5,name.com,,,
+0567c4c9-3d36-466f-a38f-5e5678cfaca4,appreciative.fan,available,11.99,,high,low,12,name.com,,,
+8fb2bf17-3d5d-4811-95cc-d93ef5a7073e,recently.fan,available,11.99,,high,low,8,name.com,,,
+38bc0207-53fc-4526-a0ca-8f7e7d2202a2,quickly.fan,available,11.99,,high,low,7,name.com,,,
+24836121-1b54-4647-bbac-666a4f9e9fbd,addition.fan,available,11.99,,high,low,8,name.com,,,
+ffcea784-e713-4ce8-8592-cc74c77c1cbc,left.fan,available,11.99,,high,low,4,name.com,,,
+20e1cf40-9578-442a-a755-5e888dd32d82,propose.fan,available,11.99,,high,low,7,name.com,,,
+9792013e-a832-4a7a-8f6c-ba30a6ac98db,maintain.fan,available,11.99,,high,low,8,name.com,,,
+4bb9a461-651e-41a6-bdec-ecb3ce648092,subalpine.fan,available,11.99,71.99,medium,low,9,name.com,,,
+d9054500-3de1-4ed7-b8d2-1e7917bcf063,overhang.fan,available,11.99,71.99,medium,low,8,name.com,,,09/08/2026 08:28
+2a808f88-4a72-476d-94c0-5cdaba740b9f,hexad.fan,available,11.99,71.99,medium,low,5,name.com,,,
+3c6c143f-339f-4967-890f-aa8fc3322edf,those.fan,available,11.99,,medium,low,5,name.com,,,
+2b78b6d7-e038-4259-9143-6bb3df9098bc,slowness.fan,available,11.99,,high,low,8,name.com,,,
+641ef883-1384-4adf-91ef-cee35dfc72b7,terrifying.fan,available,11.99,,medium,low,10,name.com,,,
+92417c64-a7f0-43de-a398-60980beaa32f,bake.fan,available,11.99,,high,low,4,name.com,,,
+c8bf56ff-c323-4a9f-b604-220312d2f4a6,dances.fan,available,11.99,,high,low,6,name.com,,,
+46f5a0b8-7778-4da8-90ef-823bcdd6ff92,remington.fan,available,11.99,,high,low,9,name.com,,,
+cc9e742b-ce99-4ebf-8204-09e12293e799,xcvi.fan,available,11.99,71.99,medium,low,4,name.com,,,
+497c0bd1-526b-433e-99dc-ff945c8ca059,biting.fan,available,11.99,71.99,high,low,6,name.com,,,08/08/2026 16:41
+b50d3c87-e877-4b9d-829b-fb6f07ef4343,cancel.fan,available,11.99,,high,low,6,name.com,,,
+88997d24-d629-496a-a2f4-87b1112d8578,attract.fan,available,11.99,,high,low,7,name.com,,,
+5465ba13-8c5f-40d0-b2e2-ad9bba6e03dc,whereby.fan,available,11.99,,medium,low,7,name.com,,,
+10799f70-b409-4704-88e7-152a4d3cf5e8,loony.fan,available,11.99,71.99,high,low,5,name.com,,,06/08/2026 21:17
+6fb53397-02c7-4692-b094-c7225235600a,piper.fan,available,11.99,,high,low,5,name.com,,,
+5bf5fe7d-0f8c-4cf7-9ebb-d6d7af50c363,forehead.fan,available,11.99,,high,low,8,name.com,,,
+b03b2a1e-fe74-427c-a673-fc27b45aa993,pope.fan,premium,82.5,,high,low,4,name.com,,,
+b9cc25e3-7322-45f2-b518-3108f900f429,wiring.fan,available,11.99,,high,low,6,name.com,,,
+d4cda18c-15ed-45fd-9177-3eb39b7e436c,pal.fan,premium,82.5,,high,low,3,name.com,,,
+3deb23a8-21ab-42a5-acf7-bf4a4af8537e,judgement.fan,available,11.99,,high,low,9,name.com,,,
+81af1126-f558-4348-9d37-f51d14422e2d,leaf.fan,available,11.99,,high,low,4,name.com,,,
+49ba7c65-64f5-48d7-a3f5-b058b9e1bbd4,chambers.fan,available,57.98,68.98,high,low,8,namecheap,,,08/09/2026 06:47
+78ddedda-7cb6-4eee-ab42-47d51c0b827b,striking.fan,available,11.99,,high,low,8,name.com,,,
+6c71bc07-7f82-44da-b8c3-019ac7e6606c,abo.fan,available,11.99,71.99,high,low,3,name.com,,,
+ec0eebe4-9802-4e7b-8ffa-17ff10b14c18,touching.fan,available,,,high,low,8,,,,
+660cd43e-321d-4e38-9ebb-1f0ff83e2a0e,autolytic.fan,available,11.99,71.99,medium,low,9,name.com,,,07/08/2026 20:42
+8ce5b8b6-1822-4d58-ab51-5de97ac62eec,camper.fan,available,,,high,low,6,,,,
+5c0eee01-a2b3-47c0-a1bc-e77a7bf25a21,departure.fan,available,57.98,68.98,high,low,9,namecheap,,,08/09/2026 12:08
+e7b42243-1e20-4e96-8c7c-560438a5ab6c,cows.fan,available,11.99,,high,low,4,name.com,,,
+6d3dfba4-6bb6-4544-8e4e-7b6313d87b74,and.fan,premium,250,,high,medium,3,name.com,,,
+84941e58-5c67-4804-8f9d-4b242e49d38f,toast.fan,available,11.99,,high,low,5,name.com,,,
+5b4c6650-04e3-4e90-9937-aacdbc463a4e,shifting.fan,available,11.99,,high,low,8,name.com,,,
+357579a1-690a-4033-9295-9c036ab4f12f,pretending.fan,available,11.99,,high,low,10,name.com,,,
+f886eae3-5af0-4fcd-8327-21f854d7975a,reflection.fan,available,11.99,,high,low,10,name.com,,,
+bb042346-4f57-4cb7-857a-23dc5297da00,person.fan,available,11.99,,high,low,6,name.com,,,
+4b0f9a5e-73a1-4113-a1db-26fb50137ac9,king.fan,premium,123.75,,high,medium,4,name.com,,,
+53573357-a308-49ae-97c1-6b1d8a200b1d,patrician.fan,available,11.99,71.99,medium,low,9,name.com,,,06/08/2026 19:34
+9fcfb892-a51e-48a2-a64d-3d0f45ed059f,austral.fan,available,11.99,71.99,medium,low,7,name.com,,,07/08/2026 18:26
+f6f0b41f-bce8-467e-9a85-17dc8375ce8c,weeks.fan,available,11.99,,high,low,5,name.com,,,
+fa1402f5-2b93-456e-8f4f-8b1d6d67499c,mom.fan,premium,123.75,,high,low,3,name.com,,,
