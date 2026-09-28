@@ -55,7 +55,7 @@ a711f5f8-7ae9-4519-92ed-7a12278355ff,palpably.fan,available,57.98,68.98,medium,l
 87b65c3f-da85-4383-a957-0b9f0fac8e8e,vitaliser.fan,available,57.98,68.98,medium,low,9,namecheap,,,19/09/2026 09:12
 e894338a-0c75-45cd-965d-9317feb70cd2,corridor.fan,available,11.99,,high,low,8,name.com,,,
 75901aaa-ad5d-4625-8152-1df5ac430c1b,tabu.fan,available,11.99,71.99,high,low,4,name.com,,,18/08/2026 11:04
-c6ec96fb-424a-444b-9fdb-0f5c0f68893d,streaming.fan,premium,128.7,128.7,high,low,9,namecheap,,,24/09/2026 02:31
+c6ec96fb-424a-444b-9fdb-0f5c0f68893d,streaming.fan,premium,54.36,108.6,high,low,9,porkbun,,,28/09/2026 05:22
 784dd035-aab7-410a-9649-8f33a7048f05,erratic.fan,available,11.99,71.99,high,low,7,name.com,,,17/08/2026 12:46
 8377ef01-c1fc-4cf0-a7f1-4331374933b8,pity.fan,available,57.98,68.98,high,low,4,namecheap,,,23/09/2026 16:56
 bb88b110-b73d-47ef-9ea2-35ff61981a2a,rides.fan,available,57.98,68.98,medium,low,5,namecheap,,,17/09/2026 06:42
@@ -85,6 +85,7 @@ f4465d3d-0eb2-45c2-b23a-4b4e55f41417,gimp.fan,available,11.99,71.99,medium,low,4
 7cbaa8b1-f85e-47f8-befc-fd456bb92234,periodic.fan,available,57.98,68.98,medium,low,8,namecheap,,,08/09/2026 17:11
 92400d72-a041-4893-ab7b-a6a581a96973,beheaded.fan,available,11.99,71.99,medium,low,8,name.com,,,09/08/2026 10:21
 09ccfa7f-e7fe-4098-9c6c-d610746ba205,regulatory.fan,available,57.98,68.98,high,low,10,namecheap,,,09/09/2026 13:17
+22e33829-7406-4295-ba62-872f44354a97,pause.fan,available,42.2,42.2,high,low,5,cloudflare,,,28/09/2026 06:34
 481d1dfc-35f5-4bc6-b2ff-db9005458d1e,alumnus.fan,available,11.99,71.99,high,low,7,name.com,,,20/08/2026 17:42
 4fafb799-a2e6-4a64-8b47-294497ad608a,simplicity.fan,available,11.99,,high,low,10,name.com,,,
 ae2ace9f-e95d-4b55-99ba-d67995053ab0,apodemus.fan,available,57.98,68.98,medium,low,8,namecheap,,,19/09/2026 18:19
@@ -108,7 +109,7 @@ c424f097-c210-4977-9bd8-e6ed1eff5427,glances.fan,available,11.99,71.99,medium,lo
 b432237b-14b7-44c4-aadd-db0d483289ba,peppery.fan,available,57.98,68.98,medium,low,7,namecheap,,,08/09/2026 15:37
 c9a5b782-09a3-4892-80d7-1c0a8c1d03fe,gjo.fan,available,57.98,68.98,medium,low,4,namecheap,,,17/09/2026 05:37
 15b55cb5-1403-42ad-8004-27fed5dec1ca,barnum.fan,available,57.98,68.98,medium,low,6,namecheap,,,22/09/2026 06:55
-f18231a3-4627-48bf-a339-cabf908bd2fc,compliance.fan,available,57.98,68.98,high,low,10,namecheap,,,23/09/2026 15:36
+f18231a3-4627-48bf-a339-cabf908bd2fc,compliance.fan,available,57.98,68.98,high,low,10,namecheap,,,28/09/2026 06:39
 fccfa428-4246-49da-bee3-faf1edf81146,nervous.fan,available,57.98,68.98,medium,low,7,namecheap,,,21/09/2026 22:02
 37208073-fb8a-43e2-8065-8a051693e019,answered.fan,available,57.98,68.98,high,low,8,namecheap,,,25/09/2026 16:54
 a0e55158-2121-45a5-8715-ea03275de791,neapolitan.fan,available,57.98,68.98,medium,low,10,namecheap,,,03/09/2026 14:18
@@ -145,12 +146,14 @@ cd868181-8818-427b-a3e8-82ef0ecce282,prochoice.fan,available,57.98,68.98,high,lo
 de274afa-9dc5-4ec0-989d-281e701b9e59,effectual.fan,available,11.99,71.99,high,low,9,name.com,,,15/08/2026 14:20
 46ee95d3-4212-4273-ac79-dde886313bd2,hopkins.fan,premium,128.7,128.7,high,low,7,namecheap,,,19/09/2026 13:42
 5b06ff24-ad32-49c0-95c2-daffb0c33122,ninth.fan,available,11.99,71.99,high,low,5,name.com,,,
+8c45bad4-4402-4dad-9c26-60febdebe047,knox.fan,available,6.64,45.16,high,low,4,dynadot,,,28/09/2026 06:06
 f6dd5298-3b10-4d87-9372-17762384c305,answer.fan,available,11.99,,high,low,6,name.com,,,
 4ebb03ef-523b-4347-95fa-b2d39f996077,evolve.fan,available,11.99,,high,low,6,name.com,,,
 fabd3019-4c1e-4c74-ad69-b8af3e68180f,homicide.fan,available,57.98,68.98,medium,low,8,namecheap,,,25/09/2026 07:26
 71443e15-29af-4523-8f44-7c7376df3f42,batty.fan,available,11.99,71.99,medium,low,5,name.com,,,06/08/2026 20:35
 b9e7352a-0f40-42ea-ba2b-4f1ff63352ab,holla.fan,available,57.98,68.98,high,low,5,namecheap,,,23/09/2026 06:19
 c326f08e-a59f-405a-89c5-ef0bc72ff32c,adapid.fan,available,57.98,68.98,low,low,6,namecheap,,,17/09/2026 06:24
+e34e3364-c33a-4dfa-a5ab-a7d5603d64f9,intercept.fan,available,43.67,43.67,high,low,9,spaceship,,,28/09/2026 06:03
 5ab33afe-ff78-4a69-8ceb-f7cdb88af097,acoustic.fan,available,11.99,71.99,high,low,8,name.com,,,
 09fd27da-63a3-436b-9203-753ccc1c6589,adenium.fan,available,57.98,68.98,medium,low,7,namecheap,,,17/09/2026 07:28
 2be85ed3-d800-4ad3-90ce-2ec4a815f41f,andes.fan,available,11.99,71.99,high,low,5,name.com,,,19/09/2026 04:04
@@ -160,7 +163,7 @@ f47f2c2b-ecc0-48cc-b7cb-8f49e75c0f9f,feeler.fan,available,57.98,68.98,medium,low
 4ff7e184-9815-4a41-8325-a25aa75e8bb0,slowly.fan,available,11.99,71.99,medium,low,6,name.com,,,22/08/2026 23:55
 07ba80e8-3eb7-4ffe-a477-3f3b82f0e8ed,pee.fan,available,11.99,71.99,medium,low,3,name.com,,,13/09/2026 09:51
 c766a7d1-fbc8-474d-9495-63d68a17f157,backslash.fan,available,11.99,,high,low,9,name.com,,,
-a9b15ce2-c420-408c-8c7b-4080784e1c57,health.fan,premium,260,260,high,medium,6,namecheap,,,23/09/2026 08:29
+a9b15ce2-c420-408c-8c7b-4080784e1c57,health.fan,premium,207.2,207.2,high,medium,6,spaceship,,,28/09/2026 03:06
 8544be4f-f985-4cd0-97fe-0bd6e1a1d5e2,refrigerator.fan,available,11.99,,high,low,12,name.com,,,
 40fffc0e-e56e-4e57-8c92-91ec263b8431,belly.fan,available,57.98,68.98,high,low,5,namecheap,,,16/09/2026 14:48
 002d7626-0a0f-4482-8b2d-5cdea9cae980,philippine.fan,available,11.99,71.99,high,low,10,name.com,,,18/08/2026 04:21
@@ -197,7 +200,7 @@ e720fd6d-ade0-47ce-aa2d-230f59501827,plastered.fan,available,11.99,71.99,medium,
 ad38b5c2-b793-4f6a-b015-9fa15141bd97,furthest.fan,available,57.98,68.98,medium,low,8,namecheap,,,24/09/2026 17:07
 c39a5103-33e7-4bf5-9339-526fa9ee4acd,firing.fan,available,57.98,68.98,high,low,6,namecheap,,,27/09/2026 03:58
 ab5fc79f-0e49-4831-90e8-06a408675869,pipes.fan,available,43.67,43.67,high,low,5,spaceship,,,27/09/2026 22:20
-49e1a8da-1e1f-49b3-862f-070beb32930c,clothing.fan,premium,128.7,128.7,high,low,8,namecheap,,,23/09/2026 08:13
+49e1a8da-1e1f-49b3-862f-070beb32930c,clothing.fan,premium,102.67,102.67,high,low,8,spaceship,,,28/09/2026 04:12
 5ff56938-ccba-47c4-924d-04952b47f48e,hysteric.fan,available,11.99,71.99,medium,low,8,name.com,,,21/08/2026 17:20
 90287293-8c8a-4aed-ae7c-63b83cb109f6,spring.fan,premium,260,260,high,medium,6,namecheap,,,23/09/2026 01:43
 555157a0-26dc-4f42-8ee1-774f531b6911,dourly.fan,available,57.98,68.98,low,low,6,namecheap,,,14/09/2026 13:56
@@ -273,7 +276,7 @@ dbeff21a-7dbb-4591-80c1-997d6363f5b2,alhaytham.fan,available,57.98,68.98,medium,
 35cec212-20a8-4bb0-8089-a5340a0b6081,punishing.fan,available,11.99,71.99,high,low,9,name.com,,,06/08/2026 17:10
 2614cf28-0263-4637-be57-166dde3e8859,lunt.fan,available,57.98,68.98,medium,low,4,namecheap,,,18/09/2026 06:40
 5f9d2257-73bb-4dd8-b54e-66162a3113e2,transaction.fan,available,6.69,43.77,high,low,11,porkbun,,,28/09/2026 02:31
-97e49f1d-44b3-44cd-b5b8-b49b24977d90,videogames.fan,premium,128.7,128.7,medium,low,11,namecheap,,,23/09/2026 20:46
+97e49f1d-44b3-44cd-b5b8-b49b24977d90,videogames.fan,premium,102.67,102.67,medium,low,11,spaceship,,,28/09/2026 06:42
 9b52a298-01f6-4211-9396-0c192ca842f7,napkins.fan,available,11.99,71.99,medium,low,7,name.com,,,21/09/2026 05:52
 e6d89e9f-93bd-47ff-8c13-7a0c26c0d36e,adagio.fan,available,11.99,71.99,high,low,6,name.com,,,
 7686ba97-5737-4134-809a-acb49797eb9e,zymotic.fan,available,57.98,68.98,medium,low,7,namecheap,,,13/09/2026 15:57
@@ -304,7 +307,9 @@ da7859f1-e533-4205-9333-dcb63ff3955c,highschool.fan,available,11.99,,high,low,10
 4b770770-f386-4280-b0e9-76ccda6cfb92,heartleaf.fan,available,57.98,68.98,medium,low,9,namecheap,,,20/09/2026 12:53
 1b6e8a29-6696-4104-9f27-a0e4b58ceb5f,antitype.fan,available,57.98,68.98,medium,low,8,namecheap,,,19/09/2026 15:14
 44fb30f5-8da4-4dca-a2b7-56d3b72f1952,acanthurus.fan,available,57.98,68.98,medium,low,10,namecheap,,,16/09/2026 20:58
+249f376b-df5a-4a52-9ba3-071f080656fe,costumes.fan,available,6.64,45.16,medium,low,8,dynadot,,,28/09/2026 05:07
 8bcd56a7-55d2-442f-8d50-1141ef00dc21,employed.fan,available,11.99,71.99,high,low,8,name.com,,,16/08/2026 18:24
+a8d74f86-3a53-410d-9e0e-adf83f46c00e,hallway.fan,available,42.2,42.2,high,low,7,cloudflare,,,28/09/2026 05:56
 4691a7de-01f7-4092-832b-7df4c0f49691,region.fan,available,11.99,,high,low,6,name.com,,,
 12001a7c-5250-474d-82e4-2f644ae9e3dd,dogmatism.fan,available,57.98,68.98,medium,low,9,namecheap,,,23/09/2026 15:23
 692a1473-be41-4282-bfd2-5b7bcda11b9f,snarl.fan,available,11.99,71.99,medium,low,5,name.com,,,24/08/2026 16:56
@@ -316,11 +321,12 @@ bb20dfd6-2d5b-4352-8062-e42e545ccf66,ourselves.fan,available,57.98,68.98,medium,
 04c93a68-14ff-42f9-a5f7-9af616ff6c00,dormant.fan,available,11.99,71.99,high,low,7,name.com,,,
 c1b67841-87a4-4239-9e72-c8b4e5d7eba5,ithaca.fan,available,42.2,42.2,high,low,6,cloudflare,,,27/09/2026 14:23
 bd6c8e4a-51bb-46ba-9e6d-cad145d251d9,height.fan,available,57.98,68.98,high,low,6,namecheap,,,25/09/2026 19:39
-0df9bf57-15ca-471e-a715-ab736493d018,footwear.fan,available,57.98,68.98,high,low,8,namecheap,,,24/09/2026 02:34
+0df9bf57-15ca-471e-a715-ab736493d018,footwear.fan,available,42.2,42.2,high,low,8,cloudflare,,,28/09/2026 05:26
 2d092419-3cb1-4f3a-9117-3329201b2eff,somersault.fan,available,11.99,71.99,high,low,10,name.com,,,18/08/2026 08:25
 5df55dd1-1168-4a36-bab0-e693af9bbfe1,pane.fan,available,57.98,68.98,high,low,4,namecheap,,,21/09/2026 14:30
 75f609b7-3740-4bc7-b898-ed2350a62668,lightwood.fan,available,57.98,68.98,medium,low,9,namecheap,,,16/09/2026 20:15
 f1d6012f-9a89-43e6-b0d9-90a46e93f02e,eyry.fan,available,11.99,71.99,high,low,4,name.com,,,
+a3dfcecf-b596-4e49-bcaa-a3dade09cf8a,notified.fan,available,43.67,43.67,medium,low,8,spaceship,,,28/09/2026 05:08
 033a1a65-b120-4cf7-b638-82070f2179c2,picture.fan,available,57.98,68.98,high,low,7,namecheap,,,24/09/2026 16:54
 1d38665e-716c-4804-91d0-16c7583eb59d,tautly.fan,available,57.98,68.98,medium,low,6,namecheap,,,16/09/2026 08:09
 d23b7a77-d1fa-48b6-b81b-9698798065cd,intrusive.fan,available,11.99,71.99,high,low,9,name.com,,,22/08/2026 08:49
@@ -358,7 +364,7 @@ e49d9112-cec4-4bf4-90cc-ed691ee9f871,scrubby.fan,available,57.98,68.98,medium,lo
 ebc0bfa7-9756-4e41-b227-b5dbdc462899,antimony.fan,available,57.98,68.98,medium,low,8,namecheap,,,19/09/2026 14:45
 5893670b-d4d0-4778-9d07-e467e0c8b2c0,taxi.fan,premium,260,260,high,low,4,namecheap,,,24/09/2026 11:29
 53d8e970-2a0d-4296-98bb-b12270d6b2dd,henrietta.fan,available,57.98,68.98,high,low,9,namecheap,,,25/09/2026 17:42
-332a32a7-19c3-4522-ac08-af40f83eadfd,acquisition.fan,available,57.98,68.98,high,low,11,namecheap,,,24/09/2026 02:35
+332a32a7-19c3-4522-ac08-af40f83eadfd,acquisition.fan,available,43.67,43.67,high,low,11,spaceship,,,28/09/2026 05:29
 aa130948-b177-4c75-9467-9f00413d0b60,liveness.fan,available,57.98,68.98,high,low,8,namecheap,,,19/09/2026 09:04
 ca0f37e1-5663-4d63-ad02-64fe2923e59e,swinburne.fan,available,57.98,68.98,medium,low,9,namecheap,,,18/09/2026 07:03
 a773eee0-9b29-4b30-8cc8-531d9970f698,brighten.fan,available,11.99,,high,low,8,name.com,,,
@@ -399,6 +405,7 @@ d4923b7b-3781-4120-8c11-bed34635b33b,polemist.fan,available,57.98,68.98,medium,l
 ca46a283-81e7-46aa-b2cd-dd758e326815,sanctum.fan,available,11.99,71.99,high,low,7,name.com,,,21/08/2026 10:47
 7f862876-fb51-49f9-acd9-dba136f47b2c,pentium.fan,available,11.99,,high,low,7,name.com,,,
 6734c219-7cf1-402c-9445-3e77404e0d00,scars.fan,available,57.98,68.98,medium,low,5,namecheap,,,20/09/2026 11:02
+beed6363-5c42-436a-ada7-cfe1de94c709,guerrero.fan,available,43.67,43.67,high,low,8,spaceship,,,28/09/2026 04:07
 9b1b1a8d-8ba5-4964-8e1f-5bf9eb7dd4b2,unwise.fan,available,57.98,68.98,medium,low,6,namecheap,,,12/09/2026 22:42
 27182666-8ca3-472c-8b47-744c142ed891,femoral.fan,available,11.99,71.99,medium,low,7,name.com,,,18/08/2026 01:05
 50c91939-0e6f-443b-9ac9-7d02a9514af3,resonating.fan,available,43.67,43.67,high,low,10,spaceship,,,27/09/2026 12:29
@@ -409,6 +416,7 @@ ae6a7eea-fafb-41a9-8a74-8ee31ad99c0d,idyl.fan,available,57.98,68.98,high,low,4,n
 4b994994-f247-4f3e-9fff-8199c8a6b82b,tractable.fan,available,11.99,71.99,medium,low,9,name.com,,,24/08/2026 15:10
 9424e86f-b007-44dc-b0e9-3c5953e1f52c,checking.fan,available,57.98,68.98,high,low,8,namecheap,,,25/09/2026 12:11
 3356c571-76db-4308-8699-b6b9760ebef3,steakhouse.fan,available,57.98,68.98,high,low,10,namecheap,,,24/09/2026 14:46
+35766865-3a5d-4475-8cd9-dfc0bba41044,columbus.fan,premium,207.2,207.2,high,low,8,spaceship,,,28/09/2026 05:23
 4bc42f4b-f8a1-4ce7-a212-7f7eaa3b667e,antoninus.fan,available,57.98,68.98,medium,low,9,namecheap,,,19/09/2026 15:34
 fad0646d-1d57-43d5-9f55-ea345805be0d,clothes.fan,available,11.99,,high,low,7,name.com,,,
 182c2144-2d5b-440d-bb75-7ff1c7b3a6b0,flatness.fan,available,11.99,71.99,medium,low,8,name.com,,,24/08/2026 17:17
@@ -442,7 +450,7 @@ f0746cd9-18c9-4a81-bad5-52dd8232d72a,partizan.fan,available,57.98,68.98,high,low
 0b39fd07-e6b8-4827-9f5f-998f6fb3ad3b,ambrosian.fan,available,11.99,71.99,medium,low,9,name.com,,,
 21f9fe66-e0a2-459f-be2d-d32a5fbd10b4,anarchist.fan,available,57.98,68.98,high,low,9,namecheap,,,19/09/2026 02:24
 9f4aff3b-441b-4649-985f-522e24a957f5,dorchester.fan,available,57.98,68.98,medium,low,10,namecheap,,,27/09/2026 07:30
-97803553-6781-41e8-bbc2-a87d1030f8a5,natural.fan,available,57.98,68.98,high,low,7,namecheap,,,08/09/2026 12:12
+97803553-6781-41e8-bbc2-a87d1030f8a5,natural.fan,available,6.69,43.77,high,low,7,porkbun,,,28/09/2026 04:26
 96c5472b-edae-4a82-aa46-b866f93f9f72,childlike.fan,available,11.99,71.99,medium,low,9,name.com,,,12/08/2026 05:12
 cb0b3e7f-2266-45e4-8ad6-19fc016eb306,multiple.fan,available,11.99,,high,low,8,name.com,,,25/09/2026 22:06
 948b402a-73b6-4eaa-8005-6d6e6d23c354,scorched.fan,available,11.99,71.99,medium,low,8,name.com,,,
@@ -466,16 +474,19 @@ ed248dbb-5264-45e3-a575-8f690cad3148,tersely.fan,available,57.98,68.98,medium,lo
 c837c2a7-090d-4770-8d2c-8a0bbaabdb04,armillary.fan,available,11.99,71.99,medium,low,9,name.com,,,06/08/2026 19:44
 9cde4772-aae9-4c62-9486-22cb23704587,alteration.fan,available,57.98,68.98,high,low,10,namecheap,,,18/09/2026 14:42
 ac262c7e-1946-4b2a-9a82-236e73651f8f,jolly.fan,available,57.98,68.98,high,low,5,namecheap,,,25/09/2026 11:52
+820c9f21-5430-4504-995a-0446dc77ad16,storing.fan,available,42.2,42.2,high,low,7,cloudflare,,,28/09/2026 02:45
 bef5a19e-2563-40b9-be60-a997edd6460b,watercress.fan,available,11.99,71.99,medium,low,10,name.com,,,13/08/2026 06:18
 812b04f2-ea01-4c60-b8e3-cfd1ba70d112,entirely.fan,available,11.99,71.99,high,low,8,name.com,,,
 386e3b82-e3e6-48fe-ac80-9895277941bd,similitude.fan,available,57.98,68.98,medium,low,10,namecheap,,,18/09/2026 07:51
 829c134a-57ea-49a0-b0c5-a0625a51132c,esophageal.fan,available,11.99,71.99,medium,low,10,name.com,,,17/08/2026 13:16
+4cad3fb8-c48d-4dce-a102-3012dc6fc793,alfredo.fan,premium,85.8,85.8,high,low,7,namecheap,,,28/09/2026 04:35
 ecb09bd0-3311-445c-9a92-9295f4f88440,ineffable.fan,available,11.99,71.99,high,low,9,name.com,,,22/08/2026 02:45
 0b258904-9af0-4381-a2ac-cc6c3e11c7d8,moderating.fan,available,11.99,71.99,medium,low,10,name.com,,,25/08/2026 02:56
 d2cab666-13e7-452a-a0d5-9a745967eac1,deity.fan,available,57.98,68.98,high,low,5,namecheap,,,24/09/2026 21:23
 f9959fed-9a5c-44f8-8027-d20f980074f8,roaring.fan,available,11.99,71.99,high,low,7,name.com,,,10/08/2026 19:21
 e8728609-4c0a-48cb-871f-9a2113012761,russet.fan,available,57.98,68.98,high,low,6,namecheap,,,09/09/2026 20:06
 26f75687-32fe-40a7-9eb2-c6f7632033e2,scrutinize.fan,available,57.98,68.98,high,low,10,namecheap,,,21/09/2026 03:06
+fd9055f3-684f-40ef-8e79-ba34be286760,seward.fan,available,43.67,43.67,high,low,6,spaceship,,,28/09/2026 03:05
 240b55b3-0172-4d63-8c9f-20768f422c29,becomingly.fan,available,57.98,68.98,medium,low,10,namecheap,,,13/09/2026 23:45
 d31c7690-5bcf-4593-b808-ce4013986ad5,beekeeping.fan,premium,128.7,128.7,high,low,10,namecheap,,,19/09/2026 17:24
 f4573636-9424-45d3-92c5-f0678d80a751,universally.fan,available,11.99,,high,low,11,name.com,,,
@@ -548,6 +559,7 @@ de1ad99f-aa89-437e-b51b-c347ed0fd866,drugless.fan,available,11.99,71.99,medium,l
 352a09e4-1254-4dbe-b46e-df6f94873717,amah.fan,available,57.98,68.98,medium,low,4,namecheap,,,18/09/2026 15:37
 911185b8-5191-4cdc-8f69-c7bea7e72bf9,corpulent.fan,available,11.99,71.99,medium,low,9,name.com,,,13/08/2026 01:57
 1b510930-dde4-44cd-805a-f0287e9c416f,cellini.fan,available,57.98,68.98,medium,low,7,namecheap,,,23/09/2026 08:47
+32d060ec-f52b-45eb-b41f-9889aa9a66c3,compartment.fan,available,43.67,43.67,high,low,11,spaceship,,,28/09/2026 03:28
 884cf1a2-d840-424b-8472-242747b78630,classless.fan,available,11.99,71.99,high,low,9,name.com,,,12/08/2026 09:48
 9f54aebf-8be4-44bd-a462-5239120f8498,lamb.fan,premium,128.7,128.7,high,low,4,namecheap,,,27/09/2026 03:31
 22ac7775-7842-41e7-84e5-55391c683ad6,nonzero.fan,available,11.99,71.99,high,low,8,name.com,,,03/09/2026 18:39
@@ -557,6 +569,7 @@ e1ea14bb-509b-40f6-b243-de147f7f7da4,aquarium.fan,available,57.98,68.98,high,low
 382dacf0-e02c-4296-bff2-cfbfd6bdbcd5,endlessly.fan,available,57.98,68.98,high,low,9,namecheap,,,14/09/2026 06:09
 c47e1c67-466d-4bbb-b88a-83fceb9edc6a,unpaired.fan,available,57.98,68.98,medium,low,8,namecheap,,,12/09/2026 15:30
 9172296b-9410-41ff-8acd-86dfa2a354bf,supernal.fan,available,57.98,68.98,medium,low,8,namecheap,,,11/09/2026 02:23
+cb2e897e-f0b9-45d3-ac1b-a4c42fb8bb86,survivors.fan,available,43.67,43.67,high,low,9,spaceship,,,28/09/2026 05:06
 c05702c4-f3e2-42d8-911a-e11ca7354549,eyrie.fan,available,11.99,71.99,high,low,5,name.com,,,
 b728548c-5952-4ae7-b772-5ea32c9b9a46,inviolable.fan,available,11.99,71.99,medium,low,10,name.com,,,21/08/2026 23:02
 b2bc8117-342c-479f-b1f2-105b0d03ffd7,bedhead.fan,available,11.99,,medium,low,8,name.com,,,
@@ -577,6 +590,7 @@ d1e19551-8f35-4268-a983-193b9e808125,whiz.fan,available,57.98,68.98,high,low,4,n
 8d3ee2fb-442c-4995-9401-899848ca6987,willingly.fan,available,57.98,68.98,high,low,9,namecheap,,,16/09/2026 11:08
 2e7f27c3-47e6-45d6-a9fe-482e0fee3805,freshman.fan,available,11.99,71.99,high,low,8,name.com,,,18/08/2026 05:23
 0db3e5e9-738a-43fd-bc8d-f2fa322080e8,define.fan,available,57.98,68.98,high,low,6,namecheap,,,24/09/2026 05:41
+90f5c06e-b9b1-4621-b7b6-db5027cea156,olaf.fan,available,6.64,45.16,medium,low,4,dynadot,,,28/09/2026 07:48
 143a5b51-6ae5-47c1-aa43-e86b9d8161c8,daughter.fan,available,11.99,,high,low,8,name.com,,,
 c12401e0-a6de-401f-8775-9b3fbc03977a,anecdotal.fan,available,11.99,71.99,medium,low,9,name.com,,,
 01b08200-a7f3-488e-8cf6-fecaf1a0b714,mammary.fan,available,11.99,71.99,medium,low,7,name.com,,,24/08/2026 14:23
@@ -671,6 +685,7 @@ cf219921-8aa0-461a-a582-da5e8499d65f,laboring.fan,available,11.99,71.99,medium,l
 21ea3056-6386-448e-b9b0-034a200f211a,reassured.fan,available,57.98,68.98,high,low,9,namecheap,,,09/09/2026 11:12
 a959d77f-830e-43a2-ba04-d5fc0992cc8f,kurakkan.fan,available,57.98,68.98,medium,low,8,namecheap,,,17/09/2026 15:21
 fbb543a6-dcee-4e89-a000-3aeddae82d8e,biased.fan,available,11.99,71.99,medium,low,6,name.com,,,09/08/2026 18:36
+ecc2114d-36b4-4820-bbd1-becdedab4765,syrup.fan,available,42.2,42.2,high,low,5,cloudflare,,,28/09/2026 06:44
 4d5bc248-54ee-4758-9bfc-8917cf489989,inflated.fan,available,11.99,71.99,medium,low,8,name.com,,,21/08/2026 08:47
 6d2cad2c-a357-4f35-ad7d-2d3302c0de52,fuzzed.fan,available,11.99,71.99,medium,low,6,name.com,,,18/08/2026 19:20
 0126e136-a3e5-4d8f-b7cf-8c1d19f61ca5,progressive.fan,available,57.98,68.98,high,low,11,namecheap,,,19/09/2026 14:06
@@ -730,12 +745,14 @@ c07b40be-f9fb-4412-8425-7135095806c0,valley.fan,available,11.99,,high,low,6,name
 37a247a4-f3b1-4ba7-8d2c-be7bb64830b9,aruru.fan,available,57.98,68.98,medium,low,5,namecheap,,,20/09/2026 12:26
 4068724c-a983-4b4b-bb8c-4398070ea105,tantalize.fan,available,57.98,68.98,medium,low,9,namecheap,,,21/09/2026 19:52
 c6606abb-371f-41b2-86de-100cd0a5ca14,copula.fan,available,11.99,71.99,medium,low,6,name.com,,,13/08/2026 00:42
+7653b735-d7a1-41c2-92db-ef9c2e5e33e7,wanda.fan,premium,128.7,128.7,medium,low,5,namecheap,,,28/09/2026 07:42
 dfda3860-d77a-407f-aac0-2e4e514a9761,alkeran.fan,available,57.98,68.98,medium,low,7,namecheap,,,18/09/2026 08:31
 351fac1f-43f2-4651-8c08-05e2a4cb3c3c,column.fan,available,57.98,68.98,high,low,6,namecheap,,,19/09/2026 04:50
 cd9f6a20-5356-4745-8d16-10bb1a49ba82,mavin.fan,available,11.99,71.99,high,low,5,name.com,,,
 bcb14782-01ba-4b14-a443-3f7b703b7097,midautumn.fan,available,57.98,68.98,high,low,9,namecheap,,,17/09/2026 10:02
 ba530e93-89ce-48cc-bdbe-5c5ca39f745c,frunze.fan,available,57.98,68.98,medium,low,6,namecheap,,,23/09/2026 21:44
 f3ed6431-2811-47c2-93ab-9cb164c54687,courage.fan,available,11.99,,high,low,7,name.com,,,
+da6e08ec-54ab-48ea-a716-b3cd914df2ed,suitcase.fan,available,43.67,43.67,high,low,8,spaceship,,,28/09/2026 06:48
 66886201-0712-4ad4-a010-c01f7843ac6c,coastward.fan,available,57.98,68.98,medium,low,9,namecheap,,,14/09/2026 07:23
 1f9da4aa-0000-4a03-b793-cdb78e4c78fa,roast.fan,available,43.67,43.67,high,low,5,spaceship,,,27/09/2026 15:46
 b7a9f40f-e4c3-49e4-904a-e99be52ea7d0,astute.fan,available,57.98,68.98,high,low,6,namecheap,,,22/09/2026 10:35
@@ -798,6 +815,7 @@ f7daa6e7-5dc5-45ca-893c-c7639eaaac1d,gate.fan,resell,,,high,low,4,"Xiamen ChinaS
 bbecdd09-ba0f-451c-9eb2-45edb74bd711,lerner.fan,available,57.98,68.98,high,low,6,namecheap,,,18/09/2026 01:44
 a4dc1182-be29-47a0-81d5-3c9727bb1240,disease.fan,available,11.99,,high,low,7,name.com,,,
 67557148-56c5-4b0f-80c7-4a0116f70b97,ethyne.fan,available,57.98,68.98,medium,low,6,namecheap,,,17/09/2026 00:23
+bc36d0cf-f2d3-459b-b744-d72804e3979a,potentially.fan,available,57.98,68.98,medium,low,11,namecheap,,,28/09/2026 07:08
 a0048090-5b29-4a16-a21b-af92efa23665,frosty.fan,available,11.99,71.99,high,low,6,name.com,,,18/08/2026 16:26
 06c3dd98-8f94-4e31-9ea0-b6bbe3333561,bonzer.fan,available,11.99,71.99,medium,low,6,name.com,,,10/08/2026 19:02
 26bf082e-f942-4f18-93b8-57f1393d8f67,haircut.fan,available,11.99,,high,low,7,name.com,,,
@@ -845,10 +863,13 @@ c8102598-5022-4240-8563-8f4aac8484c1,fordham.fan,available,57.98,68.98,medium,lo
 02ce6fb8-42a4-4d8a-bac4-53d3d780bff4,centrical.fan,available,11.99,71.99,medium,low,9,name.com,,,12/08/2026 00:12
 65af3f6c-9364-4cb3-b39e-d0de9bae38e7,pragmatic.fan,available,11.99,71.99,high,low,9,name.com,,,21/08/2026 00:30
 67265a3a-1d22-4d7d-8dd8-85c05b17be76,demoralize.fan,available,11.99,71.99,medium,low,10,name.com,,,13/08/2026 02:16
+487639ba-3617-41f1-adcd-f4cb7e5beefd,npr.fan,available,43.67,43.67,high,low,3,spaceship,,,28/09/2026 07:36
 a608438c-4bae-43b0-9b8a-76bfe563189b,job.fan,premium,250,,high,low,3,name.com,,,
 e7505958-4772-4e18-8987-41a48cb3a2ab,receipts.fan,available,11.99,,high,low,8,name.com,,,
 d061ccc6-8bca-460c-b597-9e87f6426b80,pounds.fan,available,57.98,68.98,medium,low,6,namecheap,,,18/09/2026 01:51
 24533679-4e5a-43fb-ab49-6163ce8a24c5,showcase.fan,available,11.99,,high,low,8,name.com,,,
+0fbca32e-a4a7-451e-b994-40ee29b09092,marker.fan,available,6.69,43.77,high,low,6,porkbun,,,28/09/2026 06:21
+2349754e-7fa2-48f1-b8ce-0b57a9898ad6,judith.fan,premium,102.67,102.67,high,low,6,spaceship,,,28/09/2026 05:18
 0cfe14df-56e3-40d8-8f4c-b342d59aced2,badmouth.fan,available,11.99,71.99,medium,low,8,name.com,,,24/08/2026 14:04
 f5399763-dc0b-4adf-af87-70aa686756a5,alnico.fan,available,57.98,68.98,medium,low,6,namecheap,,,18/09/2026 12:50
 2bff94ec-6d2f-44b2-9140-4f2db888fbe1,dragged.fan,available,11.99,71.99,medium,low,7,name.com,,,27/09/2026 10:34
@@ -897,7 +918,7 @@ e4bf04c8-0eae-4db5-a207-b4461f901fec,arak.fan,available,57.98,68.98,medium,low,4
 424d8af4-2565-456b-a8ea-9be3c6897257,finds.fan,available,57.98,68.98,high,low,5,namecheap,,,18/09/2026 15:38
 4f2f8bec-0043-4b35-bf56-69cbc2b05d84,packsack.fan,available,11.99,71.99,medium,low,8,name.com,,,21/09/2026 14:40
 f8614e1a-8c9e-47f9-b626-7f627636a328,handling.fan,available,57.98,68.98,high,low,8,namecheap,,,25/09/2026 23:04
-37999b39-5899-4df7-aee1-b4d2b5d05374,unified.fan,available,11.99,71.99,high,low,7,name.com,,,13/08/2026 00:16
+37999b39-5899-4df7-aee1-b4d2b5d05374,unified.fan,available,6.69,43.77,high,low,7,porkbun,,,28/09/2026 07:49
 a2e4e71d-bd7a-4de1-ae6e-65273ab45aff,conscious.fan,available,57.98,68.98,high,low,9,namecheap,,,23/09/2026 20:38
 6c7b49c3-f07c-4132-9813-49b68ce0d3f6,trends.fan,available,57.98,68.98,high,low,6,namecheap,,,17/09/2026 19:12
 86a16fbf-16ed-45a7-ae68-4073c8c89888,distaste.fan,available,57.98,68.98,medium,low,8,namecheap,,,19/09/2026 14:55
@@ -910,6 +931,7 @@ dd15fd6f-1957-4201-9ce9-f1a51daa0a85,aramus.fan,available,57.98,68.98,medium,low
 50942b4f-4480-49b1-b6e0-662b72eadee8,grumbling.fan,available,11.99,71.99,medium,low,9,name.com,,,20/08/2026 20:33
 f9e0319c-0989-4ab9-a275-08fb10bd34d2,ligands.fan,available,43.67,43.67,medium,low,7,spaceship,,,28/09/2026 00:44
 34a87795-e63e-4802-ac88-e7d470d88299,beadwork.fan,available,57.98,68.98,high,low,8,namecheap,,,22/09/2026 19:29
+e43b8e06-2f46-4f3b-9e60-52015cd23590,royalty.fan,available,57.98,68.98,high,low,7,namecheap,,,28/09/2026 06:43
 6eceb5fb-c705-4b89-ab92-4c4db2b38b6c,trasimeno.fan,available,11.99,71.99,medium,low,9,name.com,,,22/09/2026 16:12
 4374c5e5-beb0-4d58-b249-bfecf3d7e21b,walters.fan,premium,85.8,85.8,medium,low,7,namecheap,,,25/09/2026 15:56
 085cedcb-60ce-463c-ba07-7980d72accf2,basseterre.fan,available,57.98,68.98,medium,low,10,namecheap,,,22/09/2026 12:18
@@ -951,8 +973,9 @@ e3aa61d3-b34f-4491-9b32-4f5472868f4d,mannish.fan,available,11.99,71.99,medium,lo
 2bb6bb15-6be7-452d-95a5-b85f483f7a10,fibre.fan,available,11.99,,high,low,5,name.com,,,
 6222efd8-7207-4e47-b228-2d8e4e43a2d0,tabular.fan,available,57.98,68.98,high,low,7,namecheap,,,11/09/2026 06:55
 703dbba2-f22c-428f-9531-6a0d88aaec0a,volcano.fan,available,11.99,,high,low,7,name.com,,,
-1da4a7e4-9017-4a02-a516-705c5d0c7952,entertainment.fan,premium,128.7,128.7,high,low,13,namecheap,,,25/09/2026 02:31
+1da4a7e4-9017-4a02-a516-705c5d0c7952,entertainment.fan,premium,128.7,128.7,high,low,13,namecheap,,,28/09/2026 03:35
 fff4a714-d373-4002-aba9-efc930b4793e,ghostlike.fan,available,11.99,71.99,medium,low,9,name.com,,,06/08/2026 05:23
+4b4d7af4-7109-4aa1-b107-3d14847a702c,celia.fan,available,6.64,45.16,high,low,5,dynadot,,,28/09/2026 03:52
 68cfd397-559e-45ae-9313-e7bdbd749989,tarragon.fan,available,11.99,71.99,high,low,8,name.com,,,20/09/2026 10:17
 71b4ef6f-6d61-49fa-a408-7936a2b38292,calculated.fan,available,11.99,71.99,high,low,10,name.com,,,11/08/2026 13:58
 a9a4c5fd-ea4e-48f7-8c83-f02a0a11952a,farcical.fan,available,11.99,71.99,medium,low,8,name.com,,,17/08/2026 22:30
@@ -967,6 +990,7 @@ ce2c2cdc-5ccb-4fa4-a09c-1884cf4281fc,adelie.fan,available,57.98,68.98,medium,low
 2cf692c9-b9ec-4b82-a806-aae0d6c0ac95,executed.fan,available,11.99,71.99,high,low,8,name.com,,,17/08/2026 16:55
 2aed73ab-02ca-45d1-a643-daca95d78c39,harquebus.fan,available,57.98,68.98,medium,low,9,namecheap,,,20/09/2026 08:40
 e21712e2-6e38-4f81-b746-06cc3369d4f0,mistreat.fan,available,57.98,68.98,medium,low,8,namecheap,,,16/09/2026 19:06
+5624ffcc-077e-46ab-ac26-20cef861fcff,pradesh.fan,available,43.67,43.67,high,low,7,spaceship,,,28/09/2026 03:36
 ecf630fc-3f62-4199-9375-4ef65b149cdb,tranquil.fan,available,11.99,71.99,high,low,8,name.com,,,11/08/2026 14:53
 86de00ea-9a9c-4c1e-959e-a0937a32cab7,nickelodeon.fan,available,11.99,,high,low,11,name.com,,,
 090cd2e5-8988-48b3-908a-e55320bc3cce,antifungal.fan,available,11.99,71.99,medium,low,10,name.com,,,
@@ -975,27 +999,3 @@ ecf630fc-3f62-4199-9375-4ef65b149cdb,tranquil.fan,available,11.99,71.99,high,low
 168c97cf-a1a6-4467-ba42-e76711c53d68,emotion.fan,available,11.99,,high,low,7,name.com,,,
 227b571e-f7b4-4b8c-b6ec-ae94260a45f2,chem.fan,available,57.98,68.98,high,low,4,namecheap,,,18/09/2026 00:59
 326f61a6-3bca-4c0e-8073-1f2ceeba9a03,diamantine.fan,available,11.99,71.99,medium,low,10,name.com,,,14/08/2026 05:52
-3af57047-700e-403a-ad27-9144c5c359f3,through.fan,available,57.98,68.98,high,low,7,namecheap,,,24/09/2026 11:40
-7d49f407-63a8-4ed5-b6e2-c28955eca9c8,international.fan,premium,128.7,128.7,high,medium,13,namecheap,,,25/09/2026 11:34
-6e0a8c27-b4e1-4e6c-9602-d5fe381db1a9,barrymore.fan,available,57.98,68.98,medium,low,9,namecheap,,,22/09/2026 08:52
-2b894331-4aab-4eac-8b77-8ba06c653232,bid.fan,premium,123.75,,high,low,3,name.com,,,
-8dc5f89f-5364-4600-a42f-df3725c31dee,crisscross.fan,available,11.99,71.99,high,low,10,name.com,,,13/08/2026 07:25
-72efbb9c-0772-4ff5-93e6-4a9ccc45c223,voiceless.fan,available,11.99,71.99,medium,low,9,name.com,,,05/08/2026 23:23
-88a057dc-8faa-4022-bc1b-4554fc31c7b1,explicit.fan,available,11.99,71.99,high,low,8,name.com,,,17/08/2026 18:24
-81dcee4d-494e-47c8-a80d-79cc05e53749,baggy.fan,available,57.98,68.98,high,low,5,namecheap,,,22/09/2026 16:21
-bfa40f54-5927-40fa-a11a-932668f7bc9a,petallike.fan,available,57.98,68.98,medium,low,9,namecheap,,,08/09/2026 18:13
-310010a9-7e74-42dc-a548-22a3425c9974,ostensive.fan,available,57.98,68.98,medium,low,9,namecheap,,,04/09/2026 18:31
-9ec1335b-a6e0-4f31-b81d-1ba192f8681e,kilo.fan,available,11.99,,high,low,4,name.com,,,
-d632d2f3-def2-4f43-b409-7ed8f013c8ef,emotional.fan,premium,123.75,123.75,high,low,9,name.com,,,16/08/2026 15:56
-e5f8261f-f398-4e7d-9ed7-da9bad0062c6,philips.fan,available,,,high,medium,7,,,,
-3d8435a8-647b-4462-a2a9-cd0650141584,sassy.fan,available,57.98,68.98,high,low,5,namecheap,,,04/09/2026 20:24
-4b7e7cf4-2934-4983-b7d7-65b8ca015a0c,aflatoxin.fan,available,57.98,68.98,medium,low,9,namecheap,,,17/09/2026 15:06
-ffa10067-4369-49ca-b56a-a9fa7ce1d515,unaided.fan,available,57.98,68.98,medium,low,7,namecheap,,,12/09/2026 00:13
-5089174d-3798-405e-9a95-be3f099d5d08,encamp.fan,available,11.99,71.99,medium,low,6,name.com,,,11/08/2026 15:56
-269bda7b-32a7-47ab-918e-a5e233210147,lifelessly.fan,available,11.99,71.99,low,low,10,name.com,,,13/08/2026 19:35
-3ffc62a8-a088-40b6-bbc6-57224de8346a,caisson.fan,available,57.98,68.98,high,low,7,namecheap,,,18/09/2026 22:17
-99a64983-46ae-4932-8fd0-23099cfb5d02,imagine.fan,available,11.99,,high,medium,7,name.com,,,
-155fb841-70fb-4cc7-834e-95d3461b7831,sponge.fan,available,11.99,71.99,high,low,6,name.com,,,11/08/2026 09:32
-ddd65b8a-d3d4-4e36-8f84-95c87290122b,fiduciary.fan,available,11.99,71.99,high,low,9,name.com,,,18/08/2026 03:39
-af4992c4-46f9-4932-854f-82804060fb29,phony.fan,available,11.99,71.99,medium,low,5,name.com,,,08/08/2026 23:09
-425cb0ce-0a0a-43d9-b858-6acec7826bb7,victories.fan,available,57.98,68.98,medium,low,9,namecheap,,,18/09/2026 09:23

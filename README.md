@@ -1,10 +1,10 @@
-# Available .FAN One-Word Domains (23,042)
+# Available .FAN One-Word Domains (23,574)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C042%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C574%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .fan one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,042 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,574 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,042 domains · **Median ask:** $46.38 · **High-demand under $2,500:** 9
+**Public extract:** 1,000 rows · **Live catalog:** 23,574 domains · **Median ask:** $46.37 · **High-demand under $2,500:** 9
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/fan`
@@ -68,22 +68,22 @@ print(df.head())
 | gate.fan | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | aas.fan  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                    |
 | cot.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
-| bid.fan  | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
-| cut.fan  | available | $57.98    | $68.98        | high           | low    | 3      | namecheap                                    |
 | hal.fan  | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap                                    |
-| hid.fan  | available | $57.98    | $68.98        | medium         | low    | 3      | namecheap                                    |
+| cut.fan  | available | $57.98    | $68.98        | high           | low    | 3      | namecheap                                    |
 | job.fan  | premium   | $250      | —             | high           | low    | 3      | name.com                                     |
-| hum.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| hid.fan  | available | $57.98    | $68.98        | medium         | low    | 3      | namecheap                                    |
 | rob.fan  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                    |
-| let.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| hum.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
 | vet.fan  | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap                                    |
-| nun.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| let.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
 | beth.fan | premium   | $128.70   | $128.70       | medium         | low    | 4      | namecheap                                    |
-| nwo.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| npr.fan  | available | $43.67    | $43.67        | high           | low    | 3      | spaceship                                    |
 | dogs.fan | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap                                    |
-| pee.fan  | available | $11.99    | $71.99        | medium         | low    | 3      | name.com                                     |
+| nun.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
 | jane.fan | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap                                    |
-| sag.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| nwo.fan  | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| kyle.fan | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap                                    |
+| pee.fan  | available | $11.99    | $71.99        | medium         | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,042 live domains                        |
+| 1,000-row public sample | 23,574 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 9 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
