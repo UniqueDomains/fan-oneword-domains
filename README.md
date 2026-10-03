@@ -1,10 +1,10 @@
-# Available .FAN One-Word Domains (31,742)
+# Available .FAN One-Word Domains (34,045)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C742%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C045%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fan one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,742 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,045 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,742 domains · **Median ask:** $47.11 · **High-demand under $2,500:** 9
+**Public extract:** 1,000 rows · **Live catalog:** 34,045 domains · **Median ask:** $46.88 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/fan`
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | csi.fan  | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot    |
 | cot.fan  | available | $42.20    | $42.20        | high           | low    | 3      | cloudflare |
 | hal.fan  | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap  |
-| cut.fan  | available | $57.98    | $68.98        | high           | low    | 3      | namecheap  |
-| rob.fan  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap  |
 | epa.fan  | available | $43.67    | $43.67        | high           | low    | 3      | spaceship  |
-| ssa.fan  | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship  |
+| rob.fan  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap  |
 | esr.fan  | available | $6.69     | $43.77        | high           | low    | 3      | porkbun    |
-| ve.fan   | premium   | $414.20   | $414.20       | high           | low    | 3      | spaceship  |
+| ssa.fan  | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship  |
 | fbi.fan  | available | $6.64     | $45.16        | high           | low    | 3      | dynadot    |
-| beth.fan | premium   | $128.70   | $128.70       | medium         | low    | 4      | namecheap  |
+| ve.fan   | premium   | $414.20   | $414.20       | high           | low    | 3      | spaceship  |
 | foe.fan  | available | $43.67    | $43.67        | medium         | low    | 3      | spaceship  |
-| enid.fan | premium   | $102.67   | $102.67       | medium         | low    | 4      | spaceship  |
+| beth.fan | premium   | $128.70   | $128.70       | medium         | low    | 4      | namecheap  |
 | hid.fan  | available | $57.98    | $68.98        | medium         | low    | 3      | namecheap  |
+| enid.fan | premium   | $102.67   | $102.67       | medium         | low    | 4      | spaceship  |
+| hrt.fan  | available | $43.67    | $43.67        | high           | low    | 3      | spaceship  |
 | erie.fan | premium   | $207.20   | $207.20       | high           | medium | 4      | spaceship  |
-| ldp.fan  | available | $57.98    | $68.98        | high           | low    | 3      | namecheap  |
+| ksi.fan  | available | $43.67    | $43.67        | high           | low    | 3      | spaceship  |
 | jane.fan | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,742 live domains                        |
+| 1,000-row public sample | 34,045 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 9 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAN One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
